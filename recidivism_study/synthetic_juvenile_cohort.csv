@@ -1,0 +1,3001 @@
+youth_id,age,offender_status,prior_record,school_attendance,family_support,risk_score,risk_tier,intervention,recid_12m,recid_24m
+Y00000,13,Prior Record,1,0.758,7,50.4,Moderate,CBT,0,0
+Y00001,16,Prior Record,1,0.711,8,41.1,Moderate,Standard Supervision,0,1
+Y00002,16,First-Time,0,0.808,5,79.1,High,Vocational,1,1
+Y00003,15,First-Time,0,0.516,8,36.8,Low,Standard Supervision,0,0
+Y00004,15,Prior Record,1,0.696,2,93.8,High,Standard Supervision,0,0
+Y00005,17,First-Time,0,0.783,4,61.7,Moderate,Standard Supervision,0,0
+Y00006,13,Prior Record,1,0.828,5,75.8,High,Standard Supervision,1,1
+Y00007,16,First-Time,0,0.598,7,34.3,Low,Vocational,0,0
+Y00008,14,First-Time,0,0.728,9,21.6,Low,Vocational,0,0
+Y00009,13,Prior Record,1,0.636,5,86.8,High,CBT,0,0
+Y00010,15,First-Time,0,0.695,4,82.7,High,CBT,0,0
+Y00011,17,First-Time,0,0.952,4,68.2,High,Vocational,0,0
+Y00012,16,Prior Record,1,0.697,4,76.4,High,Vocational,0,0
+Y00013,16,Prior Record,1,0.618,10,63.6,Moderate,Tough Love,0,0
+Y00014,16,Prior Record,1,0.529,7,81.4,High,Tough Love,0,1
+Y00015,16,First-Time,0,0.901,8,18.6,Low,Vocational,0,0
+Y00016,15,First-Time,0,0.763,6,49.6,Moderate,Tough Love,1,1
+Y00017,13,Prior Record,1,0.464,5,91.4,High,Tough Love,1,1
+Y00018,17,First-Time,0,0.831,7,35.8,Low,Vocational,0,0
+Y00019,15,First-Time,0,0.51,5,73.4,High,Vocational,1,1
+Y00020,15,First-Time,0,0.844,5,38.8,Low,Vocational,0,0
+Y00021,14,First-Time,0,0.775,5,80.1,High,Standard Supervision,1,1
+Y00022,13,Prior Record,1,0.722,4,66.8,High,CBT,0,0
+Y00023,17,Prior Record,1,0.561,5,89.8,High,Tough Love,1,1
+Y00024,16,Prior Record,1,0.689,4,89.5,High,Vocational,0,0
+Y00025,16,First-Time,0,0.94,7,39.1,Low,Standard Supervision,1,1
+Y00026,15,First-Time,0,0.512,7,40.2,Moderate,CBT,0,1
+Y00027,17,First-Time,0,0.584,6,71.8,High,Standard Supervision,0,0
+Y00028,15,First-Time,0,0.522,4,72.9,High,CBT,0,0
+Y00029,15,First-Time,0,0.831,6,27.4,Low,CBT,0,0
+Y00030,15,First-Time,0,0.828,5,36.3,Low,CBT,0,0
+Y00031,14,First-Time,0,0.387,6,66.9,High,CBT,0,0
+Y00032,13,Prior Record,1,0.633,7,50.6,Moderate,Standard Supervision,0,0
+Y00033,15,Prior Record,1,0.449,3,97.9,High,Vocational,0,0
+Y00034,17,First-Time,0,0.804,10,27.3,Low,Standard Supervision,0,0
+Y00035,13,First-Time,0,0.492,6,81.9,High,CBT,0,0
+Y00036,17,Prior Record,1,0.542,6,92.7,High,Vocational,0,0
+Y00037,17,Prior Record,1,0.762,4,82.7,High,Standard Supervision,1,1
+Y00038,14,Prior Record,1,0.663,7,59.9,Moderate,Tough Love,0,0
+Y00039,16,First-Time,0,0.6,6,19.7,Low,Vocational,0,0
+Y00040,13,Prior Record,1,0.271,4,92.5,High,Standard Supervision,0,0
+Y00041,16,First-Time,0,0.653,5,81.8,High,CBT,0,0
+Y00042,16,First-Time,0,0.746,5,44.1,Moderate,Standard Supervision,1,1
+Y00043,14,First-Time,0,0.997,7,25.5,Low,Standard Supervision,1,1
+Y00044,13,First-Time,0,0.891,6,32.8,Low,Tough Love,1,1
+Y00045,17,First-Time,0,0.679,6,56.6,Moderate,Vocational,0,0
+Y00046,15,First-Time,0,0.906,5,67.0,High,Tough Love,1,1
+Y00047,17,Prior Record,1,0.628,4,75.4,High,Vocational,0,0
+Y00048,16,First-Time,0,0.792,5,34.5,Low,Tough Love,0,0
+Y00049,16,First-Time,0,0.952,7,50.9,Moderate,Tough Love,1,1
+Y00050,16,First-Time,0,0.484,7,62.7,Moderate,Standard Supervision,0,0
+Y00051,13,First-Time,0,0.651,8,31.9,Low,Standard Supervision,1,1
+Y00052,14,First-Time,0,0.762,6,71.1,High,CBT,0,0
+Y00053,15,First-Time,0,0.854,7,18.6,Low,CBT,0,0
+Y00054,15,First-Time,0,0.757,6,61.0,Moderate,Vocational,0,0
+Y00055,13,Prior Record,1,0.753,2,92.1,High,CBT,1,1
+Y00056,15,Prior Record,1,0.797,5,84.8,High,Tough Love,1,1
+Y00057,13,First-Time,0,0.932,5,17.6,Low,Standard Supervision,0,1
+Y00058,16,Prior Record,1,0.67,3,89.6,High,Tough Love,1,1
+Y00059,16,Prior Record,1,0.632,4,92.3,High,Vocational,0,0
+Y00060,17,Prior Record,1,0.789,5,79.1,High,Standard Supervision,1,1
+Y00061,16,Prior Record,1,0.664,3,95.6,High,Tough Love,0,1
+Y00062,14,Prior Record,1,0.675,4,93.6,High,Vocational,1,1
+Y00063,17,Prior Record,1,0.658,8,50.2,Moderate,Vocational,0,0
+Y00064,15,Prior Record,1,0.732,2,95.4,High,Tough Love,0,1
+Y00065,14,First-Time,0,0.699,6,35.6,Low,Standard Supervision,0,1
+Y00066,17,First-Time,0,0.861,4,60.1,Moderate,CBT,0,0
+Y00067,14,First-Time,0,0.718,4,74.2,High,Standard Supervision,1,1
+Y00068,13,First-Time,0,0.7,6,37.7,Low,Standard Supervision,0,0
+Y00069,15,First-Time,0,0.518,4,82.3,High,Tough Love,0,0
+Y00070,16,First-Time,0,0.887,7,26.4,Low,Vocational,0,1
+Y00071,13,Prior Record,1,0.521,8,62.5,Moderate,CBT,0,0
+Y00072,15,Prior Record,1,0.585,7,81.8,High,Tough Love,1,1
+Y00073,13,Prior Record,1,0.261,7,77.3,High,Tough Love,0,0
+Y00074,16,First-Time,0,0.782,3,58.8,Moderate,Standard Supervision,0,0
+Y00075,15,First-Time,0,0.628,6,68.3,High,Standard Supervision,0,0
+Y00076,14,Prior Record,1,0.667,6,79.1,High,Tough Love,0,0
+Y00077,14,Prior Record,1,0.494,7,59.6,Moderate,Vocational,0,1
+Y00078,15,Prior Record,1,0.598,9,70.4,High,Standard Supervision,0,0
+Y00079,16,Prior Record,1,0.265,7,81.4,High,Vocational,1,1
+Y00080,17,Prior Record,1,0.752,7,47.6,Moderate,Standard Supervision,0,0
+Y00081,15,First-Time,0,0.614,10,6.1,Low,CBT,0,0
+Y00082,13,First-Time,0,0.535,6,70.5,High,Vocational,0,0
+Y00083,17,First-Time,0,0.992,5,32.1,Low,CBT,0,0
+Y00084,16,Prior Record,1,0.574,6,66.9,High,Tough Love,0,1
+Y00085,16,Prior Record,1,0.534,3,95.1,High,Vocational,0,0
+Y00086,13,First-Time,0,0.398,6,74.8,High,Tough Love,0,0
+Y00087,14,Prior Record,1,0.701,2,89.3,High,Tough Love,1,1
+Y00088,16,First-Time,0,0.832,5,65.3,High,CBT,0,0
+Y00089,17,First-Time,0,0.756,6,75.4,High,CBT,0,0
+Y00090,15,First-Time,0,0.91,8,42.3,Moderate,Standard Supervision,0,0
+Y00091,17,First-Time,0,0.738,8,48.4,Moderate,Vocational,0,0
+Y00092,17,Prior Record,1,0.716,3,91.7,High,Vocational,0,0
+Y00093,14,First-Time,0,0.598,10,18.8,Low,Standard Supervision,0,0
+Y00094,17,Prior Record,1,0.467,5,87.9,High,Tough Love,0,0
+Y00095,14,Prior Record,1,0.761,6,79.3,High,Tough Love,1,1
+Y00096,14,First-Time,0,0.489,3,67.2,High,Standard Supervision,0,0
+Y00097,16,First-Time,0,0.692,5,47.6,Moderate,Standard Supervision,0,0
+Y00098,16,Prior Record,1,0.462,7,61.5,Moderate,Vocational,0,0
+Y00099,13,First-Time,0,0.789,6,49.1,Moderate,Standard Supervision,0,0
+Y00100,17,Prior Record,1,0.429,5,89.5,High,Tough Love,0,1
+Y00101,13,First-Time,0,0.796,6,35.8,Low,CBT,0,0
+Y00102,17,Prior Record,1,0.38,2,97.7,High,Standard Supervision,1,1
+Y00103,13,Prior Record,1,0.508,5,78.7,High,CBT,1,1
+Y00104,16,First-Time,0,0.803,9,15.8,Low,Standard Supervision,0,0
+Y00105,16,First-Time,0,0.909,8,34.3,Low,CBT,0,0
+Y00106,16,Prior Record,1,0.625,5,90.5,High,CBT,1,1
+Y00107,16,First-Time,0,0.48,9,25.2,Low,Vocational,0,0
+Y00108,15,First-Time,0,0.842,3,71.2,High,Vocational,0,0
+Y00109,16,First-Time,0,0.751,4,53.2,Moderate,Tough Love,0,0
+Y00110,14,First-Time,0,0.488,10,25.1,Low,Standard Supervision,0,0
+Y00111,16,Prior Record,1,0.672,6,79.3,High,CBT,0,1
+Y00112,15,Prior Record,1,0.795,5,84.5,High,Tough Love,0,0
+Y00113,15,First-Time,0,0.802,6,49.7,Moderate,CBT,0,0
+Y00114,15,Prior Record,1,0.443,4,92.9,High,CBT,0,0
+Y00115,15,First-Time,0,0.886,7,20.3,Low,Tough Love,0,0
+Y00116,13,First-Time,0,0.404,6,69.5,High,Tough Love,1,1
+Y00117,13,Prior Record,1,0.793,5,84.5,High,Tough Love,0,1
+Y00118,14,Prior Record,1,0.794,3,92.2,High,CBT,0,0
+Y00119,13,First-Time,0,0.89,7,23.8,Low,CBT,0,0
+Y00120,15,First-Time,0,0.322,5,84.0,High,CBT,0,0
+Y00121,16,First-Time,0,0.847,4,40.5,Moderate,CBT,0,0
+Y00122,16,Prior Record,1,0.344,8,72.2,High,Standard Supervision,1,1
+Y00123,15,First-Time,0,0.847,10,13.5,Low,Vocational,0,0
+Y00124,17,First-Time,0,0.599,10,12.4,Low,CBT,0,0
+Y00125,15,Prior Record,1,0.661,7,68.0,High,Vocational,0,0
+Y00126,13,First-Time,0,0.907,5,51.7,Moderate,Tough Love,0,0
+Y00127,16,First-Time,0,0.541,6,31.5,Low,Vocational,0,0
+Y00128,15,First-Time,0,0.759,7,33.1,Low,Standard Supervision,0,0
+Y00129,16,First-Time,0,0.789,5,29.4,Low,Vocational,0,0
+Y00130,15,First-Time,0,0.81,9,48.9,Moderate,CBT,0,0
+Y00131,15,Prior Record,1,0.475,1,97.1,High,CBT,0,1
+Y00132,13,Prior Record,1,0.352,5,91.1,High,Standard Supervision,0,1
+Y00133,15,Prior Record,1,0.554,7,78.3,High,Vocational,1,1
+Y00134,16,Prior Record,1,0.254,4,95.9,High,Tough Love,0,0
+Y00135,14,First-Time,0,0.762,6,61.4,Moderate,Tough Love,0,1
+Y00136,16,First-Time,0,0.886,7,16.0,Low,CBT,0,0
+Y00137,13,Prior Record,1,0.537,8,83.4,High,CBT,0,0
+Y00138,14,First-Time,0,0.804,3,83.1,High,Standard Supervision,0,1
+Y00139,15,Prior Record,1,0.389,2,96.0,High,Tough Love,1,1
+Y00140,17,Prior Record,1,0.442,3,93.7,High,Tough Love,1,1
+Y00141,14,First-Time,0,0.557,3,37.1,Low,Tough Love,0,0
+Y00142,14,First-Time,0,0.652,3,59.9,Moderate,CBT,0,0
+Y00143,15,First-Time,0,0.626,4,76.1,High,Standard Supervision,0,0
+Y00144,17,First-Time,0,0.74,8,48.5,Moderate,Vocational,0,0
+Y00145,17,First-Time,0,0.734,5,67.3,High,CBT,0,0
+Y00146,13,First-Time,0,0.861,6,40.9,Moderate,CBT,0,0
+Y00147,14,Prior Record,1,0.462,3,98.0,High,Standard Supervision,0,1
+Y00148,17,Prior Record,1,0.834,6,82.3,High,Standard Supervision,1,1
+Y00149,13,Prior Record,1,0.377,9,63.6,Moderate,CBT,0,0
+Y00150,17,First-Time,0,0.912,4,83.0,High,Tough Love,0,0
+Y00151,14,First-Time,0,0.609,9,17.9,Low,Vocational,0,0
+Y00152,17,First-Time,0,0.696,7,22.7,Low,Vocational,0,0
+Y00153,14,First-Time,0,0.818,6,38.0,Low,Standard Supervision,0,0
+Y00154,15,Prior Record,1,0.823,6,62.2,Moderate,Vocational,0,0
+Y00155,16,First-Time,0,0.519,7,44.9,Moderate,CBT,0,0
+Y00156,13,First-Time,0,0.573,10,33.9,Low,Standard Supervision,1,1
+Y00157,15,Prior Record,1,0.658,6,78.0,High,CBT,0,0
+Y00158,15,First-Time,0,0.661,7,43.1,Moderate,Standard Supervision,0,0
+Y00159,16,First-Time,0,0.654,5,61.7,Moderate,Tough Love,0,0
+Y00160,17,First-Time,0,0.359,8,19.7,Low,Vocational,0,0
+Y00161,16,Prior Record,1,0.8,3,75.8,High,CBT,0,0
+Y00162,15,Prior Record,1,0.723,5,78.1,High,Vocational,0,1
+Y00163,15,First-Time,0,0.925,10,8.7,Low,CBT,0,0
+Y00164,15,Prior Record,1,0.805,1,93.1,High,Standard Supervision,0,1
+Y00165,17,Prior Record,1,0.553,6,91.2,High,Vocational,1,1
+Y00166,14,Prior Record,1,0.694,6,76.3,High,Tough Love,0,1
+Y00167,13,First-Time,0,0.699,6,31.2,Low,Vocational,0,0
+Y00168,14,First-Time,0,0.798,6,33.8,Low,Standard Supervision,0,0
+Y00169,13,Prior Record,1,0.843,5,90.8,High,Vocational,0,0
+Y00170,13,First-Time,0,0.749,5,76.3,High,Standard Supervision,0,0
+Y00171,13,Prior Record,1,0.606,6,85.1,High,Standard Supervision,1,1
+Y00172,16,Prior Record,1,0.531,4,78.6,High,Standard Supervision,1,1
+Y00173,16,First-Time,0,0.613,10,26.1,Low,Standard Supervision,0,0
+Y00174,16,Prior Record,1,0.781,5,83.4,High,CBT,0,0
+Y00175,15,Prior Record,1,0.393,6,86.2,High,CBT,1,1
+Y00176,16,Prior Record,1,0.371,4,90.2,High,Tough Love,0,0
+Y00177,13,First-Time,0,0.911,8,20.7,Low,Standard Supervision,0,0
+Y00178,17,Prior Record,1,0.35,7,76.3,High,Standard Supervision,0,0
+Y00179,15,First-Time,0,0.605,7,30.0,Low,Tough Love,0,0
+Y00180,17,Prior Record,1,0.622,3,96.2,High,Tough Love,0,0
+Y00181,13,Prior Record,1,0.373,4,95.6,High,Standard Supervision,1,1
+Y00182,15,Prior Record,1,0.759,9,46.5,Moderate,CBT,0,0
+Y00183,16,First-Time,0,0.798,4,67.2,High,Standard Supervision,0,0
+Y00184,15,First-Time,0,0.607,7,51.8,Moderate,Tough Love,1,1
+Y00185,15,First-Time,0,0.879,4,85.2,High,CBT,0,0
+Y00186,13,First-Time,0,0.815,8,40.0,Low,Standard Supervision,0,1
+Y00187,14,First-Time,0,0.846,5,63.6,Moderate,Vocational,0,0
+Y00188,14,Prior Record,1,0.673,3,91.1,High,Tough Love,0,0
+Y00189,14,First-Time,0,0.289,5,71.3,High,Standard Supervision,0,0
+Y00190,16,Prior Record,1,0.375,4,96.7,High,CBT,0,0
+Y00191,16,Prior Record,1,0.521,6,87.5,High,Vocational,0,0
+Y00192,16,First-Time,0,0.776,6,34.3,Low,CBT,0,0
+Y00193,14,Prior Record,1,0.37,3,96.0,High,CBT,0,0
+Y00194,17,Prior Record,1,0.81,5,86.2,High,Tough Love,1,1
+Y00195,13,First-Time,0,0.721,4,35.4,Low,Vocational,1,1
+Y00196,14,First-Time,0,0.388,7,43.1,Moderate,Vocational,0,0
+Y00197,13,Prior Record,1,0.855,7,68.1,High,Vocational,0,1
+Y00198,14,Prior Record,1,0.559,5,66.3,High,CBT,0,0
+Y00199,17,Prior Record,1,0.617,6,57.6,Moderate,CBT,0,0
+Y00200,14,Prior Record,1,0.758,9,46.8,Moderate,Vocational,0,0
+Y00201,17,Prior Record,1,0.58,5,89.0,High,Standard Supervision,0,1
+Y00202,15,First-Time,0,0.925,4,63.9,Moderate,Standard Supervision,0,0
+Y00203,16,Prior Record,1,0.669,6,90.1,High,Standard Supervision,0,0
+Y00204,15,First-Time,0,0.648,4,70.1,High,Tough Love,0,0
+Y00205,14,Prior Record,1,0.738,5,77.8,High,Vocational,0,0
+Y00206,16,First-Time,0,0.847,5,32.5,Low,CBT,0,0
+Y00207,17,First-Time,0,0.468,5,64.2,Moderate,Vocational,0,0
+Y00208,14,Prior Record,1,0.849,5,84.2,High,Tough Love,0,1
+Y00209,16,First-Time,0,0.715,8,43.1,Moderate,Standard Supervision,0,0
+Y00210,14,Prior Record,1,0.64,7,75.6,High,CBT,0,0
+Y00211,16,First-Time,0,0.253,8,62.8,Moderate,Vocational,0,0
+Y00212,16,Prior Record,1,0.541,6,90.8,High,Vocational,1,1
+Y00213,15,Prior Record,1,0.703,5,83.0,High,CBT,1,1
+Y00214,16,First-Time,0,0.783,1,91.7,High,CBT,0,0
+Y00215,14,Prior Record,1,0.544,6,74.6,High,Tough Love,0,1
+Y00216,13,First-Time,0,0.472,1,89.7,High,CBT,0,0
+Y00217,13,Prior Record,1,0.614,1,94.4,High,Tough Love,0,0
+Y00218,15,Prior Record,1,0.347,5,93.9,High,Tough Love,1,1
+Y00219,17,Prior Record,1,0.774,6,60.9,Moderate,Tough Love,0,0
+Y00220,13,First-Time,0,0.428,5,66.8,High,Standard Supervision,0,0
+Y00221,15,First-Time,0,0.873,9,7.5,Low,CBT,0,1
+Y00222,16,Prior Record,1,0.529,6,87.0,High,CBT,0,0
+Y00223,14,Prior Record,1,0.791,5,89.3,High,CBT,0,0
+Y00224,16,First-Time,0,0.576,9,43.6,Moderate,CBT,0,0
+Y00225,14,First-Time,0,0.478,9,47.0,Moderate,CBT,0,0
+Y00226,17,First-Time,0,0.73,7,52.4,Moderate,CBT,0,0
+Y00227,15,Prior Record,1,0.727,4,90.6,High,Tough Love,0,0
+Y00228,15,First-Time,0,0.877,5,59.0,Moderate,CBT,0,0
+Y00229,13,First-Time,0,0.615,3,83.6,High,CBT,1,1
+Y00230,15,Prior Record,1,0.428,5,84.6,High,CBT,1,1
+Y00231,17,First-Time,0,0.544,4,70.9,High,Vocational,0,0
+Y00232,13,Prior Record,1,0.498,5,88.0,High,Standard Supervision,0,0
+Y00233,16,First-Time,0,0.371,7,52.7,Moderate,Vocational,0,0
+Y00234,15,Prior Record,1,0.547,1,91.0,High,CBT,0,0
+Y00235,16,Prior Record,1,0.692,3,82.1,High,Vocational,1,1
+Y00236,16,Prior Record,1,0.607,4,90.2,High,Tough Love,0,0
+Y00237,15,First-Time,0,0.719,6,62.4,Moderate,CBT,0,0
+Y00238,14,First-Time,0,0.737,5,57.0,Moderate,Vocational,0,0
+Y00239,16,Prior Record,1,0.639,5,96.5,High,Tough Love,1,1
+Y00240,13,First-Time,0,0.514,5,54.2,Moderate,Standard Supervision,1,1
+Y00241,15,First-Time,0,0.714,3,78.4,High,CBT,0,0
+Y00242,13,First-Time,0,0.81,5,71.2,High,Tough Love,0,1
+Y00243,16,Prior Record,1,0.583,5,91.9,High,Tough Love,0,0
+Y00244,16,Prior Record,1,0.288,5,94.1,High,Vocational,0,0
+Y00245,13,Prior Record,1,0.534,5,92.6,High,CBT,0,0
+Y00246,16,Prior Record,1,0.725,6,76.6,High,CBT,0,0
+Y00247,15,First-Time,0,0.842,7,59.0,Moderate,Tough Love,0,0
+Y00248,16,First-Time,0,0.883,5,68.0,High,Vocational,0,0
+Y00249,13,First-Time,0,0.604,3,67.5,High,CBT,0,0
+Y00250,13,Prior Record,1,0.634,8,69.5,High,Standard Supervision,0,0
+Y00251,15,First-Time,0,0.696,7,21.9,Low,Vocational,0,0
+Y00252,13,Prior Record,1,0.578,3,96.8,High,Tough Love,1,1
+Y00253,14,Prior Record,1,0.837,6,74.3,High,Tough Love,0,0
+Y00254,16,First-Time,0,0.894,8,43.1,Moderate,CBT,0,0
+Y00255,13,Prior Record,1,0.818,9,46.2,Moderate,CBT,1,1
+Y00256,16,First-Time,0,0.483,7,26.3,Low,CBT,0,0
+Y00257,13,Prior Record,1,0.347,7,95.8,High,Vocational,0,1
+Y00258,13,Prior Record,1,0.699,3,91.1,High,CBT,0,1
+Y00259,15,Prior Record,1,0.709,5,71.7,High,Standard Supervision,0,0
+Y00260,16,First-Time,0,0.873,5,66.6,High,CBT,1,1
+Y00261,13,First-Time,0,0.95,7,59.2,Moderate,Standard Supervision,0,0
+Y00262,14,First-Time,0,0.788,9,20.6,Low,Vocational,0,0
+Y00263,17,First-Time,0,0.623,6,52.3,Moderate,CBT,0,0
+Y00264,17,First-Time,0,0.625,4,73.0,High,Vocational,0,0
+Y00265,15,First-Time,0,0.958,3,46.7,Moderate,Vocational,0,0
+Y00266,15,Prior Record,1,0.73,8,50.6,Moderate,Standard Supervision,0,1
+Y00267,14,First-Time,0,0.915,7,57.2,Moderate,CBT,0,0
+Y00268,16,First-Time,0,0.394,7,54.6,Moderate,Tough Love,0,1
+Y00269,15,Prior Record,1,0.784,5,70.7,High,Vocational,0,0
+Y00270,14,Prior Record,1,0.373,6,83.0,High,CBT,0,0
+Y00271,13,Prior Record,1,0.688,3,94.9,High,Tough Love,1,1
+Y00272,13,Prior Record,1,0.619,6,54.4,Moderate,Tough Love,0,0
+Y00273,17,Prior Record,1,0.373,3,95.5,High,Tough Love,0,0
+Y00274,15,Prior Record,1,0.668,4,96.9,High,CBT,1,1
+Y00275,15,First-Time,0,0.545,5,86.7,High,Vocational,0,0
+Y00276,15,Prior Record,1,0.557,1,97.3,High,Vocational,0,0
+Y00277,16,First-Time,0,0.594,5,79.5,High,CBT,0,0
+Y00278,13,First-Time,0,0.556,4,85.5,High,CBT,0,0
+Y00279,13,First-Time,0,0.856,6,40.4,Moderate,Tough Love,0,0
+Y00280,14,First-Time,0,0.816,6,58.0,Moderate,CBT,0,0
+Y00281,15,Prior Record,1,0.572,9,81.4,High,Tough Love,0,0
+Y00282,16,First-Time,0,0.634,7,27.4,Low,Tough Love,0,1
+Y00283,15,First-Time,0,0.621,7,53.9,Moderate,CBT,0,1
+Y00284,15,First-Time,0,0.884,7,37.7,Low,Standard Supervision,0,0
+Y00285,17,Prior Record,1,0.53,7,77.7,High,Tough Love,0,1
+Y00286,13,First-Time,0,0.823,7,35.7,Low,Standard Supervision,0,0
+Y00287,15,Prior Record,1,0.558,6,83.5,High,Tough Love,0,1
+Y00288,15,Prior Record,1,0.424,7,83.1,High,Standard Supervision,0,0
+Y00289,15,First-Time,0,0.659,1,92.4,High,CBT,0,0
+Y00290,17,Prior Record,1,0.355,9,75.5,High,CBT,1,1
+Y00291,14,First-Time,0,0.662,9,25.3,Low,Standard Supervision,0,0
+Y00292,17,First-Time,0,0.805,6,32.9,Low,Tough Love,0,0
+Y00293,14,Prior Record,1,0.716,2,90.8,High,Standard Supervision,0,0
+Y00294,15,Prior Record,1,0.678,8,66.8,High,Standard Supervision,0,0
+Y00295,15,First-Time,0,0.439,5,61.0,Moderate,Vocational,0,0
+Y00296,17,Prior Record,1,0.471,6,90.3,High,Tough Love,0,1
+Y00297,15,First-Time,0,0.363,3,87.9,High,CBT,1,1
+Y00298,14,Prior Record,1,0.756,10,59.3,Moderate,Tough Love,0,0
+Y00299,13,Prior Record,1,0.435,2,94.0,High,Standard Supervision,1,1
+Y00300,14,Prior Record,1,0.655,5,75.8,High,Tough Love,1,1
+Y00301,17,Prior Record,1,0.589,1,97.9,High,Tough Love,0,1
+Y00302,13,First-Time,0,0.75,6,49.5,Moderate,Tough Love,0,0
+Y00303,17,Prior Record,1,0.554,4,88.8,High,Vocational,0,0
+Y00304,15,Prior Record,1,0.661,7,79.4,High,Tough Love,1,1
+Y00305,13,Prior Record,1,0.642,4,91.8,High,CBT,0,1
+Y00306,14,First-Time,0,0.621,8,21.5,Low,Vocational,0,0
+Y00307,15,First-Time,0,0.538,4,86.5,High,Tough Love,1,1
+Y00308,14,First-Time,0,0.722,5,51.5,Moderate,Standard Supervision,0,0
+Y00309,13,First-Time,0,0.824,5,75.4,High,Tough Love,0,0
+Y00310,16,First-Time,0,0.622,7,27.0,Low,Vocational,0,0
+Y00311,16,First-Time,0,0.725,7,44.8,Moderate,Tough Love,0,0
+Y00312,13,Prior Record,1,0.363,7,80.4,High,CBT,0,0
+Y00313,14,First-Time,0,0.723,7,17.1,Low,Vocational,0,0
+Y00314,14,Prior Record,1,0.464,7,84.8,High,CBT,0,0
+Y00315,16,First-Time,0,0.953,4,27.7,Low,Tough Love,0,0
+Y00316,16,Prior Record,1,0.353,6,84.8,High,Standard Supervision,0,1
+Y00317,16,First-Time,0,0.861,9,33.0,Low,Vocational,0,0
+Y00318,17,First-Time,0,0.488,3,76.1,High,Standard Supervision,1,1
+Y00319,16,Prior Record,1,0.684,6,66.6,High,Vocational,0,0
+Y00320,14,Prior Record,1,0.653,7,80.6,High,CBT,1,1
+Y00321,13,First-Time,0,0.765,9,20.9,Low,Tough Love,0,0
+Y00322,16,First-Time,0,0.787,7,31.7,Low,Tough Love,0,1
+Y00323,17,Prior Record,1,0.374,5,95.1,High,Vocational,0,0
+Y00324,17,Prior Record,1,0.627,6,65.6,High,Tough Love,0,0
+Y00325,14,First-Time,0,0.385,5,66.9,High,Vocational,0,0
+Y00326,14,First-Time,0,0.536,5,76.8,High,CBT,0,0
+Y00327,13,First-Time,0,0.606,3,62.2,Moderate,CBT,0,0
+Y00328,13,Prior Record,1,0.72,8,82.1,High,Standard Supervision,1,1
+Y00329,15,First-Time,0,0.615,7,42.3,Moderate,Standard Supervision,0,1
+Y00330,15,First-Time,0,0.458,4,84.7,High,Vocational,1,1
+Y00331,14,Prior Record,1,0.502,6,89.3,High,Vocational,0,1
+Y00332,14,First-Time,0,0.936,8,22.0,Low,CBT,0,0
+Y00333,17,First-Time,0,0.578,8,32.2,Low,Tough Love,0,0
+Y00334,15,First-Time,0,0.748,4,64.1,Moderate,Standard Supervision,0,0
+Y00335,17,First-Time,0,0.945,1,84.4,High,Tough Love,0,0
+Y00336,17,First-Time,0,0.981,7,18.2,Low,Vocational,0,0
+Y00337,14,First-Time,0,0.867,4,41.2,Moderate,Vocational,0,1
+Y00338,14,Prior Record,1,0.836,6,86.0,High,Vocational,1,1
+Y00339,17,Prior Record,1,0.6,7,64.8,Moderate,Standard Supervision,1,1
+Y00340,16,First-Time,0,0.959,8,26.8,Low,Vocational,0,0
+Y00341,14,Prior Record,1,0.474,9,61.8,Moderate,Tough Love,1,1
+Y00342,16,First-Time,0,0.907,8,23.0,Low,Vocational,0,0
+Y00343,15,Prior Record,1,0.471,9,81.2,High,CBT,0,0
+Y00344,17,First-Time,0,0.923,9,17.6,Low,Vocational,0,0
+Y00345,14,Prior Record,1,0.66,8,59.0,Moderate,CBT,0,0
+Y00346,17,First-Time,0,0.542,6,53.8,Moderate,Vocational,0,0
+Y00347,17,Prior Record,1,0.256,3,94.5,High,Tough Love,0,0
+Y00348,13,First-Time,0,0.552,10,18.2,Low,Standard Supervision,0,0
+Y00349,13,Prior Record,1,0.76,5,75.6,High,Standard Supervision,0,1
+Y00350,15,First-Time,0,0.649,8,59.9,Moderate,Standard Supervision,0,0
+Y00351,13,Prior Record,1,0.357,4,95.3,High,Standard Supervision,0,1
+Y00352,14,First-Time,0,0.846,8,23.1,Low,Standard Supervision,1,1
+Y00353,15,Prior Record,1,0.811,1,96.5,High,Standard Supervision,1,1
+Y00354,17,Prior Record,1,0.456,4,80.8,High,CBT,0,0
+Y00355,17,Prior Record,1,0.73,5,91.0,High,Vocational,0,0
+Y00356,13,First-Time,0,0.393,7,73.9,High,Tough Love,0,0
+Y00357,17,First-Time,0,0.677,8,66.6,High,CBT,0,0
+Y00358,13,First-Time,0,0.697,4,78.8,High,Standard Supervision,0,1
+Y00359,16,First-Time,0,0.676,7,49.0,Moderate,Vocational,0,0
+Y00360,17,Prior Record,1,0.218,8,90.4,High,Vocational,0,1
+Y00361,17,Prior Record,1,0.745,10,34.0,Low,CBT,0,0
+Y00362,14,Prior Record,1,0.659,7,66.7,High,CBT,0,0
+Y00363,17,First-Time,0,0.811,5,52.2,Moderate,Tough Love,0,0
+Y00364,13,Prior Record,1,0.56,3,96.6,High,CBT,0,0
+Y00365,15,Prior Record,1,0.604,9,45.7,Moderate,Tough Love,0,0
+Y00366,15,Prior Record,1,0.523,7,65.2,High,CBT,0,0
+Y00367,14,First-Time,0,0.886,6,44.3,Moderate,Standard Supervision,0,0
+Y00368,13,First-Time,0,0.645,3,83.1,High,Standard Supervision,0,0
+Y00369,16,Prior Record,1,0.802,3,83.5,High,Tough Love,0,1
+Y00370,14,First-Time,0,0.789,7,46.9,Moderate,CBT,0,0
+Y00371,16,First-Time,0,0.636,7,64.6,Moderate,Vocational,0,0
+Y00372,15,Prior Record,1,0.606,1,97.9,High,Tough Love,1,1
+Y00373,14,Prior Record,1,0.567,6,84.3,High,Vocational,1,1
+Y00374,17,Prior Record,1,0.57,2,94.3,High,Standard Supervision,0,1
+Y00375,13,Prior Record,1,0.492,8,87.6,High,Tough Love,1,1
+Y00376,16,First-Time,0,0.639,6,53.3,Moderate,Standard Supervision,0,0
+Y00377,16,First-Time,0,0.798,5,67.2,High,Vocational,0,0
+Y00378,14,First-Time,0,0.724,8,60.5,Moderate,Tough Love,0,0
+Y00379,14,Prior Record,1,0.645,6,85.9,High,Vocational,1,1
+Y00380,13,First-Time,0,0.845,9,12.6,Low,Standard Supervision,0,0
+Y00381,17,Prior Record,1,0.453,5,78.6,High,Vocational,0,0
+Y00382,17,First-Time,0,0.711,6,45.0,Moderate,Standard Supervision,0,0
+Y00383,14,Prior Record,1,0.554,5,90.6,High,CBT,0,0
+Y00384,13,First-Time,0,0.337,7,65.5,High,CBT,0,1
+Y00385,13,First-Time,0,0.614,9,61.0,Moderate,Standard Supervision,0,0
+Y00386,13,First-Time,0,0.712,5,64.2,Moderate,Standard Supervision,0,0
+Y00387,17,First-Time,0,0.924,7,27.0,Low,Vocational,0,0
+Y00388,17,Prior Record,1,0.448,3,88.8,High,Vocational,0,1
+Y00389,13,First-Time,0,0.39,2,93.9,High,CBT,0,0
+Y00390,16,First-Time,0,0.723,6,48.8,Moderate,Tough Love,0,0
+Y00391,13,Prior Record,1,0.847,6,50.1,Moderate,Standard Supervision,0,0
+Y00392,14,Prior Record,1,0.73,5,81.8,High,Standard Supervision,0,0
+Y00393,15,First-Time,0,0.647,3,63.6,Moderate,Tough Love,0,0
+Y00394,16,First-Time,0,0.62,7,39.1,Low,Standard Supervision,1,1
+Y00395,17,First-Time,0,0.633,7,44.7,Moderate,Tough Love,1,1
+Y00396,13,Prior Record,1,0.68,3,85.2,High,Tough Love,1,1
+Y00397,13,First-Time,0,0.87,3,60.3,Moderate,CBT,0,1
+Y00398,14,First-Time,0,0.803,5,42.5,Moderate,Standard Supervision,1,1
+Y00399,14,First-Time,0,0.982,7,20.7,Low,CBT,0,0
+Y00400,17,Prior Record,1,0.574,6,70.0,High,Tough Love,1,1
+Y00401,16,First-Time,0,0.881,4,51.2,Moderate,Standard Supervision,0,0
+Y00402,14,Prior Record,1,0.607,5,76.8,High,Tough Love,1,1
+Y00403,17,First-Time,0,0.629,8,44.9,Moderate,Vocational,0,0
+Y00404,15,Prior Record,1,0.543,3,93.6,High,Tough Love,0,0
+Y00405,15,First-Time,0,0.405,6,78.7,High,Standard Supervision,0,1
+Y00406,15,First-Time,0,0.473,9,63.1,Moderate,Vocational,0,0
+Y00407,13,First-Time,0,0.826,3,76.9,High,Tough Love,1,1
+Y00408,17,Prior Record,1,0.783,8,64.7,Moderate,Standard Supervision,0,1
+Y00409,13,Prior Record,1,0.496,8,79.5,High,Tough Love,0,0
+Y00410,13,First-Time,0,0.559,6,63.7,Moderate,Standard Supervision,0,0
+Y00411,14,First-Time,0,0.756,5,56.7,Moderate,Tough Love,0,0
+Y00412,14,Prior Record,1,0.215,7,85.8,High,Standard Supervision,1,1
+Y00413,13,First-Time,0,0.446,6,47.4,Moderate,Standard Supervision,0,0
+Y00414,13,First-Time,0,0.696,1,90.6,High,Tough Love,1,1
+Y00415,16,First-Time,0,0.678,6,50.6,Moderate,Standard Supervision,0,0
+Y00416,17,Prior Record,1,0.732,6,88.1,High,CBT,0,0
+Y00417,13,Prior Record,1,0.675,7,81.0,High,Standard Supervision,0,0
+Y00418,14,Prior Record,1,0.617,3,88.5,High,Tough Love,1,1
+Y00419,15,Prior Record,1,0.657,5,91.6,High,Standard Supervision,1,1
+Y00420,17,First-Time,0,0.806,8,7.9,Low,Vocational,0,0
+Y00421,16,First-Time,0,0.789,6,72.7,High,Vocational,0,0
+Y00422,16,First-Time,0,0.641,3,59.0,Moderate,Vocational,0,0
+Y00423,15,First-Time,0,0.589,8,45.5,Moderate,CBT,0,0
+Y00424,15,First-Time,0,0.484,6,66.5,High,CBT,0,0
+Y00425,13,First-Time,0,0.833,8,42.8,Moderate,Tough Love,0,0
+Y00426,17,First-Time,0,0.63,3,73.0,High,Tough Love,0,0
+Y00427,17,Prior Record,1,0.563,5,63.1,Moderate,Tough Love,0,0
+Y00428,13,First-Time,0,0.793,7,32.5,Low,Vocational,0,0
+Y00429,16,First-Time,0,0.799,6,41.8,Moderate,Vocational,0,0
+Y00430,13,Prior Record,1,0.738,3,72.0,High,Tough Love,1,1
+Y00431,16,Prior Record,1,0.564,1,96.3,High,Vocational,0,0
+Y00432,17,Prior Record,1,0.559,8,53.4,Moderate,Tough Love,0,0
+Y00433,13,Prior Record,1,0.645,6,84.5,High,Standard Supervision,1,1
+Y00434,15,Prior Record,1,0.465,8,69.5,High,Standard Supervision,0,1
+Y00435,13,First-Time,0,0.844,8,54.7,Moderate,CBT,0,0
+Y00436,15,First-Time,0,0.71,7,37.2,Low,CBT,0,0
+Y00437,17,Prior Record,1,0.526,5,89.6,High,Vocational,0,1
+Y00438,13,First-Time,0,0.62,7,42.1,Moderate,CBT,0,0
+Y00439,14,First-Time,0,0.866,9,8.7,Low,CBT,0,0
+Y00440,17,First-Time,0,0.605,6,51.7,Moderate,Tough Love,0,0
+Y00441,14,First-Time,0,0.332,10,44.7,Moderate,CBT,0,0
+Y00442,13,First-Time,0,0.745,3,78.9,High,CBT,0,0
+Y00443,15,First-Time,0,0.751,3,68.4,High,Vocational,1,1
+Y00444,15,Prior Record,1,0.652,7,51.8,Moderate,Vocational,0,0
+Y00445,16,Prior Record,1,0.409,4,94.6,High,Tough Love,0,1
+Y00446,14,First-Time,0,0.446,10,34.5,Low,CBT,0,0
+Y00447,17,Prior Record,1,0.531,8,79.3,High,Standard Supervision,1,1
+Y00448,15,First-Time,0,0.324,9,38.6,Low,Tough Love,0,0
+Y00449,14,Prior Record,1,0.389,7,61.4,Moderate,Standard Supervision,0,1
+Y00450,17,Prior Record,1,0.781,3,91.7,High,Vocational,1,1
+Y00451,17,First-Time,0,0.838,3,68.3,High,CBT,1,1
+Y00452,15,Prior Record,1,0.765,8,76.9,High,CBT,0,0
+Y00453,13,Prior Record,1,0.703,2,93.2,High,Tough Love,0,0
+Y00454,15,Prior Record,1,0.397,8,74.6,High,CBT,1,1
+Y00455,15,Prior Record,1,0.761,7,72.7,High,Standard Supervision,0,1
+Y00456,13,Prior Record,1,0.595,5,80.3,High,Tough Love,0,0
+Y00457,16,First-Time,0,0.598,7,37.0,Low,Standard Supervision,0,0
+Y00458,17,Prior Record,1,0.717,6,75.2,High,CBT,0,0
+Y00459,13,Prior Record,1,0.623,5,76.0,High,Vocational,0,1
+Y00460,16,Prior Record,1,0.548,8,66.1,High,CBT,0,1
+Y00461,13,First-Time,0,0.752,9,50.3,Moderate,CBT,0,0
+Y00462,16,Prior Record,1,0.748,6,84.9,High,CBT,0,1
+Y00463,15,First-Time,0,0.872,5,54.8,Moderate,CBT,0,0
+Y00464,13,Prior Record,1,0.798,8,77.5,High,CBT,1,1
+Y00465,17,First-Time,0,0.879,2,63.3,Moderate,Tough Love,1,1
+Y00466,13,Prior Record,1,0.665,6,94.1,High,Standard Supervision,0,0
+Y00467,15,Prior Record,1,0.691,7,64.4,Moderate,Tough Love,0,0
+Y00468,13,First-Time,0,0.734,4,86.2,High,CBT,0,1
+Y00469,17,First-Time,0,0.677,8,63.3,Moderate,CBT,0,0
+Y00470,16,First-Time,0,0.672,6,27.0,Low,Vocational,0,0
+Y00471,17,Prior Record,1,0.677,4,94.4,High,Vocational,0,0
+Y00472,15,Prior Record,1,0.544,7,72.9,High,Vocational,1,1
+Y00473,15,First-Time,0,0.697,4,59.0,Moderate,Tough Love,0,1
+Y00474,16,First-Time,0,0.581,8,46.3,Moderate,Tough Love,0,0
+Y00475,16,First-Time,0,0.821,2,63.5,Moderate,Vocational,0,0
+Y00476,17,First-Time,0,0.894,7,39.3,Low,Vocational,0,0
+Y00477,13,Prior Record,1,0.308,5,85.4,High,CBT,1,1
+Y00478,16,Prior Record,1,0.747,4,87.1,High,Tough Love,0,1
+Y00479,13,First-Time,0,0.964,7,48.1,Moderate,Standard Supervision,1,1
+Y00480,14,Prior Record,1,0.64,5,87.0,High,Standard Supervision,0,1
+Y00481,17,First-Time,0,0.485,8,38.1,Low,Vocational,0,0
+Y00482,14,Prior Record,1,0.74,6,80.9,High,Standard Supervision,0,0
+Y00483,16,First-Time,0,0.559,7,28.7,Low,Vocational,0,0
+Y00484,15,Prior Record,1,0.658,6,68.6,High,Standard Supervision,0,0
+Y00485,14,Prior Record,1,0.507,4,88.4,High,Standard Supervision,0,0
+Y00486,14,First-Time,0,0.927,5,59.1,Moderate,Vocational,0,0
+Y00487,15,Prior Record,1,0.469,6,87.1,High,Vocational,0,0
+Y00488,16,Prior Record,1,0.495,5,90.7,High,Tough Love,0,1
+Y00489,16,First-Time,0,0.568,8,38.9,Low,CBT,0,0
+Y00490,17,First-Time,0,0.737,6,36.7,Low,Standard Supervision,0,0
+Y00491,17,Prior Record,1,0.58,6,91.2,High,Standard Supervision,0,1
+Y00492,16,First-Time,0,0.646,3,67.7,High,CBT,0,0
+Y00493,16,First-Time,0,0.761,8,36.1,Low,Standard Supervision,0,0
+Y00494,14,First-Time,0,0.854,5,49.4,Moderate,Vocational,0,0
+Y00495,15,Prior Record,1,0.475,3,95.4,High,Standard Supervision,0,0
+Y00496,13,First-Time,0,0.727,9,18.7,Low,Tough Love,0,0
+Y00497,14,First-Time,0,0.798,7,52.1,Moderate,CBT,1,1
+Y00498,17,Prior Record,1,0.721,7,83.7,High,Vocational,1,1
+Y00499,15,First-Time,0,0.966,7,42.9,Moderate,Standard Supervision,0,0
+Y00500,13,Prior Record,1,0.808,5,80.7,High,Standard Supervision,1,1
+Y00501,16,First-Time,0,0.773,5,48.6,Moderate,CBT,0,0
+Y00502,17,Prior Record,1,0.346,7,96.3,High,Vocational,0,1
+Y00503,17,Prior Record,1,0.747,7,54.0,Moderate,Vocational,0,0
+Y00504,14,First-Time,0,0.831,6,56.6,Moderate,CBT,0,0
+Y00505,15,Prior Record,1,0.401,9,72.1,High,CBT,0,0
+Y00506,15,First-Time,0,0.893,6,39.6,Low,Tough Love,1,1
+Y00507,14,First-Time,0,0.601,3,79.6,High,CBT,0,0
+Y00508,14,First-Time,0,0.741,3,66.0,High,Standard Supervision,0,0
+Y00509,14,Prior Record,1,0.528,2,96.1,High,CBT,0,0
+Y00510,17,First-Time,0,0.677,5,64.2,Moderate,CBT,1,1
+Y00511,16,First-Time,0,0.636,6,85.0,High,Vocational,0,0
+Y00512,17,First-Time,0,0.718,7,56.4,Moderate,Vocational,0,0
+Y00513,17,First-Time,0,0.822,6,51.6,Moderate,Vocational,0,0
+Y00514,17,First-Time,0,0.888,8,32.5,Low,Vocational,0,0
+Y00515,13,First-Time,0,0.837,6,69.6,High,Standard Supervision,0,1
+Y00516,17,First-Time,0,0.715,6,35.1,Low,Standard Supervision,0,0
+Y00517,13,First-Time,0,0.497,5,65.6,High,Tough Love,0,0
+Y00518,15,Prior Record,1,0.578,8,40.1,Moderate,Standard Supervision,0,0
+Y00519,15,First-Time,0,0.447,3,86.9,High,CBT,0,0
+Y00520,14,Prior Record,1,0.652,6,85.9,High,CBT,1,1
+Y00521,13,First-Time,0,0.532,6,43.5,Moderate,Vocational,0,0
+Y00522,13,First-Time,0,0.719,8,53.1,Moderate,Standard Supervision,0,0
+Y00523,17,First-Time,0,0.597,6,44.4,Moderate,Tough Love,1,1
+Y00524,14,First-Time,0,0.84,6,38.1,Low,CBT,0,0
+Y00525,14,First-Time,0,0.921,5,49.5,Moderate,Tough Love,0,0
+Y00526,17,Prior Record,1,0.633,8,83.1,High,CBT,0,0
+Y00527,13,First-Time,0,0.597,6,42.4,Moderate,Vocational,1,1
+Y00528,17,First-Time,0,0.879,10,17.0,Low,CBT,0,0
+Y00529,17,Prior Record,1,0.667,6,84.9,High,Tough Love,0,0
+Y00530,15,First-Time,0,0.6,6,63.2,Moderate,CBT,0,0
+Y00531,13,First-Time,0,0.736,6,57.2,Moderate,Tough Love,0,0
+Y00532,13,First-Time,0,0.619,7,56.7,Moderate,Tough Love,0,0
+Y00533,14,First-Time,0,0.791,5,45.9,Moderate,CBT,0,0
+Y00534,15,First-Time,0,0.64,6,75.6,High,CBT,0,0
+Y00535,13,Prior Record,1,0.408,5,88.8,High,CBT,1,1
+Y00536,15,Prior Record,1,0.674,6,75.1,High,Tough Love,1,1
+Y00537,13,First-Time,0,0.922,7,50.4,Moderate,Tough Love,0,0
+Y00538,15,Prior Record,1,0.724,6,68.5,High,Standard Supervision,1,1
+Y00539,13,Prior Record,1,0.613,5,87.2,High,Standard Supervision,1,1
+Y00540,16,First-Time,0,0.812,9,15.3,Low,Standard Supervision,0,0
+Y00541,13,Prior Record,1,0.723,6,93.5,High,Standard Supervision,0,0
+Y00542,13,Prior Record,1,0.546,10,81.7,High,CBT,1,1
+Y00543,13,Prior Record,1,0.564,5,85.3,High,Tough Love,0,0
+Y00544,17,Prior Record,1,0.691,7,76.5,High,Standard Supervision,0,0
+Y00545,13,First-Time,0,0.884,5,49.6,Moderate,Tough Love,0,0
+Y00546,15,First-Time,0,0.947,9,14.8,Low,Tough Love,0,1
+Y00547,15,First-Time,0,0.458,5,71.2,High,CBT,0,0
+Y00548,15,First-Time,0,0.592,7,46.1,Moderate,CBT,0,0
+Y00549,16,First-Time,0,0.606,5,40.7,Moderate,Vocational,0,0
+Y00550,17,Prior Record,1,0.749,6,77.9,High,CBT,0,0
+Y00551,14,First-Time,0,0.861,6,41.4,Moderate,Vocational,0,0
+Y00552,17,First-Time,0,0.722,4,69.9,High,Vocational,0,0
+Y00553,14,Prior Record,1,0.692,5,82.1,High,Standard Supervision,1,1
+Y00554,17,First-Time,0,0.795,9,18.9,Low,Vocational,0,0
+Y00555,15,First-Time,0,0.84,7,47.4,Moderate,CBT,0,0
+Y00556,16,Prior Record,1,0.714,3,92.7,High,Standard Supervision,0,1
+Y00557,17,First-Time,0,0.903,8,43.3,Moderate,Tough Love,0,1
+Y00558,16,First-Time,0,0.846,4,66.9,High,Standard Supervision,0,1
+Y00559,17,First-Time,0,0.826,7,32.7,Low,Standard Supervision,0,0
+Y00560,15,Prior Record,1,0.67,6,83.6,High,CBT,1,1
+Y00561,13,First-Time,0,0.723,7,17.0,Low,Standard Supervision,1,1
+Y00562,15,First-Time,0,0.778,10,42.7,Moderate,CBT,0,0
+Y00563,13,First-Time,0,0.818,4,65.2,High,Vocational,0,0
+Y00564,17,First-Time,0,0.893,7,64.0,Moderate,CBT,0,0
+Y00565,14,Prior Record,1,0.705,8,49.2,Moderate,CBT,0,0
+Y00566,14,First-Time,0,0.564,5,48.8,Moderate,Standard Supervision,0,0
+Y00567,14,Prior Record,1,0.386,4,94.0,High,CBT,0,0
+Y00568,16,First-Time,0,0.715,5,63.1,Moderate,Tough Love,0,0
+Y00569,15,First-Time,0,0.885,7,37.3,Low,Vocational,0,1
+Y00570,17,Prior Record,1,0.755,2,93.1,High,Tough Love,0,0
+Y00571,15,First-Time,0,0.702,7,32.5,Low,CBT,0,0
+Y00572,14,First-Time,0,0.628,3,57.5,Moderate,CBT,0,0
+Y00573,13,Prior Record,1,0.481,8,75.2,High,Tough Love,0,0
+Y00574,13,First-Time,0,0.887,7,18.3,Low,Tough Love,0,0
+Y00575,14,First-Time,0,0.735,10,9.1,Low,Vocational,0,0
+Y00576,17,Prior Record,1,0.706,7,64.8,Moderate,Vocational,0,0
+Y00577,15,First-Time,0,0.778,5,61.1,Moderate,Standard Supervision,0,0
+Y00578,17,First-Time,0,0.557,4,89.8,High,Standard Supervision,1,1
+Y00579,13,First-Time,0,0.802,6,59.5,Moderate,Standard Supervision,0,0
+Y00580,13,First-Time,0,0.709,6,69.9,High,CBT,1,1
+Y00581,17,First-Time,0,0.267,8,63.6,Moderate,Standard Supervision,0,0
+Y00582,13,Prior Record,1,0.481,3,94.8,High,CBT,1,1
+Y00583,13,First-Time,0,0.585,10,58.3,Moderate,CBT,0,0
+Y00584,15,Prior Record,1,0.725,8,41.5,Moderate,Vocational,1,1
+Y00585,17,First-Time,0,0.539,6,51.9,Moderate,Vocational,0,0
+Y00586,16,First-Time,0,0.886,10,12.2,Low,Standard Supervision,0,0
+Y00587,13,First-Time,0,0.566,4,81.8,High,Vocational,1,1
+Y00588,17,Prior Record,1,0.59,6,69.7,High,Tough Love,0,0
+Y00589,17,First-Time,0,0.884,3,75.8,High,Vocational,0,0
+Y00590,17,First-Time,0,0.798,10,22.3,Low,Vocational,0,0
+Y00591,17,Prior Record,1,0.635,2,96.2,High,Vocational,1,1
+Y00592,14,Prior Record,1,0.644,2,96.0,High,Tough Love,0,0
+Y00593,17,First-Time,0,0.66,5,79.5,High,Vocational,0,0
+Y00594,14,Prior Record,1,0.655,8,63.7,Moderate,Vocational,0,1
+Y00595,17,First-Time,0,0.75,8,38.2,Low,Tough Love,0,0
+Y00596,15,First-Time,0,0.404,6,53.7,Moderate,CBT,0,0
+Y00597,16,First-Time,0,0.677,8,22.6,Low,Vocational,0,0
+Y00598,16,First-Time,0,0.816,6,69.6,High,Tough Love,0,1
+Y00599,16,First-Time,0,0.749,7,28.2,Low,Vocational,0,0
+Y00600,16,Prior Record,1,0.673,9,64.3,Moderate,Standard Supervision,0,1
+Y00601,16,First-Time,0,0.644,6,60.6,Moderate,Standard Supervision,0,0
+Y00602,16,Prior Record,1,0.501,4,95.3,High,Tough Love,1,1
+Y00603,13,Prior Record,1,0.601,6,60.0,Moderate,Vocational,0,0
+Y00604,17,Prior Record,1,0.639,7,81.8,High,Tough Love,0,0
+Y00605,15,Prior Record,1,0.711,5,81.7,High,CBT,1,1
+Y00606,14,Prior Record,1,0.647,7,64.5,Moderate,Tough Love,0,1
+Y00607,15,Prior Record,1,0.732,5,79.2,High,Tough Love,0,1
+Y00608,17,First-Time,0,0.565,6,70.9,High,Tough Love,0,0
+Y00609,17,First-Time,0,0.569,7,58.7,Moderate,Vocational,0,0
+Y00610,17,First-Time,0,0.721,7,38.5,Low,Standard Supervision,0,0
+Y00611,15,First-Time,0,0.617,9,17.2,Low,Vocational,0,0
+Y00612,16,First-Time,0,0.835,7,22.1,Low,Vocational,0,0
+Y00613,14,Prior Record,1,0.395,5,93.2,High,CBT,1,1
+Y00614,16,First-Time,0,0.711,7,24.3,Low,Standard Supervision,0,0
+Y00615,16,Prior Record,1,0.73,7,67.3,High,Tough Love,1,1
+Y00616,14,First-Time,0,0.873,8,63.7,Moderate,Standard Supervision,1,1
+Y00617,14,First-Time,0,0.87,7,39.8,Low,CBT,0,0
+Y00618,13,First-Time,0,0.569,3,85.3,High,Tough Love,0,0
+Y00619,13,First-Time,0,0.67,1,76.4,High,Tough Love,1,1
+Y00620,15,First-Time,0,0.606,9,16.8,Low,Vocational,0,0
+Y00621,15,First-Time,0,0.669,7,54.7,Moderate,CBT,0,0
+Y00622,13,First-Time,0,0.774,6,42.1,Moderate,Standard Supervision,1,1
+Y00623,15,First-Time,0,0.884,7,49.6,Moderate,CBT,0,0
+Y00624,16,First-Time,0,0.854,10,16.5,Low,CBT,1,1
+Y00625,14,First-Time,0,0.898,9,66.5,High,Tough Love,0,0
+Y00626,14,First-Time,0,0.856,8,21.5,Low,CBT,0,0
+Y00627,14,First-Time,0,0.754,4,69.5,High,Standard Supervision,0,0
+Y00628,15,First-Time,0,0.823,4,49.4,Moderate,Tough Love,0,0
+Y00629,14,First-Time,0,0.646,1,92.7,High,Standard Supervision,0,0
+Y00630,16,First-Time,0,0.951,7,37.1,Low,Standard Supervision,0,0
+Y00631,14,Prior Record,1,0.646,7,60.8,Moderate,CBT,0,1
+Y00632,15,Prior Record,1,0.735,8,57.4,Moderate,Standard Supervision,0,0
+Y00633,14,Prior Record,1,0.789,7,82.6,High,Standard Supervision,1,1
+Y00634,13,First-Time,0,0.881,6,61.0,Moderate,Tough Love,0,0
+Y00635,16,First-Time,0,0.533,5,47.4,Moderate,Tough Love,0,0
+Y00636,14,First-Time,0,0.696,4,62.0,Moderate,Tough Love,0,0
+Y00637,14,Prior Record,1,0.628,5,94.5,High,Tough Love,1,1
+Y00638,16,Prior Record,1,0.347,3,94.9,High,Standard Supervision,0,1
+Y00639,17,Prior Record,1,0.505,9,67.0,High,Tough Love,0,1
+Y00640,16,Prior Record,1,0.713,3,94.8,High,Vocational,0,0
+Y00641,17,First-Time,0,0.816,6,27.5,Low,Standard Supervision,0,0
+Y00642,17,Prior Record,1,0.343,1,95.9,High,CBT,1,1
+Y00643,15,Prior Record,1,0.545,6,79.8,High,Vocational,1,1
+Y00644,16,First-Time,0,0.86,6,61.4,Moderate,Standard Supervision,1,1
+Y00645,14,Prior Record,1,0.387,4,96.1,High,CBT,0,0
+Y00646,15,First-Time,0,0.686,4,77.2,High,CBT,0,0
+Y00647,15,Prior Record,1,0.739,5,81.0,High,Vocational,0,0
+Y00648,17,Prior Record,1,0.617,4,94.3,High,Standard Supervision,0,1
+Y00649,17,First-Time,0,0.731,6,47.7,Moderate,Vocational,0,0
+Y00650,15,Prior Record,1,0.71,9,63.1,Moderate,Standard Supervision,1,1
+Y00651,16,First-Time,0,0.923,6,54.0,Moderate,Vocational,0,0
+Y00652,14,Prior Record,1,0.671,6,91.2,High,CBT,0,0
+Y00653,17,Prior Record,1,0.49,4,91.3,High,Vocational,1,1
+Y00654,15,Prior Record,1,0.525,4,89.0,High,Vocational,0,1
+Y00655,15,Prior Record,1,0.412,5,95.1,High,Tough Love,1,1
+Y00656,16,First-Time,0,0.631,10,40.6,Moderate,Standard Supervision,0,1
+Y00657,16,First-Time,0,0.901,5,42.1,Moderate,Vocational,0,0
+Y00658,13,First-Time,0,0.818,7,23.3,Low,Vocational,0,0
+Y00659,14,First-Time,0,0.543,4,85.9,High,Standard Supervision,0,0
+Y00660,13,First-Time,0,0.877,1,61.6,Moderate,CBT,0,0
+Y00661,16,First-Time,0,0.863,4,35.8,Low,CBT,0,0
+Y00662,13,First-Time,0,0.565,10,22.6,Low,Vocational,1,1
+Y00663,14,First-Time,0,0.641,7,45.8,Moderate,CBT,0,0
+Y00664,15,Prior Record,1,0.463,8,58.4,Moderate,Tough Love,1,1
+Y00665,16,First-Time,0,0.976,5,48.3,Moderate,Vocational,0,0
+Y00666,15,Prior Record,1,0.555,1,96.8,High,Vocational,0,0
+Y00667,17,First-Time,0,0.71,4,59.7,Moderate,CBT,0,0
+Y00668,17,First-Time,0,0.716,7,69.8,High,Vocational,0,0
+Y00669,13,First-Time,0,0.803,6,51.3,Moderate,Standard Supervision,0,1
+Y00670,17,First-Time,0,0.5,6,74.6,High,Vocational,0,0
+Y00671,16,First-Time,0,0.615,5,41.2,Moderate,CBT,0,0
+Y00672,16,First-Time,0,0.814,8,14.1,Low,Vocational,0,0
+Y00673,13,First-Time,0,0.68,5,66.1,High,Tough Love,0,0
+Y00674,16,First-Time,0,0.642,7,70.7,High,Tough Love,0,0
+Y00675,16,Prior Record,1,0.711,6,63.9,Moderate,CBT,1,1
+Y00676,15,First-Time,0,0.921,5,49.8,Moderate,Tough Love,0,0
+Y00677,13,Prior Record,1,0.709,3,81.6,High,Tough Love,1,1
+Y00678,15,First-Time,0,0.685,5,48.7,Moderate,Tough Love,0,0
+Y00679,17,Prior Record,1,0.668,9,58.2,Moderate,Vocational,0,0
+Y00680,16,Prior Record,1,0.764,7,60.5,Moderate,CBT,0,0
+Y00681,13,Prior Record,1,0.422,7,65.1,High,Tough Love,0,0
+Y00682,17,Prior Record,1,0.573,4,79.5,High,Vocational,0,1
+Y00683,17,First-Time,0,0.747,3,45.6,Moderate,Vocational,0,0
+Y00684,13,First-Time,0,0.809,8,34.7,Low,Standard Supervision,0,0
+Y00685,17,First-Time,0,0.923,8,31.3,Low,Standard Supervision,1,1
+Y00686,15,Prior Record,1,0.532,5,90.4,High,CBT,0,1
+Y00687,15,Prior Record,1,0.736,4,78.3,High,Vocational,0,1
+Y00688,15,First-Time,0,0.723,3,83.3,High,CBT,0,0
+Y00689,16,Prior Record,1,0.648,7,79.9,High,Tough Love,1,1
+Y00690,17,First-Time,0,0.77,8,30.2,Low,Standard Supervision,0,0
+Y00691,16,Prior Record,1,0.435,4,91.2,High,Standard Supervision,1,1
+Y00692,17,Prior Record,1,0.534,4,86.3,High,CBT,0,0
+Y00693,17,First-Time,0,0.491,8,45.8,Moderate,Standard Supervision,0,1
+Y00694,13,Prior Record,1,0.682,4,94.8,High,CBT,0,0
+Y00695,14,Prior Record,1,0.725,9,68.6,High,Tough Love,1,1
+Y00696,16,First-Time,0,0.693,6,46.5,Moderate,Tough Love,0,1
+Y00697,15,First-Time,0,0.67,5,67.5,High,Standard Supervision,0,1
+Y00698,13,First-Time,0,0.861,6,27.2,Low,Standard Supervision,0,0
+Y00699,13,Prior Record,1,0.674,4,91.6,High,Tough Love,1,1
+Y00700,15,First-Time,0,0.847,8,18.4,Low,Standard Supervision,0,0
+Y00701,16,Prior Record,1,0.584,7,81.7,High,Tough Love,0,0
+Y00702,13,Prior Record,1,0.735,7,92.8,High,Tough Love,1,1
+Y00703,13,First-Time,0,0.791,6,37.2,Low,Tough Love,0,0
+Y00704,13,First-Time,0,0.689,5,89.3,High,Standard Supervision,1,1
+Y00705,15,Prior Record,1,0.515,5,90.1,High,Tough Love,0,0
+Y00706,13,Prior Record,1,0.637,4,82.9,High,Tough Love,1,1
+Y00707,15,First-Time,0,0.702,9,17.8,Low,Standard Supervision,0,0
+Y00708,15,First-Time,0,0.653,8,69.3,High,Vocational,0,1
+Y00709,15,First-Time,0,0.887,6,48.0,Moderate,CBT,0,0
+Y00710,16,Prior Record,1,0.697,3,87.2,High,CBT,0,0
+Y00711,15,First-Time,0,0.849,9,18.7,Low,Tough Love,0,0
+Y00712,16,Prior Record,1,0.221,5,94.1,High,Standard Supervision,0,0
+Y00713,16,First-Time,0,0.837,6,43.1,Moderate,CBT,0,0
+Y00714,17,Prior Record,1,0.587,8,71.8,High,Standard Supervision,0,0
+Y00715,16,First-Time,0,0.818,5,76.5,High,Vocational,0,0
+Y00716,15,First-Time,0,0.427,5,55.5,Moderate,Tough Love,0,1
+Y00717,15,Prior Record,1,0.507,5,91.1,High,Vocational,0,0
+Y00718,14,Prior Record,1,0.603,3,91.7,High,Tough Love,0,0
+Y00719,15,First-Time,0,0.729,7,33.0,Low,Standard Supervision,0,0
+Y00720,13,First-Time,0,0.72,4,78.6,High,Tough Love,0,1
+Y00721,17,First-Time,0,0.869,5,29.6,Low,CBT,1,1
+Y00722,17,First-Time,0,0.658,5,27.2,Low,Vocational,1,1
+Y00723,13,First-Time,0,0.721,5,60.9,Moderate,CBT,0,1
+Y00724,16,Prior Record,1,0.459,4,90.9,High,Tough Love,1,1
+Y00725,13,First-Time,0,0.794,6,26.9,Low,Vocational,0,0
+Y00726,16,Prior Record,1,0.707,5,62.5,Moderate,Vocational,0,0
+Y00727,13,First-Time,0,0.792,6,72.6,High,CBT,0,0
+Y00728,15,First-Time,0,0.789,10,21.4,Low,Standard Supervision,0,0
+Y00729,16,Prior Record,1,0.708,5,82.4,High,Vocational,0,0
+Y00730,16,First-Time,0,0.761,7,70.0,High,Vocational,0,0
+Y00731,15,Prior Record,1,0.753,7,79.5,High,Tough Love,0,0
+Y00732,17,First-Time,0,0.616,6,77.4,High,Vocational,0,0
+Y00733,16,Prior Record,1,0.389,6,75.3,High,CBT,0,0
+Y00734,14,Prior Record,1,0.564,5,74.9,High,Standard Supervision,0,0
+Y00735,16,Prior Record,1,0.805,6,79.6,High,Standard Supervision,0,1
+Y00736,16,First-Time,0,0.508,5,72.8,High,Vocational,0,1
+Y00737,14,First-Time,0,0.953,5,64.4,Moderate,Tough Love,0,1
+Y00738,16,First-Time,0,0.603,6,31.3,Low,Vocational,0,0
+Y00739,17,First-Time,0,0.718,2,85.6,High,Vocational,0,0
+Y00740,17,First-Time,0,0.69,9,39.2,Low,Vocational,0,0
+Y00741,16,First-Time,0,0.84,10,24.6,Low,Standard Supervision,0,0
+Y00742,16,First-Time,0,0.816,6,38.3,Low,Standard Supervision,0,0
+Y00743,14,First-Time,0,0.684,7,49.8,Moderate,Standard Supervision,1,1
+Y00744,16,First-Time,0,0.888,8,17.6,Low,Tough Love,1,1
+Y00745,14,First-Time,0,0.934,3,60.0,Moderate,Standard Supervision,0,0
+Y00746,15,First-Time,0,0.831,8,17.0,Low,CBT,0,0
+Y00747,14,Prior Record,1,0.601,4,83.8,High,CBT,0,0
+Y00748,14,First-Time,0,0.767,10,15.7,Low,CBT,0,0
+Y00749,13,First-Time,0,0.668,6,44.3,Moderate,Standard Supervision,0,0
+Y00750,17,First-Time,0,0.6,8,27.8,Low,Tough Love,0,0
+Y00751,13,Prior Record,1,0.387,5,80.1,High,CBT,0,1
+Y00752,13,First-Time,0,0.689,10,45.0,Moderate,Tough Love,0,0
+Y00753,17,Prior Record,1,0.518,4,87.7,High,Vocational,0,1
+Y00754,15,Prior Record,1,0.741,8,64.9,Moderate,CBT,0,0
+Y00755,15,First-Time,0,0.863,7,15.0,Low,Vocational,0,0
+Y00756,16,Prior Record,1,0.572,6,90.6,High,Vocational,1,1
+Y00757,14,Prior Record,1,0.512,6,84.2,High,Standard Supervision,0,0
+Y00758,13,First-Time,0,0.641,5,55.0,Moderate,Vocational,0,0
+Y00759,16,First-Time,0,0.979,1,71.7,High,Vocational,1,1
+Y00760,13,Prior Record,1,0.451,7,86.6,High,Vocational,1,1
+Y00761,15,Prior Record,1,0.743,4,51.0,Moderate,Vocational,0,0
+Y00762,17,First-Time,0,0.659,8,24.7,Low,Vocational,0,0
+Y00763,17,First-Time,0,0.885,7,31.2,Low,CBT,0,0
+Y00764,14,Prior Record,1,0.37,8,74.7,High,CBT,0,0
+Y00765,16,First-Time,0,0.688,8,69.6,High,CBT,0,0
+Y00766,16,Prior Record,1,0.719,1,93.8,High,Vocational,1,1
+Y00767,15,First-Time,0,0.625,7,59.7,Moderate,CBT,0,0
+Y00768,13,Prior Record,1,0.601,5,94.5,High,Standard Supervision,0,0
+Y00769,14,Prior Record,1,0.354,8,83.1,High,Tough Love,0,0
+Y00770,16,Prior Record,1,0.342,6,81.9,High,CBT,0,0
+Y00771,17,Prior Record,1,0.683,6,61.4,Moderate,Standard Supervision,0,0
+Y00772,13,Prior Record,1,0.683,5,88.4,High,Tough Love,0,0
+Y00773,16,Prior Record,1,0.67,3,96.4,High,Tough Love,0,0
+Y00774,17,Prior Record,1,0.671,4,90.8,High,Tough Love,0,1
+Y00775,17,First-Time,0,0.87,2,85.8,High,CBT,0,0
+Y00776,15,Prior Record,1,0.675,4,97.1,High,Tough Love,0,1
+Y00777,13,First-Time,0,0.786,3,79.9,High,Tough Love,1,1
+Y00778,14,Prior Record,1,0.451,2,92.0,High,CBT,0,0
+Y00779,17,Prior Record,1,0.631,5,84.8,High,Standard Supervision,0,0
+Y00780,17,First-Time,0,0.49,7,70.9,High,Standard Supervision,1,1
+Y00781,16,First-Time,0,0.566,6,53.0,Moderate,Tough Love,0,0
+Y00782,13,First-Time,0,0.529,5,83.1,High,CBT,1,1
+Y00783,13,Prior Record,1,0.305,3,95.3,High,Vocational,0,0
+Y00784,15,First-Time,0,0.729,5,62.1,Moderate,Vocational,0,1
+Y00785,15,First-Time,0,0.779,4,58.2,Moderate,Tough Love,0,0
+Y00786,13,Prior Record,1,0.308,5,91.9,High,CBT,0,0
+Y00787,16,Prior Record,1,0.521,2,95.6,High,Vocational,0,0
+Y00788,15,First-Time,0,0.701,7,21.1,Low,Tough Love,0,0
+Y00789,13,First-Time,0,0.526,5,60.6,Moderate,Standard Supervision,0,0
+Y00790,13,Prior Record,1,0.728,6,60.0,Moderate,Vocational,0,0
+Y00791,15,Prior Record,1,0.787,7,60.6,Moderate,Standard Supervision,0,0
+Y00792,16,Prior Record,1,0.559,6,73.2,High,CBT,0,1
+Y00793,17,First-Time,0,0.727,8,46.3,Moderate,Standard Supervision,0,0
+Y00794,15,First-Time,0,0.722,2,87.8,High,CBT,0,0
+Y00795,14,First-Time,0,0.591,5,71.2,High,Standard Supervision,1,1
+Y00796,17,Prior Record,1,0.488,7,62.6,Moderate,Vocational,0,0
+Y00797,15,First-Time,0,0.333,7,58.1,Moderate,CBT,0,0
+Y00798,14,First-Time,0,0.866,10,7.3,Low,CBT,0,0
+Y00799,15,Prior Record,1,0.673,9,52.9,Moderate,Vocational,1,1
+Y00800,13,Prior Record,1,0.827,6,79.2,High,Tough Love,0,0
+Y00801,14,Prior Record,1,0.502,5,92.7,High,CBT,1,1
+Y00802,15,First-Time,0,0.61,4,76.2,High,Standard Supervision,1,1
+Y00803,17,First-Time,0,0.781,5,72.0,High,Standard Supervision,0,0
+Y00804,16,First-Time,0,0.528,5,70.0,High,Tough Love,0,0
+Y00805,16,First-Time,0,0.861,5,47.2,Moderate,Tough Love,1,1
+Y00806,15,First-Time,0,0.764,4,75.0,High,CBT,0,0
+Y00807,13,First-Time,0,0.591,7,60.1,Moderate,Standard Supervision,0,0
+Y00808,14,Prior Record,1,0.484,9,56.6,Moderate,CBT,0,0
+Y00809,17,Prior Record,1,0.511,7,81.1,High,Vocational,0,0
+Y00810,13,Prior Record,1,0.511,5,85.2,High,CBT,0,0
+Y00811,17,First-Time,0,0.449,8,19.7,Low,Standard Supervision,0,0
+Y00812,16,First-Time,0,0.974,7,34.7,Low,CBT,0,0
+Y00813,14,First-Time,0,0.568,6,37.5,Low,Vocational,0,0
+Y00814,16,First-Time,0,0.751,6,52.4,Moderate,Tough Love,0,1
+Y00815,17,First-Time,0,0.624,6,31.7,Low,Standard Supervision,0,0
+Y00816,13,First-Time,0,0.466,7,42.2,Moderate,Tough Love,0,0
+Y00817,13,Prior Record,1,0.227,5,90.3,High,CBT,0,0
+Y00818,16,First-Time,0,0.887,5,66.7,High,Vocational,0,0
+Y00819,17,Prior Record,1,0.59,4,85.8,High,Tough Love,0,0
+Y00820,13,First-Time,0,0.568,7,32.5,Low,CBT,0,0
+Y00821,16,First-Time,0,0.818,7,40.9,Moderate,Standard Supervision,1,1
+Y00822,13,First-Time,0,0.874,5,46.8,Moderate,Standard Supervision,0,1
+Y00823,16,First-Time,0,0.569,4,80.8,High,Tough Love,0,0
+Y00824,16,First-Time,0,0.655,9,17.3,Low,Vocational,0,0
+Y00825,13,Prior Record,1,0.697,7,72.8,High,CBT,1,1
+Y00826,16,First-Time,0,0.772,2,93.9,High,Vocational,1,1
+Y00827,17,First-Time,0,0.775,9,20.7,Low,CBT,0,0
+Y00828,17,Prior Record,1,0.768,5,82.1,High,CBT,0,0
+Y00829,13,First-Time,0,0.42,6,39.3,Low,Tough Love,0,0
+Y00830,14,Prior Record,1,0.423,7,70.9,High,CBT,0,0
+Y00831,14,First-Time,0,0.237,9,53.8,Moderate,Standard Supervision,0,0
+Y00832,15,Prior Record,1,0.813,7,60.5,Moderate,CBT,0,0
+Y00833,13,First-Time,0,0.862,6,51.1,Moderate,Tough Love,1,1
+Y00834,17,First-Time,0,0.711,3,78.3,High,Standard Supervision,0,0
+Y00835,16,Prior Record,1,0.584,1,91.6,High,Standard Supervision,1,1
+Y00836,17,Prior Record,1,0.683,7,81.6,High,CBT,0,0
+Y00837,13,First-Time,0,0.916,9,9.7,Low,Standard Supervision,0,0
+Y00838,13,Prior Record,1,0.635,4,82.8,High,Standard Supervision,1,1
+Y00839,17,First-Time,0,0.674,5,63.2,Moderate,Standard Supervision,0,0
+Y00840,14,First-Time,0,0.693,5,78.7,High,Standard Supervision,0,0
+Y00841,16,First-Time,0,0.781,5,39.8,Low,Vocational,0,0
+Y00842,17,Prior Record,1,0.459,7,80.5,High,CBT,0,0
+Y00843,13,First-Time,0,0.511,6,61.6,Moderate,CBT,0,0
+Y00844,13,Prior Record,1,0.689,5,87.7,High,Tough Love,0,1
+Y00845,13,First-Time,0,0.792,10,29.5,Low,Standard Supervision,0,0
+Y00846,13,Prior Record,1,0.28,2,96.1,High,Standard Supervision,0,1
+Y00847,13,Prior Record,1,0.71,6,85.7,High,Tough Love,0,0
+Y00848,17,First-Time,0,0.632,4,83.7,High,Vocational,0,0
+Y00849,16,First-Time,0,0.77,6,71.7,High,Vocational,0,0
+Y00850,17,First-Time,0,0.482,6,67.6,High,Vocational,0,0
+Y00851,17,Prior Record,1,0.308,7,84.9,High,Tough Love,0,1
+Y00852,17,First-Time,0,0.716,5,50.8,Moderate,Standard Supervision,0,0
+Y00853,14,First-Time,0,0.514,5,46.2,Moderate,Standard Supervision,0,0
+Y00854,14,First-Time,0,0.398,5,68.7,High,Tough Love,1,1
+Y00855,17,Prior Record,1,0.485,3,94.0,High,Standard Supervision,0,0
+Y00856,14,First-Time,0,0.764,7,36.7,Low,CBT,0,0
+Y00857,13,First-Time,0,0.38,7,65.7,High,Standard Supervision,0,0
+Y00858,16,Prior Record,1,0.795,6,53.4,Moderate,CBT,0,0
+Y00859,17,First-Time,0,0.851,6,39.9,Low,Vocational,0,1
+Y00860,17,Prior Record,1,0.455,5,96.2,High,Vocational,0,0
+Y00861,17,First-Time,0,0.763,8,44.3,Moderate,Vocational,0,0
+Y00862,13,First-Time,0,0.612,8,46.2,Moderate,Standard Supervision,0,0
+Y00863,16,Prior Record,1,0.561,8,73.3,High,CBT,1,1
+Y00864,17,Prior Record,1,0.462,6,81.1,High,Vocational,1,1
+Y00865,16,Prior Record,1,0.569,8,42.8,Moderate,Standard Supervision,0,0
+Y00866,17,First-Time,0,0.844,5,58.3,Moderate,Vocational,0,0
+Y00867,17,First-Time,0,0.761,6,16.9,Low,Vocational,0,0
+Y00868,15,First-Time,0,0.562,8,35.0,Low,CBT,0,0
+Y00869,13,First-Time,0,0.673,8,34.3,Low,CBT,0,0
+Y00870,15,First-Time,0,0.945,5,39.9,Low,Vocational,0,0
+Y00871,14,First-Time,0,0.466,4,92.2,High,CBT,0,0
+Y00872,13,First-Time,0,0.786,6,71.6,High,Standard Supervision,0,0
+Y00873,13,First-Time,0,0.527,5,78.9,High,Tough Love,0,1
+Y00874,16,First-Time,0,0.779,9,14.6,Low,Standard Supervision,0,0
+Y00875,15,First-Time,0,0.563,8,67.4,High,Tough Love,0,0
+Y00876,15,Prior Record,1,0.503,4,93.5,High,Standard Supervision,0,1
+Y00877,16,Prior Record,1,0.507,3,88.8,High,CBT,0,0
+Y00878,15,First-Time,0,0.426,4,78.0,High,Vocational,1,1
+Y00879,16,Prior Record,1,0.841,4,90.0,High,Standard Supervision,0,1
+Y00880,13,Prior Record,1,0.582,5,80.6,High,Tough Love,0,1
+Y00881,17,First-Time,0,0.967,8,24.0,Low,CBT,0,0
+Y00882,15,First-Time,0,0.786,4,67.2,High,Vocational,0,0
+Y00883,13,First-Time,0,0.655,10,12.2,Low,Vocational,0,0
+Y00884,17,First-Time,0,0.753,4,60.6,Moderate,Vocational,0,0
+Y00885,16,Prior Record,1,0.44,2,92.5,High,Vocational,1,1
+Y00886,13,Prior Record,1,0.504,9,74.3,High,CBT,0,0
+Y00887,13,First-Time,0,0.946,9,11.0,Low,Standard Supervision,0,0
+Y00888,13,Prior Record,1,0.672,5,85.6,High,Tough Love,0,1
+Y00889,14,First-Time,0,0.77,7,21.0,Low,CBT,0,0
+Y00890,13,Prior Record,1,0.408,6,75.1,High,Vocational,1,1
+Y00891,16,Prior Record,1,0.674,5,70.9,High,CBT,0,1
+Y00892,15,First-Time,0,0.806,3,66.0,High,CBT,0,0
+Y00893,17,First-Time,0,0.593,1,88.8,High,Standard Supervision,0,0
+Y00894,16,Prior Record,1,0.747,4,88.3,High,Standard Supervision,0,0
+Y00895,16,Prior Record,1,0.64,9,31.2,Low,CBT,0,0
+Y00896,15,First-Time,0,0.802,10,15.4,Low,Standard Supervision,0,0
+Y00897,13,First-Time,0,0.841,5,40.6,Moderate,Standard Supervision,0,0
+Y00898,13,First-Time,0,0.823,4,68.4,High,CBT,0,0
+Y00899,16,Prior Record,1,0.677,6,74.7,High,Vocational,0,0
+Y00900,13,Prior Record,1,0.822,6,71.3,High,CBT,0,0
+Y00901,13,Prior Record,1,0.793,6,63.8,Moderate,Tough Love,0,0
+Y00902,14,Prior Record,1,0.659,1,98.3,High,Tough Love,0,1
+Y00903,17,Prior Record,1,0.557,10,33.5,Low,Standard Supervision,0,0
+Y00904,15,Prior Record,1,0.768,7,61.6,Moderate,Tough Love,0,0
+Y00905,16,First-Time,0,0.587,6,57.2,Moderate,Vocational,0,0
+Y00906,15,Prior Record,1,0.67,4,85.9,High,Vocational,0,1
+Y00907,13,First-Time,0,0.734,8,22.7,Low,Tough Love,0,1
+Y00908,14,First-Time,0,0.816,7,15.9,Low,Standard Supervision,0,0
+Y00909,13,Prior Record,1,0.713,5,75.2,High,Vocational,0,0
+Y00910,16,Prior Record,1,0.283,6,81.1,High,CBT,0,0
+Y00911,13,Prior Record,1,0.342,5,96.3,High,Standard Supervision,0,0
+Y00912,14,First-Time,0,0.733,7,72.0,High,CBT,0,0
+Y00913,17,First-Time,0,0.559,7,47.6,Moderate,CBT,0,0
+Y00914,15,First-Time,0,0.921,7,16.3,Low,Standard Supervision,0,0
+Y00915,15,First-Time,0,0.859,7,44.4,Moderate,CBT,0,0
+Y00916,15,First-Time,0,0.393,9,26.4,Low,CBT,0,0
+Y00917,16,First-Time,0,0.767,3,64.3,Moderate,CBT,0,1
+Y00918,14,First-Time,0,0.417,4,70.9,High,Standard Supervision,0,0
+Y00919,16,Prior Record,1,0.827,5,73.0,High,CBT,0,0
+Y00920,17,First-Time,0,0.615,5,57.6,Moderate,Vocational,0,0
+Y00921,15,First-Time,0,0.836,5,32.9,Low,CBT,0,0
+Y00922,15,Prior Record,1,0.797,8,47.1,Moderate,Vocational,0,1
+Y00923,13,First-Time,0,0.762,6,62.0,Moderate,Tough Love,1,1
+Y00924,14,Prior Record,1,0.748,2,92.3,High,Standard Supervision,0,0
+Y00925,17,Prior Record,1,0.847,4,84.3,High,Vocational,0,1
+Y00926,15,First-Time,0,0.899,6,15.0,Low,Vocational,0,0
+Y00927,14,Prior Record,1,0.769,5,87.9,High,Tough Love,1,1
+Y00928,15,Prior Record,1,0.74,6,67.0,High,Tough Love,0,0
+Y00929,15,Prior Record,1,0.552,6,89.7,High,Tough Love,0,0
+Y00930,15,Prior Record,1,0.774,5,81.7,High,Tough Love,0,0
+Y00931,16,Prior Record,1,0.778,3,85.3,High,Standard Supervision,0,0
+Y00932,14,Prior Record,1,0.737,4,69.4,High,CBT,0,0
+Y00933,16,First-Time,0,0.697,5,84.0,High,Vocational,0,0
+Y00934,15,Prior Record,1,0.598,5,90.3,High,Vocational,0,0
+Y00935,17,Prior Record,1,0.705,7,79.6,High,Tough Love,0,0
+Y00936,13,Prior Record,1,0.493,6,93.7,High,Tough Love,1,1
+Y00937,13,Prior Record,1,0.429,7,82.1,High,Standard Supervision,1,1
+Y00938,15,First-Time,0,0.91,5,67.7,High,CBT,0,0
+Y00939,15,Prior Record,1,0.73,8,53.8,Moderate,Tough Love,0,1
+Y00940,16,Prior Record,1,0.168,7,91.3,High,Tough Love,0,0
+Y00941,15,First-Time,0,0.91,6,31.0,Low,Vocational,0,0
+Y00942,17,First-Time,0,0.723,7,33.2,Low,Vocational,0,0
+Y00943,15,First-Time,0,0.861,5,52.1,Moderate,Tough Love,0,0
+Y00944,13,First-Time,0,0.682,2,66.3,High,CBT,0,0
+Y00945,13,Prior Record,1,0.668,4,89.7,High,Standard Supervision,1,1
+Y00946,17,First-Time,0,0.782,7,33.2,Low,Standard Supervision,0,0
+Y00947,13,First-Time,0,0.709,6,23.0,Low,CBT,0,0
+Y00948,17,Prior Record,1,0.679,5,78.9,High,Tough Love,1,1
+Y00949,14,Prior Record,1,0.439,4,90.2,High,CBT,0,1
+Y00950,13,Prior Record,1,0.477,1,98.0,High,Tough Love,1,1
+Y00951,14,Prior Record,1,0.66,8,67.9,High,CBT,1,1
+Y00952,16,Prior Record,1,0.526,5,94.1,High,Tough Love,0,1
+Y00953,15,Prior Record,1,0.677,4,90.5,High,Standard Supervision,0,0
+Y00954,16,Prior Record,1,0.809,4,79.4,High,Vocational,0,0
+Y00955,16,First-Time,0,0.487,9,34.1,Low,Standard Supervision,0,0
+Y00956,15,Prior Record,1,0.745,7,63.4,Moderate,CBT,0,0
+Y00957,16,First-Time,0,0.74,4,71.4,High,CBT,0,0
+Y00958,17,First-Time,0,0.786,8,30.2,Low,Vocational,0,0
+Y00959,15,First-Time,0,0.909,6,31.1,Low,CBT,0,0
+Y00960,13,Prior Record,1,0.629,4,88.6,High,Tough Love,0,0
+Y00961,15,Prior Record,1,0.758,5,84.7,High,Tough Love,0,1
+Y00962,17,First-Time,0,0.896,4,42.7,Moderate,CBT,0,0
+Y00963,14,Prior Record,1,0.598,3,93.4,High,Standard Supervision,0,0
+Y00964,17,First-Time,0,0.757,8,14.7,Low,Standard Supervision,0,0
+Y00965,15,Prior Record,1,0.44,5,93.9,High,Standard Supervision,0,1
+Y00966,16,Prior Record,1,0.419,6,88.9,High,CBT,0,0
+Y00967,14,Prior Record,1,0.506,6,92.9,High,Tough Love,1,1
+Y00968,17,Prior Record,1,0.67,6,64.3,Moderate,Tough Love,0,0
+Y00969,13,First-Time,0,0.506,2,92.2,High,CBT,0,0
+Y00970,14,First-Time,0,0.82,4,73.5,High,Tough Love,0,1
+Y00971,15,Prior Record,1,0.785,6,71.5,High,Tough Love,1,1
+Y00972,15,Prior Record,1,0.584,3,90.5,High,CBT,1,1
+Y00973,15,First-Time,0,0.597,7,31.1,Low,Tough Love,0,1
+Y00974,13,First-Time,0,0.806,3,50.8,Moderate,Tough Love,0,0
+Y00975,14,First-Time,0,0.749,6,36.6,Low,Tough Love,1,1
+Y00976,13,First-Time,0,0.841,9,11.1,Low,Vocational,0,0
+Y00977,15,First-Time,0,0.881,8,47.4,Moderate,CBT,0,0
+Y00978,14,First-Time,0,0.875,2,53.7,Moderate,Standard Supervision,0,1
+Y00979,15,Prior Record,1,0.559,7,77.2,High,Tough Love,1,1
+Y00980,15,First-Time,0,0.62,10,27.3,Low,Standard Supervision,0,0
+Y00981,16,First-Time,0,0.677,10,24.2,Low,CBT,0,0
+Y00982,15,First-Time,0,0.508,7,57.5,Moderate,CBT,0,0
+Y00983,16,First-Time,0,0.854,3,78.7,High,Vocational,1,1
+Y00984,15,Prior Record,1,0.38,6,82.8,High,Standard Supervision,1,1
+Y00985,16,First-Time,0,0.819,9,22.5,Low,Vocational,0,0
+Y00986,16,Prior Record,1,0.653,5,81.3,High,Vocational,0,0
+Y00987,14,Prior Record,1,0.515,7,88.1,High,CBT,0,1
+Y00988,14,First-Time,0,0.963,4,80.8,High,CBT,0,0
+Y00989,16,Prior Record,1,0.725,6,60.7,Moderate,Vocational,0,0
+Y00990,14,Prior Record,1,0.668,1,85.7,High,Tough Love,1,1
+Y00991,15,First-Time,0,0.812,4,69.4,High,Tough Love,0,0
+Y00992,13,First-Time,0,0.717,6,64.8,Moderate,Tough Love,1,1
+Y00993,15,Prior Record,1,0.605,4,96.3,High,Vocational,0,0
+Y00994,15,Prior Record,1,0.28,3,97.2,High,Tough Love,1,1
+Y00995,16,First-Time,0,0.841,5,71.2,High,Vocational,0,0
+Y00996,15,Prior Record,1,0.42,6,94.0,High,Tough Love,0,0
+Y00997,14,First-Time,0,0.903,6,61.6,Moderate,Vocational,0,0
+Y00998,17,Prior Record,1,0.56,5,91.4,High,Vocational,0,0
+Y00999,15,First-Time,0,0.67,7,25.7,Low,CBT,0,0
+Y01000,17,First-Time,0,0.804,5,53.4,Moderate,Vocational,0,0
+Y01001,16,Prior Record,1,0.616,8,70.0,High,CBT,0,0
+Y01002,15,Prior Record,1,0.592,3,91.7,High,Tough Love,0,1
+Y01003,17,Prior Record,1,0.425,9,66.3,High,CBT,0,0
+Y01004,13,First-Time,0,0.675,8,57.2,Moderate,CBT,0,0
+Y01005,17,First-Time,0,0.728,5,46.0,Moderate,Vocational,0,0
+Y01006,17,Prior Record,1,0.605,5,90.2,High,Standard Supervision,0,1
+Y01007,15,Prior Record,1,0.722,6,79.3,High,CBT,0,0
+Y01008,16,First-Time,0,0.612,7,33.4,Low,Vocational,0,0
+Y01009,15,Prior Record,1,0.544,7,62.6,Moderate,Standard Supervision,0,1
+Y01010,14,First-Time,0,0.395,3,65.5,High,Standard Supervision,0,0
+Y01011,16,First-Time,0,0.603,7,53.4,Moderate,Vocational,0,0
+Y01012,14,First-Time,0,0.404,2,87.6,High,Standard Supervision,0,0
+Y01013,14,First-Time,0,0.676,6,39.0,Low,CBT,0,0
+Y01014,15,First-Time,0,0.915,9,6.9,Low,Standard Supervision,1,1
+Y01015,17,Prior Record,1,0.766,2,93.9,High,Standard Supervision,1,1
+Y01016,14,First-Time,0,0.884,3,64.1,Moderate,CBT,0,0
+Y01017,15,First-Time,0,0.677,6,40.6,Moderate,Tough Love,0,0
+Y01018,13,First-Time,0,0.733,9,15.5,Low,CBT,0,0
+Y01019,13,First-Time,0,0.912,7,28.6,Low,Standard Supervision,0,0
+Y01020,13,First-Time,0,0.685,2,84.7,High,CBT,0,0
+Y01021,13,Prior Record,1,0.642,2,92.5,High,Vocational,0,0
+Y01022,17,First-Time,0,0.622,6,36.4,Low,Vocational,0,0
+Y01023,17,Prior Record,1,0.708,3,90.0,High,CBT,0,1
+Y01024,17,Prior Record,1,0.497,5,93.0,High,CBT,0,0
+Y01025,13,First-Time,0,0.845,6,43.4,Moderate,CBT,0,0
+Y01026,13,Prior Record,1,0.546,4,90.5,High,Tough Love,1,1
+Y01027,14,Prior Record,1,0.77,9,45.4,Moderate,Tough Love,1,1
+Y01028,15,Prior Record,1,0.438,6,76.7,High,Vocational,1,1
+Y01029,14,Prior Record,1,0.345,8,65.9,High,Vocational,0,0
+Y01030,15,Prior Record,1,0.565,7,53.1,Moderate,CBT,0,0
+Y01031,13,Prior Record,1,0.727,5,90.1,High,Vocational,0,1
+Y01032,16,Prior Record,1,0.497,5,90.3,High,Vocational,0,0
+Y01033,14,First-Time,0,0.747,5,57.6,Moderate,Standard Supervision,0,0
+Y01034,13,Prior Record,1,0.469,7,81.6,High,Tough Love,0,0
+Y01035,16,Prior Record,1,0.713,4,88.9,High,CBT,1,1
+Y01036,17,Prior Record,1,0.766,9,39.6,Low,Vocational,1,1
+Y01037,13,First-Time,0,0.715,5,53.1,Moderate,CBT,0,0
+Y01038,15,First-Time,0,0.496,6,53.1,Moderate,Tough Love,0,0
+Y01039,17,First-Time,0,0.724,6,81.1,High,Standard Supervision,0,0
+Y01040,16,First-Time,0,0.862,5,65.4,High,Tough Love,1,1
+Y01041,17,First-Time,0,0.578,10,25.8,Low,Standard Supervision,0,0
+Y01042,15,First-Time,0,0.819,5,71.7,High,Standard Supervision,0,0
+Y01043,14,First-Time,0,0.871,5,67.9,High,Tough Love,1,1
+Y01044,16,First-Time,0,0.268,5,59.5,Moderate,CBT,0,0
+Y01045,13,First-Time,0,0.718,6,45.8,Moderate,CBT,0,0
+Y01046,14,Prior Record,1,0.513,5,87.2,High,CBT,0,0
+Y01047,16,First-Time,0,0.88,4,67.0,High,Tough Love,0,0
+Y01048,16,First-Time,0,0.764,5,52.2,Moderate,Vocational,0,1
+Y01049,13,First-Time,0,0.716,7,39.1,Low,CBT,0,0
+Y01050,15,First-Time,0,0.842,8,22.1,Low,Vocational,0,0
+Y01051,14,First-Time,0,0.859,6,57.7,Moderate,Standard Supervision,1,1
+Y01052,15,Prior Record,1,0.79,5,62.3,Moderate,Vocational,0,1
+Y01053,17,Prior Record,1,0.645,4,85.2,High,Tough Love,0,1
+Y01054,13,First-Time,0,0.585,5,37.1,Low,Vocational,0,0
+Y01055,17,Prior Record,1,0.755,3,82.1,High,Vocational,0,0
+Y01056,15,First-Time,0,0.711,3,77.2,High,Tough Love,1,1
+Y01057,16,First-Time,0,0.853,5,56.1,Moderate,Vocational,0,0
+Y01058,15,First-Time,0,0.634,8,32.0,Low,Tough Love,0,0
+Y01059,14,First-Time,0,0.629,5,76.2,High,Standard Supervision,0,1
+Y01060,16,Prior Record,1,0.475,5,94.3,High,CBT,0,0
+Y01061,16,Prior Record,1,0.673,4,87.1,High,Tough Love,0,0
+Y01062,13,Prior Record,1,0.603,8,69.9,High,CBT,0,0
+Y01063,16,First-Time,0,0.81,4,55.2,Moderate,CBT,1,1
+Y01064,16,Prior Record,1,0.713,6,82.5,High,Tough Love,1,1
+Y01065,14,First-Time,0,0.664,6,34.4,Low,CBT,0,0
+Y01066,17,First-Time,0,0.648,6,76.5,High,CBT,0,0
+Y01067,16,First-Time,0,0.728,6,65.2,High,Standard Supervision,0,0
+Y01068,14,Prior Record,1,0.721,5,68.7,High,CBT,0,0
+Y01069,13,Prior Record,1,0.811,7,53.8,Moderate,CBT,0,0
+Y01070,16,First-Time,0,0.544,6,63.8,Moderate,Standard Supervision,0,0
+Y01071,14,Prior Record,1,0.84,9,41.8,Moderate,Tough Love,0,0
+Y01072,16,Prior Record,1,0.725,5,86.1,High,CBT,0,0
+Y01073,15,Prior Record,1,0.475,2,94.5,High,Tough Love,0,0
+Y01074,15,First-Time,0,0.671,7,65.1,High,Tough Love,0,0
+Y01075,13,Prior Record,1,0.454,6,84.5,High,CBT,0,0
+Y01076,16,Prior Record,1,0.593,5,96.1,High,Tough Love,0,1
+Y01077,13,Prior Record,1,0.769,5,85.5,High,Standard Supervision,0,0
+Y01078,15,First-Time,0,0.897,2,54.9,Moderate,Vocational,0,0
+Y01079,17,Prior Record,1,0.335,1,99.3,High,Tough Love,1,1
+Y01080,17,First-Time,0,0.489,9,50.8,Moderate,Vocational,1,1
+Y01081,17,Prior Record,1,0.518,4,92.4,High,CBT,1,1
+Y01082,17,First-Time,0,0.668,8,43.9,Moderate,CBT,0,0
+Y01083,15,First-Time,0,0.826,3,52.1,Moderate,CBT,0,0
+Y01084,14,First-Time,0,0.407,4,55.1,Moderate,Tough Love,0,0
+Y01085,17,First-Time,0,0.781,7,36.9,Low,CBT,1,1
+Y01086,17,First-Time,0,0.941,6,58.6,Moderate,Vocational,1,1
+Y01087,17,First-Time,0,0.976,7,34.0,Low,CBT,0,0
+Y01088,16,First-Time,0,0.836,6,68.0,High,CBT,1,1
+Y01089,13,First-Time,0,0.495,6,76.9,High,CBT,0,1
+Y01090,15,Prior Record,1,0.539,4,90.3,High,CBT,0,1
+Y01091,15,Prior Record,1,0.5,3,96.6,High,Vocational,0,1
+Y01092,17,Prior Record,1,0.629,8,82.6,High,Vocational,0,0
+Y01093,14,First-Time,0,0.948,9,16.9,Low,CBT,0,0
+Y01094,14,First-Time,0,0.761,4,61.1,Moderate,CBT,0,0
+Y01095,13,Prior Record,1,0.564,3,93.1,High,CBT,0,0
+Y01096,17,First-Time,0,0.288,5,43.2,Moderate,Vocational,0,0
+Y01097,16,First-Time,0,0.882,7,36.7,Low,CBT,1,1
+Y01098,13,Prior Record,1,0.682,5,88.3,High,Vocational,1,1
+Y01099,15,Prior Record,1,0.575,6,82.3,High,Standard Supervision,0,1
+Y01100,15,First-Time,0,0.572,6,61.4,Moderate,Standard Supervision,0,0
+Y01101,15,Prior Record,1,0.328,5,90.6,High,Tough Love,1,1
+Y01102,17,First-Time,0,0.634,10,7.8,Low,Vocational,0,0
+Y01103,13,Prior Record,1,0.684,4,94.9,High,CBT,0,1
+Y01104,14,First-Time,0,0.879,9,16.4,Low,CBT,0,1
+Y01105,13,First-Time,0,0.484,9,27.1,Low,CBT,0,0
+Y01106,14,Prior Record,1,0.763,6,86.9,High,Tough Love,1,1
+Y01107,17,First-Time,0,0.7,2,87.9,High,CBT,0,0
+Y01108,17,Prior Record,1,0.388,5,91.2,High,Tough Love,0,0
+Y01109,13,First-Time,0,0.619,5,72.6,High,Standard Supervision,0,0
+Y01110,16,Prior Record,1,0.78,5,66.8,High,Tough Love,0,0
+Y01111,14,Prior Record,1,0.532,3,92.7,High,Standard Supervision,0,0
+Y01112,13,First-Time,0,0.207,8,74.3,High,CBT,1,1
+Y01113,14,Prior Record,1,0.722,7,59.9,Moderate,Standard Supervision,0,0
+Y01114,13,First-Time,0,0.41,8,32.8,Low,Standard Supervision,0,0
+Y01115,15,First-Time,0,0.522,5,68.0,High,Tough Love,0,1
+Y01116,17,First-Time,0,0.614,4,71.8,High,Vocational,0,0
+Y01117,15,Prior Record,1,0.743,6,81.8,High,Standard Supervision,0,0
+Y01118,16,Prior Record,1,0.656,9,35.7,Low,Tough Love,0,0
+Y01119,15,Prior Record,1,0.737,5,48.6,Moderate,Standard Supervision,0,0
+Y01120,13,Prior Record,1,0.546,6,88.7,High,Standard Supervision,0,1
+Y01121,13,Prior Record,1,0.512,5,78.2,High,Standard Supervision,0,1
+Y01122,14,First-Time,0,0.777,5,45.8,Moderate,CBT,0,0
+Y01123,14,Prior Record,1,0.578,7,44.6,Moderate,Tough Love,1,1
+Y01124,17,Prior Record,1,0.548,5,92.2,High,Standard Supervision,0,0
+Y01125,17,First-Time,0,0.891,7,37.2,Low,Vocational,0,0
+Y01126,17,Prior Record,1,0.637,6,81.9,High,CBT,0,0
+Y01127,16,First-Time,0,0.811,7,40.4,Moderate,Standard Supervision,1,1
+Y01128,15,First-Time,0,0.8,7,14.4,Low,Vocational,0,0
+Y01129,16,First-Time,0,0.906,4,42.5,Moderate,Vocational,0,0
+Y01130,15,First-Time,0,0.744,4,58.4,Moderate,Vocational,0,0
+Y01131,16,First-Time,0,0.85,6,32.1,Low,Standard Supervision,0,0
+Y01132,16,Prior Record,1,0.767,5,77.8,High,Standard Supervision,0,0
+Y01133,16,Prior Record,1,0.418,4,93.2,High,Tough Love,1,1
+Y01134,16,First-Time,0,0.936,6,53.3,Moderate,Vocational,0,0
+Y01135,13,First-Time,0,0.491,8,23.7,Low,CBT,1,1
+Y01136,16,First-Time,0,0.886,8,25.4,Low,Standard Supervision,0,0
+Y01137,14,First-Time,0,0.703,9,34.8,Low,Vocational,0,0
+Y01138,16,Prior Record,1,0.837,3,80.6,High,Standard Supervision,1,1
+Y01139,15,First-Time,0,0.706,4,63.9,Moderate,Vocational,0,0
+Y01140,17,Prior Record,1,0.61,5,88.2,High,Vocational,1,1
+Y01141,14,Prior Record,1,0.768,5,80.6,High,Standard Supervision,0,1
+Y01142,17,Prior Record,1,0.601,5,89.6,High,Vocational,0,1
+Y01143,17,Prior Record,1,0.763,4,86.2,High,Vocational,0,0
+Y01144,14,First-Time,0,0.963,5,41.0,Moderate,CBT,0,0
+Y01145,15,Prior Record,1,0.855,6,54.6,Moderate,Tough Love,0,0
+Y01146,15,Prior Record,1,0.732,3,91.2,High,Vocational,0,0
+Y01147,16,Prior Record,1,0.382,10,62.2,Moderate,Standard Supervision,0,0
+Y01148,16,Prior Record,1,0.572,5,77.0,High,CBT,0,0
+Y01149,17,Prior Record,1,0.191,7,90.2,High,Vocational,1,1
+Y01150,14,Prior Record,1,0.611,4,94.5,High,CBT,1,1
+Y01151,15,First-Time,0,0.765,7,29.4,Low,Vocational,0,0
+Y01152,15,Prior Record,1,0.067,5,91.5,High,Standard Supervision,1,1
+Y01153,17,Prior Record,1,0.35,7,74.9,High,Standard Supervision,1,1
+Y01154,14,First-Time,0,0.797,6,23.1,Low,Standard Supervision,0,0
+Y01155,15,Prior Record,1,0.355,8,91.6,High,Tough Love,0,1
+Y01156,13,First-Time,0,0.757,3,66.1,High,Vocational,1,1
+Y01157,17,Prior Record,1,0.643,7,61.0,Moderate,Vocational,0,0
+Y01158,14,First-Time,0,0.748,6,31.6,Low,Standard Supervision,0,0
+Y01159,14,First-Time,0,0.762,4,58.5,Moderate,Tough Love,0,1
+Y01160,15,Prior Record,1,0.792,9,38.9,Low,Tough Love,0,0
+Y01161,15,First-Time,0,0.617,10,40.8,Moderate,CBT,0,0
+Y01162,17,First-Time,0,0.92,2,55.3,Moderate,Vocational,1,1
+Y01163,15,First-Time,0,0.557,6,34.6,Low,Tough Love,0,0
+Y01164,15,First-Time,0,0.873,7,41.0,Moderate,CBT,0,0
+Y01165,13,Prior Record,1,0.631,6,78.2,High,CBT,0,0
+Y01166,13,Prior Record,1,0.399,8,72.5,High,CBT,0,1
+Y01167,14,First-Time,0,0.391,9,47.6,Moderate,CBT,0,0
+Y01168,17,Prior Record,1,0.73,6,77.3,High,Tough Love,0,1
+Y01169,17,First-Time,0,0.71,10,19.0,Low,Vocational,0,0
+Y01170,16,Prior Record,1,0.59,7,55.6,Moderate,Standard Supervision,0,0
+Y01171,16,First-Time,0,0.79,5,30.3,Low,CBT,0,0
+Y01172,14,First-Time,0,0.775,5,44.5,Moderate,Vocational,0,1
+Y01173,13,First-Time,0,0.875,8,15.4,Low,Standard Supervision,0,0
+Y01174,13,Prior Record,1,0.661,4,89.5,High,CBT,1,1
+Y01175,14,First-Time,0,0.908,5,24.1,Low,Standard Supervision,0,0
+Y01176,14,First-Time,0,0.561,6,50.2,Moderate,Tough Love,0,0
+Y01177,13,Prior Record,1,0.551,6,80.1,High,Standard Supervision,0,0
+Y01178,14,Prior Record,1,0.525,5,86.7,High,Standard Supervision,0,0
+Y01179,13,First-Time,0,0.51,3,84.1,High,Tough Love,0,0
+Y01180,16,Prior Record,1,0.82,8,51.6,Moderate,Standard Supervision,0,0
+Y01181,17,Prior Record,1,0.599,4,84.6,High,Vocational,1,1
+Y01182,16,First-Time,0,0.588,10,39.4,Low,CBT,0,0
+Y01183,15,Prior Record,1,0.422,6,82.7,High,Tough Love,0,0
+Y01184,15,First-Time,0,0.736,9,43.3,Moderate,Standard Supervision,0,0
+Y01185,14,Prior Record,1,0.224,6,87.6,High,Standard Supervision,0,0
+Y01186,13,First-Time,0,0.683,9,26.4,Low,Standard Supervision,0,0
+Y01187,15,Prior Record,1,0.472,6,82.8,High,Tough Love,0,1
+Y01188,15,First-Time,0,0.653,6,55.8,Moderate,Tough Love,0,0
+Y01189,13,First-Time,0,0.51,8,36.1,Low,Standard Supervision,0,0
+Y01190,15,Prior Record,1,0.739,10,44.5,Moderate,Standard Supervision,1,1
+Y01191,14,First-Time,0,0.824,5,73.5,High,Standard Supervision,0,0
+Y01192,13,Prior Record,1,0.703,7,81.3,High,Standard Supervision,0,0
+Y01193,16,Prior Record,1,0.528,5,92.6,High,CBT,0,0
+Y01194,15,Prior Record,1,0.579,6,65.4,High,Tough Love,1,1
+Y01195,16,First-Time,0,0.448,6,44.9,Moderate,Standard Supervision,0,0
+Y01196,16,Prior Record,1,0.633,1,96.1,High,Tough Love,0,0
+Y01197,17,First-Time,0,0.972,6,48.0,Moderate,Standard Supervision,0,0
+Y01198,17,First-Time,0,0.781,8,23.6,Low,Vocational,0,0
+Y01199,16,Prior Record,1,0.815,4,77.8,High,CBT,1,1
+Y01200,17,Prior Record,1,0.235,7,93.2,High,Standard Supervision,1,1
+Y01201,15,First-Time,0,0.529,6,68.0,High,Tough Love,0,0
+Y01202,17,First-Time,0,0.799,6,60.8,Moderate,CBT,0,0
+Y01203,16,Prior Record,1,0.441,7,75.1,High,Tough Love,0,1
+Y01204,16,Prior Record,1,0.76,7,60.3,Moderate,Vocational,1,1
+Y01205,17,First-Time,0,0.862,7,47.4,Moderate,Tough Love,0,0
+Y01206,15,Prior Record,1,0.676,7,67.7,High,Tough Love,0,0
+Y01207,16,First-Time,0,0.676,6,42.1,Moderate,CBT,0,0
+Y01208,14,First-Time,0,0.628,3,65.6,High,CBT,0,1
+Y01209,17,Prior Record,1,0.541,4,87.1,High,Vocational,0,0
+Y01210,16,Prior Record,1,0.735,2,95.5,High,CBT,0,1
+Y01211,16,First-Time,0,0.296,7,39.0,Low,Vocational,0,0
+Y01212,15,First-Time,0,0.568,8,48.5,Moderate,Standard Supervision,1,1
+Y01213,17,First-Time,0,0.453,8,34.7,Low,Vocational,0,0
+Y01214,13,Prior Record,1,0.536,6,80.3,High,CBT,0,0
+Y01215,13,First-Time,0,0.584,8,36.5,Low,Standard Supervision,1,1
+Y01216,15,First-Time,0,0.763,3,68.8,High,Tough Love,0,0
+Y01217,16,Prior Record,1,0.496,5,85.6,High,Tough Love,0,1
+Y01218,17,First-Time,0,0.664,3,70.2,High,CBT,0,0
+Y01219,15,Prior Record,1,0.778,4,80.2,High,Standard Supervision,0,0
+Y01220,16,First-Time,0,0.884,9,34.8,Low,Vocational,0,0
+Y01221,15,Prior Record,1,0.586,7,74.9,High,Standard Supervision,0,0
+Y01222,17,First-Time,0,0.475,7,50.6,Moderate,Vocational,0,0
+Y01223,16,First-Time,0,0.744,6,38.4,Low,Vocational,0,0
+Y01224,15,First-Time,0,0.648,4,63.6,Moderate,CBT,0,0
+Y01225,17,Prior Record,1,0.643,6,71.7,High,CBT,0,0
+Y01226,13,Prior Record,1,0.621,7,81.3,High,Standard Supervision,1,1
+Y01227,17,First-Time,0,0.685,7,31.6,Low,CBT,0,0
+Y01228,13,First-Time,0,0.939,3,31.5,Low,CBT,0,0
+Y01229,14,Prior Record,1,0.306,5,91.5,High,Standard Supervision,1,1
+Y01230,17,First-Time,0,0.745,2,75.8,High,Tough Love,0,0
+Y01231,16,First-Time,0,0.734,8,24.6,Low,Vocational,0,0
+Y01232,17,Prior Record,1,0.556,4,93.9,High,CBT,0,0
+Y01233,16,First-Time,0,0.739,4,26.5,Low,Vocational,0,0
+Y01234,16,First-Time,0,0.696,8,56.3,Moderate,CBT,0,0
+Y01235,14,First-Time,0,0.825,7,50.8,Moderate,CBT,0,0
+Y01236,13,First-Time,0,0.751,6,38.2,Low,CBT,0,1
+Y01237,13,First-Time,0,0.879,10,11.6,Low,Standard Supervision,0,0
+Y01238,14,Prior Record,1,0.659,6,83.0,High,Standard Supervision,1,1
+Y01239,13,Prior Record,1,0.789,4,88.5,High,Standard Supervision,1,1
+Y01240,15,First-Time,0,0.676,7,33.6,Low,Standard Supervision,0,0
+Y01241,16,Prior Record,1,0.571,5,69.8,High,Vocational,0,0
+Y01242,17,First-Time,0,0.794,9,50.8,Moderate,Tough Love,0,0
+Y01243,15,Prior Record,1,0.56,6,88.6,High,Tough Love,1,1
+Y01244,17,First-Time,0,0.639,7,46.7,Moderate,Tough Love,0,0
+Y01245,17,Prior Record,1,0.557,2,95.2,High,Vocational,1,1
+Y01246,17,First-Time,0,0.803,6,54.2,Moderate,CBT,0,0
+Y01247,15,First-Time,0,0.875,6,52.4,Moderate,Tough Love,0,1
+Y01248,14,First-Time,0,0.6,4,41.3,Moderate,Standard Supervision,0,0
+Y01249,17,First-Time,0,0.961,6,32.5,Low,Standard Supervision,0,0
+Y01250,14,First-Time,0,0.846,7,28.6,Low,Tough Love,0,0
+Y01251,15,Prior Record,1,0.818,5,77.2,High,Vocational,0,0
+Y01252,13,Prior Record,1,0.547,2,96.7,High,Tough Love,0,1
+Y01253,16,First-Time,0,0.759,5,30.1,Low,Standard Supervision,0,0
+Y01254,16,Prior Record,1,0.465,4,82.6,High,Tough Love,0,1
+Y01255,13,Prior Record,1,0.744,6,66.9,High,Standard Supervision,0,0
+Y01256,14,Prior Record,1,0.653,5,85.0,High,CBT,0,1
+Y01257,15,Prior Record,1,0.651,4,92.4,High,Tough Love,0,1
+Y01258,15,Prior Record,1,0.544,4,96.1,High,Vocational,1,1
+Y01259,17,First-Time,0,0.815,6,40.1,Moderate,Vocational,0,0
+Y01260,14,Prior Record,1,0.73,7,78.4,High,Tough Love,0,1
+Y01261,17,Prior Record,1,0.574,6,86.7,High,Tough Love,0,0
+Y01262,15,First-Time,0,0.746,9,30.6,Low,Standard Supervision,1,1
+Y01263,17,First-Time,0,0.56,8,39.3,Low,Standard Supervision,0,0
+Y01264,14,First-Time,0,0.509,9,28.8,Low,Tough Love,0,0
+Y01265,13,Prior Record,1,0.838,8,39.8,Low,CBT,1,1
+Y01266,13,First-Time,0,0.747,9,13.9,Low,CBT,0,0
+Y01267,14,Prior Record,1,0.729,3,91.7,High,Standard Supervision,1,1
+Y01268,17,Prior Record,1,0.453,6,84.0,High,Standard Supervision,1,1
+Y01269,13,Prior Record,1,0.533,8,64.2,Moderate,Tough Love,0,1
+Y01270,14,First-Time,0,0.893,9,26.2,Low,CBT,0,0
+Y01271,13,Prior Record,1,0.489,4,90.0,High,Tough Love,1,1
+Y01272,17,Prior Record,1,0.522,7,65.9,High,CBT,0,1
+Y01273,16,First-Time,0,0.758,6,43.1,Moderate,Standard Supervision,0,0
+Y01274,16,Prior Record,1,0.635,9,68.4,High,Vocational,0,0
+Y01275,16,First-Time,0,0.548,3,67.7,High,Tough Love,0,0
+Y01276,16,Prior Record,1,0.555,4,91.0,High,CBT,0,0
+Y01277,16,First-Time,0,0.317,2,89.4,High,CBT,0,0
+Y01278,13,First-Time,0,0.757,6,36.1,Low,CBT,0,0
+Y01279,17,First-Time,0,0.658,10,18.4,Low,Standard Supervision,0,0
+Y01280,16,First-Time,0,0.889,6,21.1,Low,CBT,0,0
+Y01281,16,First-Time,0,0.919,6,40.8,Moderate,Vocational,0,0
+Y01282,14,Prior Record,1,0.655,6,61.6,Moderate,Standard Supervision,1,1
+Y01283,17,First-Time,0,0.851,6,58.5,Moderate,Vocational,0,0
+Y01284,14,First-Time,0,0.51,7,49.4,Moderate,Standard Supervision,0,0
+Y01285,13,Prior Record,1,0.51,6,77.5,High,Tough Love,0,0
+Y01286,17,Prior Record,1,0.75,4,92.4,High,Tough Love,0,0
+Y01287,14,First-Time,0,0.802,6,30.5,Low,Vocational,0,0
+Y01288,13,Prior Record,1,0.286,7,77.4,High,Tough Love,0,1
+Y01289,16,First-Time,0,0.775,8,12.5,Low,Vocational,0,0
+Y01290,14,Prior Record,1,0.527,8,83.6,High,CBT,0,0
+Y01291,17,First-Time,0,0.584,7,73.2,High,Vocational,0,0
+Y01292,15,Prior Record,1,0.46,6,66.3,High,Standard Supervision,0,0
+Y01293,13,Prior Record,1,0.809,7,53.6,Moderate,Vocational,0,0
+Y01294,17,Prior Record,1,0.42,4,92.4,High,Standard Supervision,0,1
+Y01295,15,Prior Record,1,0.533,4,87.3,High,CBT,0,0
+Y01296,14,Prior Record,1,0.55,5,86.2,High,Vocational,1,1
+Y01297,16,First-Time,0,0.795,3,68.8,High,Vocational,0,0
+Y01298,15,Prior Record,1,0.291,6,90.6,High,CBT,0,0
+Y01299,13,Prior Record,1,0.517,7,65.5,High,CBT,1,1
+Y01300,16,Prior Record,1,0.71,4,88.0,High,Vocational,0,0
+Y01301,15,First-Time,0,0.575,7,31.7,Low,Tough Love,0,0
+Y01302,16,First-Time,0,0.838,5,45.7,Moderate,Vocational,0,0
+Y01303,17,Prior Record,1,0.613,3,79.9,High,CBT,0,0
+Y01304,16,First-Time,0,0.644,10,17.8,Low,Vocational,0,0
+Y01305,16,First-Time,0,0.484,4,68.8,High,Standard Supervision,0,0
+Y01306,14,First-Time,0,0.848,3,78.9,High,CBT,0,0
+Y01307,14,Prior Record,1,0.691,6,76.5,High,Standard Supervision,0,1
+Y01308,15,First-Time,0,0.826,7,37.1,Low,CBT,0,0
+Y01309,17,First-Time,0,0.597,7,46.1,Moderate,Vocational,0,0
+Y01310,15,First-Time,0,0.449,10,10.2,Low,CBT,0,0
+Y01311,14,Prior Record,1,0.436,4,77.4,High,Tough Love,1,1
+Y01312,16,Prior Record,1,0.534,4,88.5,High,Vocational,0,0
+Y01313,17,First-Time,0,0.288,9,48.5,Moderate,CBT,0,0
+Y01314,17,First-Time,0,0.811,8,25.7,Low,Vocational,0,0
+Y01315,14,Prior Record,1,0.52,7,66.6,High,Tough Love,0,0
+Y01316,16,First-Time,0,0.666,5,56.8,Moderate,Vocational,0,0
+Y01317,15,Prior Record,1,0.054,7,87.5,High,Vocational,0,1
+Y01318,15,First-Time,0,0.561,8,51.1,Moderate,CBT,0,0
+Y01319,14,Prior Record,1,0.722,6,83.0,High,Vocational,0,1
+Y01320,13,First-Time,0,0.963,5,37.6,Low,Standard Supervision,0,0
+Y01321,14,Prior Record,1,0.167,5,93.0,High,Tough Love,1,1
+Y01322,15,First-Time,0,0.766,9,26.6,Low,Standard Supervision,0,0
+Y01323,17,Prior Record,1,0.464,3,95.1,High,Standard Supervision,0,0
+Y01324,17,Prior Record,1,0.718,4,94.6,High,Tough Love,0,0
+Y01325,13,Prior Record,1,0.668,4,87.5,High,Tough Love,1,1
+Y01326,16,First-Time,0,0.57,5,78.8,High,Vocational,0,0
+Y01327,13,First-Time,0,0.584,6,38.6,Low,CBT,0,0
+Y01328,16,Prior Record,1,0.6,7,66.1,High,Tough Love,1,1
+Y01329,14,Prior Record,1,0.393,6,63.0,Moderate,CBT,0,0
+Y01330,15,First-Time,0,0.321,6,70.0,High,CBT,0,0
+Y01331,16,First-Time,0,0.868,7,42.6,Moderate,Vocational,0,0
+Y01332,15,First-Time,0,0.925,7,8.8,Low,CBT,0,0
+Y01333,17,Prior Record,1,0.41,2,96.4,High,Vocational,0,0
+Y01334,15,Prior Record,1,0.674,7,78.0,High,Tough Love,1,1
+Y01335,17,Prior Record,1,0.773,4,88.9,High,CBT,0,0
+Y01336,16,Prior Record,1,0.439,4,84.6,High,Standard Supervision,1,1
+Y01337,14,First-Time,0,0.555,7,59.9,Moderate,CBT,0,0
+Y01338,16,First-Time,0,0.797,6,45.3,Moderate,Vocational,0,0
+Y01339,15,First-Time,0,0.16,7,74.7,High,Tough Love,0,0
+Y01340,15,Prior Record,1,0.853,5,76.3,High,Tough Love,1,1
+Y01341,13,First-Time,0,0.31,5,79.6,High,Tough Love,0,0
+Y01342,13,First-Time,0,0.746,9,38.3,Low,Tough Love,0,0
+Y01343,15,First-Time,0,0.962,7,27.0,Low,Standard Supervision,0,0
+Y01344,13,First-Time,0,0.815,7,39.9,Low,Standard Supervision,0,0
+Y01345,17,Prior Record,1,0.602,7,85.8,High,CBT,0,0
+Y01346,17,First-Time,0,0.682,5,57.6,Moderate,Vocational,0,0
+Y01347,16,First-Time,0,0.555,10,14.4,Low,Standard Supervision,0,0
+Y01348,16,Prior Record,1,0.781,3,92.4,High,CBT,0,0
+Y01349,15,First-Time,0,0.854,6,63.5,Moderate,CBT,0,0
+Y01350,13,First-Time,0,0.956,5,64.8,Moderate,CBT,0,0
+Y01351,14,First-Time,0,0.537,5,75.1,High,Vocational,0,0
+Y01352,15,Prior Record,1,0.655,4,64.2,Moderate,Tough Love,1,1
+Y01353,17,First-Time,0,0.85,4,50.4,Moderate,Standard Supervision,0,0
+Y01354,14,Prior Record,1,0.643,8,56.5,Moderate,CBT,0,0
+Y01355,15,Prior Record,1,0.443,3,94.2,High,Standard Supervision,1,1
+Y01356,14,Prior Record,1,0.788,7,84.4,High,Standard Supervision,0,1
+Y01357,13,First-Time,0,0.609,7,30.7,Low,Standard Supervision,0,0
+Y01358,13,Prior Record,1,0.507,4,97.4,High,Tough Love,0,1
+Y01359,14,First-Time,0,0.818,7,30.7,Low,CBT,0,0
+Y01360,13,First-Time,0,0.782,6,34.9,Low,CBT,0,0
+Y01361,13,First-Time,0,0.826,4,72.2,High,Tough Love,0,0
+Y01362,14,First-Time,0,0.745,4,76.2,High,Standard Supervision,0,0
+Y01363,14,First-Time,0,0.407,7,65.2,High,Tough Love,1,1
+Y01364,15,First-Time,0,0.557,7,37.2,Low,Vocational,0,0
+Y01365,13,First-Time,0,0.56,6,64.2,Moderate,Standard Supervision,0,0
+Y01366,14,First-Time,0,0.935,5,32.3,Low,CBT,0,0
+Y01367,15,Prior Record,1,0.128,5,90.2,High,Standard Supervision,1,1
+Y01368,17,Prior Record,1,0.668,5,82.6,High,Standard Supervision,0,0
+Y01369,16,First-Time,0,0.322,3,78.8,High,CBT,0,0
+Y01370,17,Prior Record,1,0.491,5,93.1,High,CBT,0,0
+Y01371,14,First-Time,0,0.459,7,44.6,Moderate,Tough Love,0,0
+Y01372,15,First-Time,0,0.813,6,41.1,Moderate,Tough Love,0,0
+Y01373,15,First-Time,0,0.706,10,12.6,Low,CBT,0,0
+Y01374,17,First-Time,0,0.895,4,71.8,High,Vocational,0,0
+Y01375,17,First-Time,0,0.671,5,50.2,Moderate,Tough Love,0,0
+Y01376,17,First-Time,0,0.695,6,66.7,High,Vocational,0,0
+Y01377,16,First-Time,0,0.639,6,68.2,High,Vocational,0,1
+Y01378,15,First-Time,0,0.933,2,66.1,High,Vocational,1,1
+Y01379,15,First-Time,0,0.845,7,34.9,Low,Tough Love,0,0
+Y01380,17,First-Time,0,0.927,6,32.3,Low,Vocational,0,0
+Y01381,14,First-Time,0,0.675,2,85.5,High,Standard Supervision,1,1
+Y01382,14,First-Time,0,0.763,6,44.0,Moderate,Vocational,0,0
+Y01383,17,First-Time,0,0.927,4,49.9,Moderate,CBT,0,0
+Y01384,14,First-Time,0,0.972,5,45.8,Moderate,Standard Supervision,1,1
+Y01385,14,First-Time,0,0.84,3,45.5,Moderate,CBT,0,0
+Y01386,15,First-Time,0,0.994,7,27.2,Low,Vocational,0,0
+Y01387,14,Prior Record,1,0.759,9,60.4,Moderate,Standard Supervision,1,1
+Y01388,17,First-Time,0,0.638,7,46.4,Moderate,CBT,1,1
+Y01389,17,First-Time,0,0.648,2,88.9,High,Tough Love,0,0
+Y01390,14,First-Time,0,0.506,7,45.3,Moderate,Standard Supervision,0,0
+Y01391,15,Prior Record,1,0.624,5,80.6,High,Tough Love,0,0
+Y01392,17,Prior Record,1,0.608,3,85.4,High,Vocational,0,0
+Y01393,16,Prior Record,1,0.654,6,74.0,High,Vocational,0,0
+Y01394,14,Prior Record,1,0.587,7,90.5,High,Standard Supervision,1,1
+Y01395,15,First-Time,0,0.738,5,60.8,Moderate,Tough Love,0,0
+Y01396,16,Prior Record,1,0.667,2,91.0,High,Tough Love,1,1
+Y01397,16,First-Time,0,0.559,2,74.6,High,Standard Supervision,0,1
+Y01398,13,Prior Record,1,0.763,4,69.3,High,Vocational,1,1
+Y01399,14,First-Time,0,0.419,6,51.6,Moderate,Tough Love,0,0
+Y01400,17,First-Time,0,0.966,5,56.8,Moderate,Standard Supervision,0,0
+Y01401,14,Prior Record,1,0.632,4,85.6,High,Vocational,0,1
+Y01402,14,First-Time,0,0.619,7,31.8,Low,Tough Love,0,0
+Y01403,14,Prior Record,1,0.532,6,73.6,High,CBT,0,0
+Y01404,13,First-Time,0,0.547,6,66.7,High,Tough Love,0,1
+Y01405,13,Prior Record,1,0.698,7,69.1,High,Standard Supervision,0,0
+Y01406,14,Prior Record,1,0.565,4,85.7,High,Tough Love,1,1
+Y01407,17,First-Time,0,0.834,4,56.2,Moderate,Tough Love,1,1
+Y01408,13,Prior Record,1,0.306,4,98.2,High,Standard Supervision,0,0
+Y01409,14,Prior Record,1,0.704,4,93.2,High,CBT,1,1
+Y01410,13,Prior Record,1,0.774,1,97.5,High,Tough Love,0,0
+Y01411,15,First-Time,0,0.888,5,25.4,Low,Tough Love,0,0
+Y01412,14,First-Time,0,0.899,8,23.4,Low,Standard Supervision,1,1
+Y01413,16,Prior Record,1,0.472,7,71.5,High,CBT,1,1
+Y01414,15,First-Time,0,0.751,7,46.9,Moderate,Vocational,0,0
+Y01415,16,First-Time,0,0.902,6,55.8,Moderate,CBT,0,0
+Y01416,16,First-Time,0,0.865,9,23.4,Low,Vocational,0,0
+Y01417,15,Prior Record,1,0.166,3,94.2,High,Vocational,1,1
+Y01418,17,First-Time,0,0.78,4,53.6,Moderate,Tough Love,0,0
+Y01419,15,Prior Record,1,0.828,7,72.4,High,Standard Supervision,0,0
+Y01420,17,Prior Record,1,0.74,5,87.0,High,Tough Love,0,0
+Y01421,17,First-Time,0,0.8,5,55.8,Moderate,Vocational,0,0
+Y01422,15,First-Time,0,0.795,7,38.6,Low,Tough Love,0,0
+Y01423,16,Prior Record,1,0.723,4,86.8,High,Standard Supervision,0,1
+Y01424,14,First-Time,0,0.894,4,61.6,Moderate,Vocational,0,0
+Y01425,17,Prior Record,1,0.353,3,96.7,High,Tough Love,1,1
+Y01426,16,Prior Record,1,0.631,6,84.8,High,Tough Love,0,0
+Y01427,17,Prior Record,1,0.627,6,79.6,High,Standard Supervision,0,1
+Y01428,14,First-Time,0,0.82,9,21.1,Low,CBT,0,0
+Y01429,16,Prior Record,1,0.814,5,78.1,High,Standard Supervision,1,1
+Y01430,15,Prior Record,1,0.482,5,82.0,High,Standard Supervision,0,0
+Y01431,13,First-Time,0,0.885,9,13.1,Low,CBT,0,0
+Y01432,13,Prior Record,1,0.662,7,77.8,High,Tough Love,0,1
+Y01433,15,Prior Record,1,0.516,5,81.6,High,Vocational,0,1
+Y01434,14,Prior Record,1,0.669,2,95.9,High,Standard Supervision,0,1
+Y01435,13,First-Time,0,0.848,4,59.2,Moderate,Standard Supervision,0,0
+Y01436,15,First-Time,0,0.716,4,76.1,High,CBT,0,0
+Y01437,16,First-Time,0,0.779,6,55.6,Moderate,Standard Supervision,0,0
+Y01438,14,First-Time,0,0.884,5,61.9,Moderate,Tough Love,1,1
+Y01439,17,First-Time,0,0.721,9,20.1,Low,Standard Supervision,0,0
+Y01440,16,Prior Record,1,0.65,2,95.0,High,Standard Supervision,0,1
+Y01441,15,First-Time,0,0.842,4,70.3,High,Vocational,0,0
+Y01442,17,Prior Record,1,0.439,6,68.8,High,Standard Supervision,1,1
+Y01443,15,First-Time,0,0.586,7,71.1,High,CBT,0,0
+Y01444,13,First-Time,0,0.83,1,94.5,High,Vocational,0,0
+Y01445,13,First-Time,0,0.604,3,85.9,High,Standard Supervision,0,1
+Y01446,17,First-Time,0,0.851,5,63.0,Moderate,Vocational,0,0
+Y01447,17,Prior Record,1,0.733,8,68.7,High,Vocational,0,1
+Y01448,16,Prior Record,1,0.348,9,65.9,High,Vocational,0,1
+Y01449,13,Prior Record,1,0.461,4,91.0,High,Standard Supervision,0,1
+Y01450,14,First-Time,0,0.862,6,56.3,Moderate,CBT,0,1
+Y01451,13,Prior Record,1,0.352,4,88.2,High,Tough Love,1,1
+Y01452,13,First-Time,0,0.939,7,18.8,Low,Standard Supervision,1,1
+Y01453,14,Prior Record,1,0.63,8,59.9,Moderate,Standard Supervision,0,0
+Y01454,15,First-Time,0,0.665,9,35.7,Low,CBT,0,0
+Y01455,13,First-Time,0,0.546,6,44.7,Moderate,Standard Supervision,0,0
+Y01456,17,First-Time,0,0.591,4,68.6,High,Standard Supervision,0,0
+Y01457,15,First-Time,0,0.453,6,60.6,Moderate,Tough Love,0,1
+Y01458,14,First-Time,0,0.82,9,13.0,Low,CBT,0,0
+Y01459,15,Prior Record,1,0.858,4,53.0,Moderate,CBT,0,0
+Y01460,16,Prior Record,1,0.505,2,91.5,High,CBT,1,1
+Y01461,14,Prior Record,1,0.421,4,93.2,High,Standard Supervision,1,1
+Y01462,13,First-Time,0,0.488,5,74.4,High,Tough Love,1,1
+Y01463,13,Prior Record,1,0.442,2,96.8,High,Tough Love,0,0
+Y01464,17,First-Time,0,0.622,6,62.8,Moderate,Tough Love,0,0
+Y01465,13,First-Time,0,0.684,7,33.3,Low,Standard Supervision,0,0
+Y01466,16,First-Time,0,0.513,10,17.8,Low,Standard Supervision,0,0
+Y01467,14,First-Time,0,0.904,3,70.4,High,Tough Love,0,1
+Y01468,16,Prior Record,1,0.648,7,69.6,High,CBT,0,0
+Y01469,13,First-Time,0,0.469,8,57.6,Moderate,Standard Supervision,0,0
+Y01470,17,First-Time,0,0.861,7,39.1,Low,CBT,0,0
+Y01471,16,Prior Record,1,0.524,3,96.7,High,Standard Supervision,0,1
+Y01472,15,First-Time,0,0.806,4,55.2,Moderate,Tough Love,0,0
+Y01473,14,Prior Record,1,0.419,5,94.0,High,Tough Love,0,0
+Y01474,17,First-Time,0,0.649,6,79.0,High,Vocational,0,0
+Y01475,14,Prior Record,1,0.774,4,85.6,High,CBT,0,0
+Y01476,15,Prior Record,1,0.642,8,71.4,High,Tough Love,0,0
+Y01477,14,Prior Record,1,0.302,4,89.5,High,Tough Love,1,1
+Y01478,14,Prior Record,1,0.674,1,97.2,High,Tough Love,0,0
+Y01479,15,Prior Record,1,0.537,5,92.8,High,Vocational,0,0
+Y01480,13,Prior Record,1,0.783,6,67.6,High,Tough Love,1,1
+Y01481,13,First-Time,0,0.831,7,43.5,Moderate,Standard Supervision,0,0
+Y01482,14,First-Time,0,0.845,7,38.4,Low,CBT,0,0
+Y01483,13,Prior Record,1,0.478,8,76.5,High,Tough Love,1,1
+Y01484,15,First-Time,0,0.862,4,70.3,High,Tough Love,0,0
+Y01485,17,First-Time,0,0.357,5,79.4,High,Tough Love,0,0
+Y01486,13,First-Time,0,0.917,9,17.3,Low,CBT,0,0
+Y01487,13,First-Time,0,0.504,2,90.8,High,Tough Love,0,0
+Y01488,13,First-Time,0,0.677,6,67.1,High,CBT,0,0
+Y01489,15,Prior Record,1,0.472,8,65.1,High,Vocational,0,0
+Y01490,14,Prior Record,1,0.681,8,63.1,Moderate,Standard Supervision,0,0
+Y01491,15,Prior Record,1,0.144,7,71.1,High,CBT,0,0
+Y01492,13,First-Time,0,0.627,7,53.6,Moderate,Tough Love,0,1
+Y01493,14,First-Time,0,0.264,4,90.9,High,Tough Love,1,1
+Y01494,15,Prior Record,1,0.802,8,53.5,Moderate,CBT,0,0
+Y01495,15,First-Time,0,0.615,4,72.1,High,Standard Supervision,0,0
+Y01496,15,Prior Record,1,0.588,3,91.2,High,CBT,0,0
+Y01497,16,First-Time,0,0.765,7,32.9,Low,Standard Supervision,1,1
+Y01498,15,Prior Record,1,0.482,4,92.2,High,Standard Supervision,1,1
+Y01499,17,First-Time,0,0.49,6,48.7,Moderate,Tough Love,0,0
+Y01500,15,Prior Record,1,0.752,6,72.2,High,Vocational,0,0
+Y01501,14,Prior Record,1,0.691,9,40.8,Moderate,Standard Supervision,0,0
+Y01502,14,First-Time,0,0.947,7,38.0,Low,Vocational,0,0
+Y01503,14,Prior Record,1,0.789,4,86.6,High,Standard Supervision,0,1
+Y01504,15,First-Time,0,0.755,7,32.8,Low,CBT,0,0
+Y01505,14,Prior Record,1,0.523,4,90.7,High,CBT,0,0
+Y01506,17,Prior Record,1,0.847,7,60.4,Moderate,Standard Supervision,0,0
+Y01507,15,First-Time,0,0.815,6,61.2,Moderate,Vocational,0,1
+Y01508,17,First-Time,0,0.88,7,27.4,Low,Vocational,0,0
+Y01509,16,Prior Record,1,0.484,2,96.8,High,Vocational,0,1
+Y01510,14,First-Time,0,0.694,1,79.2,High,Tough Love,0,0
+Y01511,14,Prior Record,1,0.448,2,97.3,High,Tough Love,0,1
+Y01512,16,Prior Record,1,0.637,9,71.0,High,Tough Love,1,1
+Y01513,14,Prior Record,1,0.363,3,97.3,High,Tough Love,0,0
+Y01514,14,First-Time,0,0.804,7,58.0,Moderate,Tough Love,1,1
+Y01515,17,Prior Record,1,0.474,4,92.6,High,Tough Love,0,0
+Y01516,15,Prior Record,1,0.659,5,91.5,High,CBT,0,0
+Y01517,13,First-Time,0,0.777,6,69.4,High,Standard Supervision,0,0
+Y01518,15,First-Time,0,0.612,9,17.5,Low,Vocational,0,0
+Y01519,15,First-Time,0,0.786,7,29.2,Low,Vocational,0,0
+Y01520,17,First-Time,0,0.504,7,29.8,Low,Vocational,0,0
+Y01521,16,Prior Record,1,0.274,8,88.0,High,Vocational,1,1
+Y01522,13,First-Time,0,0.858,5,29.5,Low,Vocational,0,0
+Y01523,13,Prior Record,1,0.645,7,47.3,Moderate,Vocational,0,0
+Y01524,16,First-Time,0,0.883,8,15.1,Low,Vocational,0,0
+Y01525,13,First-Time,0,0.943,8,9.7,Low,Standard Supervision,0,0
+Y01526,14,First-Time,0,0.896,6,44.3,Moderate,CBT,0,0
+Y01527,13,Prior Record,1,0.575,4,81.7,High,Standard Supervision,0,0
+Y01528,13,Prior Record,1,0.724,3,76.6,High,Standard Supervision,0,0
+Y01529,17,First-Time,0,0.578,4,71.5,High,Vocational,0,0
+Y01530,13,Prior Record,1,0.717,3,90.3,High,Standard Supervision,0,1
+Y01531,13,First-Time,0,0.909,7,13.1,Low,Tough Love,0,0
+Y01532,17,First-Time,0,0.658,6,41.5,Moderate,Vocational,0,0
+Y01533,13,First-Time,0,0.759,7,37.4,Low,Vocational,0,0
+Y01534,17,Prior Record,1,0.798,6,68.8,High,Standard Supervision,0,0
+Y01535,13,Prior Record,1,0.739,3,87.8,High,Tough Love,0,1
+Y01536,13,Prior Record,1,0.685,3,95.2,High,Vocational,0,0
+Y01537,13,First-Time,0,0.784,6,75.4,High,Vocational,0,0
+Y01538,16,First-Time,0,0.797,4,57.9,Moderate,Vocational,0,0
+Y01539,16,Prior Record,1,0.337,3,89.9,High,Vocational,1,1
+Y01540,15,First-Time,0,0.428,9,34.4,Low,CBT,0,0
+Y01541,14,Prior Record,1,0.789,2,92.7,High,Tough Love,1,1
+Y01542,13,Prior Record,1,0.725,9,51.7,Moderate,Tough Love,0,0
+Y01543,15,First-Time,0,0.852,7,42.8,Moderate,CBT,0,0
+Y01544,14,Prior Record,1,0.791,7,88.0,High,Tough Love,0,0
+Y01545,15,Prior Record,1,0.817,7,39.8,Low,CBT,0,0
+Y01546,16,First-Time,0,0.896,7,26.0,Low,CBT,0,0
+Y01547,17,Prior Record,1,0.579,9,78.9,High,CBT,0,0
+Y01548,15,Prior Record,1,0.671,3,88.0,High,CBT,0,0
+Y01549,13,First-Time,0,0.577,6,67.2,High,CBT,1,1
+Y01550,14,Prior Record,1,0.686,3,93.4,High,Tough Love,0,0
+Y01551,17,First-Time,0,0.773,3,83.8,High,Vocational,0,0
+Y01552,15,Prior Record,1,0.23,4,98.2,High,Tough Love,1,1
+Y01553,16,Prior Record,1,0.382,9,72.8,High,Standard Supervision,1,1
+Y01554,15,Prior Record,1,0.279,5,79.3,High,Vocational,1,1
+Y01555,13,First-Time,0,0.568,10,17.4,Low,Standard Supervision,0,0
+Y01556,17,Prior Record,1,0.687,9,81.6,High,Vocational,0,0
+Y01557,16,First-Time,0,0.875,10,6.9,Low,CBT,0,0
+Y01558,17,First-Time,0,0.771,10,22.4,Low,Vocational,0,0
+Y01559,17,First-Time,0,0.597,10,6.3,Low,Vocational,0,0
+Y01560,14,Prior Record,1,0.635,6,62.7,Moderate,Standard Supervision,0,0
+Y01561,14,First-Time,0,0.501,6,71.7,High,Standard Supervision,0,0
+Y01562,14,First-Time,0,0.732,7,40.3,Moderate,CBT,0,0
+Y01563,17,Prior Record,1,0.625,5,81.4,High,CBT,0,0
+Y01564,15,First-Time,0,0.874,6,30.2,Low,Vocational,0,0
+Y01565,15,First-Time,0,0.371,8,22.4,Low,CBT,0,0
+Y01566,17,First-Time,0,0.869,5,60.5,Moderate,Tough Love,0,0
+Y01567,16,First-Time,0,0.697,3,70.8,High,Tough Love,1,1
+Y01568,17,Prior Record,1,0.732,6,55.6,Moderate,CBT,0,0
+Y01569,17,First-Time,0,0.699,5,59.1,Moderate,Tough Love,1,1
+Y01570,13,First-Time,0,0.899,5,57.5,Moderate,Tough Love,1,1
+Y01571,14,Prior Record,1,0.274,5,90.7,High,Standard Supervision,0,0
+Y01572,16,Prior Record,1,0.677,4,88.2,High,Tough Love,0,1
+Y01573,17,Prior Record,1,0.556,7,76.2,High,Vocational,0,0
+Y01574,13,Prior Record,1,0.717,5,74.9,High,Tough Love,0,0
+Y01575,14,Prior Record,1,0.86,8,55.3,Moderate,Vocational,1,1
+Y01576,15,First-Time,0,0.757,6,58.1,Moderate,Tough Love,0,1
+Y01577,16,Prior Record,1,0.619,5,91.1,High,Tough Love,0,0
+Y01578,13,Prior Record,1,0.769,6,82.3,High,Tough Love,1,1
+Y01579,16,First-Time,0,0.744,3,63.6,Moderate,CBT,0,0
+Y01580,14,First-Time,0,0.619,7,54.8,Moderate,Tough Love,0,0
+Y01581,14,First-Time,0,0.644,8,42.4,Moderate,Vocational,0,0
+Y01582,15,Prior Record,1,0.824,7,54.4,Moderate,Vocational,1,1
+Y01583,15,Prior Record,1,0.678,2,91.4,High,Tough Love,0,0
+Y01584,16,Prior Record,1,0.495,2,96.8,High,Standard Supervision,1,1
+Y01585,14,First-Time,0,0.911,5,68.0,High,CBT,0,0
+Y01586,17,First-Time,0,0.964,9,6.5,Low,Vocational,0,0
+Y01587,13,First-Time,0,0.705,6,72.6,High,Tough Love,0,0
+Y01588,17,First-Time,0,0.808,4,76.5,High,Tough Love,1,1
+Y01589,13,Prior Record,1,0.792,2,92.7,High,Vocational,0,0
+Y01590,16,Prior Record,1,0.419,4,91.0,High,CBT,0,0
+Y01591,14,Prior Record,1,0.547,4,92.0,High,Vocational,0,0
+Y01592,14,Prior Record,1,0.471,7,71.6,High,CBT,0,0
+Y01593,13,Prior Record,1,0.503,7,75.7,High,Tough Love,0,0
+Y01594,16,First-Time,0,0.947,4,33.6,Low,Vocational,0,0
+Y01595,13,First-Time,0,0.164,8,33.8,Low,CBT,0,0
+Y01596,16,First-Time,0,0.944,7,63.7,Moderate,Vocational,0,0
+Y01597,16,First-Time,0,0.901,4,58.3,Moderate,Tough Love,0,0
+Y01598,17,First-Time,0,0.45,6,65.1,High,Vocational,0,0
+Y01599,16,First-Time,0,0.774,7,37.4,Low,Standard Supervision,0,0
+Y01600,14,Prior Record,1,0.542,6,73.5,High,CBT,0,0
+Y01601,16,First-Time,0,0.827,3,64.8,Moderate,Vocational,0,0
+Y01602,17,Prior Record,1,0.825,5,79.5,High,CBT,0,0
+Y01603,14,Prior Record,1,0.574,6,79.1,High,Tough Love,0,1
+Y01604,13,Prior Record,1,0.671,8,52.6,Moderate,Standard Supervision,0,1
+Y01605,17,Prior Record,1,0.655,4,90.7,High,Vocational,0,0
+Y01606,13,First-Time,0,0.696,5,61.6,Moderate,CBT,0,0
+Y01607,15,Prior Record,1,0.491,5,90.1,High,Vocational,1,1
+Y01608,14,First-Time,0,0.832,7,45.3,Moderate,CBT,0,0
+Y01609,13,Prior Record,1,0.786,5,78.2,High,Tough Love,0,0
+Y01610,16,First-Time,0,0.524,7,47.5,Moderate,Standard Supervision,0,0
+Y01611,13,First-Time,0,0.823,4,79.3,High,CBT,0,0
+Y01612,16,Prior Record,1,0.446,6,75.8,High,Tough Love,0,1
+Y01613,16,Prior Record,1,0.587,4,73.1,High,Tough Love,0,0
+Y01614,13,First-Time,0,0.572,6,64.3,Moderate,Standard Supervision,0,0
+Y01615,13,Prior Record,1,0.869,9,36.2,Low,Standard Supervision,0,0
+Y01616,16,First-Time,0,0.777,3,56.2,Moderate,Tough Love,0,0
+Y01617,15,Prior Record,1,0.724,5,88.4,High,Standard Supervision,0,0
+Y01618,13,First-Time,0,0.941,3,61.8,Moderate,Tough Love,0,0
+Y01619,17,First-Time,0,0.923,6,23.1,Low,Vocational,0,0
+Y01620,14,First-Time,0,0.935,8,49.8,Moderate,Standard Supervision,0,0
+Y01621,13,First-Time,0,0.845,6,22.2,Low,Standard Supervision,0,0
+Y01622,17,First-Time,0,0.762,6,45.6,Moderate,Tough Love,0,0
+Y01623,13,First-Time,0,0.829,9,8.0,Low,Standard Supervision,0,0
+Y01624,15,First-Time,0,0.805,7,40.2,Moderate,CBT,0,0
+Y01625,17,First-Time,0,0.638,8,27.7,Low,CBT,0,0
+Y01626,15,First-Time,0,0.411,7,67.2,High,Vocational,0,0
+Y01627,15,First-Time,0,0.917,1,78.7,High,Tough Love,0,0
+Y01628,14,Prior Record,1,0.587,5,93.0,High,Tough Love,1,1
+Y01629,13,Prior Record,1,0.765,3,86.6,High,Standard Supervision,0,0
+Y01630,15,First-Time,0,0.838,4,36.8,Low,Vocational,0,0
+Y01631,17,Prior Record,1,0.522,8,73.1,High,Vocational,0,0
+Y01632,13,First-Time,0,0.887,5,45.6,Moderate,Standard Supervision,0,0
+Y01633,17,First-Time,0,0.388,10,13.4,Low,Vocational,0,0
+Y01634,15,Prior Record,1,0.722,2,87.2,High,Vocational,0,1
+Y01635,15,Prior Record,1,0.699,3,85.9,High,Standard Supervision,0,1
+Y01636,13,Prior Record,1,0.658,7,86.6,High,Tough Love,1,1
+Y01637,16,First-Time,0,0.617,5,71.9,High,Vocational,0,0
+Y01638,13,Prior Record,1,0.611,6,76.3,High,Standard Supervision,1,1
+Y01639,14,First-Time,0,0.473,6,67.6,High,Standard Supervision,0,1
+Y01640,16,First-Time,0,0.909,6,16.2,Low,CBT,0,0
+Y01641,13,First-Time,0,0.99,5,36.1,Low,Standard Supervision,0,0
+Y01642,15,Prior Record,1,0.599,6,83.8,High,CBT,0,0
+Y01643,15,First-Time,0,0.737,7,41.9,Moderate,Vocational,0,0
+Y01644,13,Prior Record,1,0.741,8,52.3,Moderate,Vocational,0,1
+Y01645,14,Prior Record,1,0.736,5,81.1,High,Standard Supervision,0,0
+Y01646,14,Prior Record,1,0.237,4,95.4,High,Tough Love,1,1
+Y01647,16,Prior Record,1,0.581,4,89.4,High,Tough Love,1,1
+Y01648,17,Prior Record,1,0.677,8,74.3,High,Vocational,0,1
+Y01649,17,First-Time,0,0.56,7,53.0,Moderate,Tough Love,0,0
+Y01650,13,First-Time,0,0.725,2,84.0,High,CBT,0,0
+Y01651,13,Prior Record,1,0.501,1,98.8,High,Standard Supervision,1,1
+Y01652,13,First-Time,0,0.707,4,76.5,High,Standard Supervision,0,0
+Y01653,15,First-Time,0,0.539,6,79.7,High,CBT,0,0
+Y01654,13,First-Time,0,0.458,6,52.0,Moderate,CBT,0,0
+Y01655,14,First-Time,0,0.778,7,18.8,Low,Standard Supervision,0,0
+Y01656,17,First-Time,0,0.773,6,44.3,Moderate,Vocational,0,0
+Y01657,17,First-Time,0,0.751,9,21.6,Low,Vocational,1,1
+Y01658,17,Prior Record,1,0.476,7,89.8,High,Tough Love,0,0
+Y01659,14,First-Time,0,0.729,6,32.4,Low,Vocational,0,0
+Y01660,16,Prior Record,1,0.569,7,74.4,High,Vocational,0,0
+Y01661,16,Prior Record,1,0.715,2,94.3,High,Tough Love,0,0
+Y01662,13,First-Time,0,0.593,6,56.8,Moderate,CBT,0,0
+Y01663,15,Prior Record,1,0.62,5,83.3,High,CBT,0,1
+Y01664,15,Prior Record,1,0.564,6,84.4,High,CBT,0,0
+Y01665,14,Prior Record,1,0.768,2,95.7,High,Standard Supervision,0,0
+Y01666,16,First-Time,0,0.859,5,72.2,High,Vocational,0,0
+Y01667,16,First-Time,0,0.822,7,36.0,Low,CBT,0,0
+Y01668,15,First-Time,0,0.724,7,29.2,Low,Standard Supervision,0,0
+Y01669,16,Prior Record,1,0.247,8,91.1,High,CBT,0,0
+Y01670,16,Prior Record,1,0.621,7,59.0,Moderate,Vocational,0,0
+Y01671,15,Prior Record,1,0.798,5,91.9,High,CBT,0,0
+Y01672,14,Prior Record,1,0.467,7,89.3,High,CBT,0,0
+Y01673,16,Prior Record,1,0.735,5,91.5,High,Standard Supervision,1,1
+Y01674,16,Prior Record,1,0.493,5,91.5,High,Standard Supervision,1,1
+Y01675,17,First-Time,0,0.532,8,16.4,Low,Vocational,0,0
+Y01676,13,Prior Record,1,0.734,5,70.2,High,Standard Supervision,0,1
+Y01677,15,First-Time,0,0.925,7,35.1,Low,CBT,0,0
+Y01678,17,First-Time,0,0.695,8,25.1,Low,Tough Love,0,0
+Y01679,15,First-Time,0,0.595,7,41.8,Moderate,CBT,0,0
+Y01680,17,Prior Record,1,0.708,8,70.1,High,Vocational,0,1
+Y01681,13,First-Time,0,0.812,10,15.1,Low,CBT,0,0
+Y01682,13,First-Time,0,0.875,7,19.3,Low,Standard Supervision,0,0
+Y01683,16,First-Time,0,0.792,5,66.8,High,CBT,0,0
+Y01684,14,First-Time,0,0.915,7,38.4,Low,CBT,0,0
+Y01685,15,First-Time,0,0.811,7,32.7,Low,Standard Supervision,0,0
+Y01686,15,Prior Record,1,0.648,6,85.0,High,CBT,1,1
+Y01687,15,Prior Record,1,0.778,8,59.9,Moderate,Vocational,0,0
+Y01688,17,First-Time,0,0.882,3,81.5,High,Standard Supervision,0,0
+Y01689,13,First-Time,0,0.889,9,20.8,Low,Standard Supervision,0,0
+Y01690,16,First-Time,0,0.571,10,41.4,Moderate,Vocational,0,0
+Y01691,17,First-Time,0,0.778,7,16.4,Low,CBT,0,0
+Y01692,16,Prior Record,1,0.432,6,88.2,High,Vocational,0,0
+Y01693,14,Prior Record,1,0.748,5,77.1,High,Standard Supervision,0,1
+Y01694,13,Prior Record,1,0.682,5,74.5,High,Tough Love,0,1
+Y01695,16,First-Time,0,0.875,7,49.9,Moderate,Tough Love,0,0
+Y01696,15,Prior Record,1,0.43,6,90.7,High,Vocational,1,1
+Y01697,13,First-Time,0,0.702,7,17.4,Low,Vocational,1,1
+Y01698,14,First-Time,0,0.766,7,48.7,Moderate,CBT,0,0
+Y01699,17,Prior Record,1,0.797,7,73.3,High,Standard Supervision,1,1
+Y01700,14,Prior Record,1,0.8,7,55.4,Moderate,CBT,0,0
+Y01701,13,Prior Record,1,0.638,3,86.7,High,CBT,0,0
+Y01702,16,Prior Record,1,0.825,7,41.2,Moderate,Tough Love,0,0
+Y01703,13,Prior Record,1,0.809,9,43.3,Moderate,CBT,0,1
+Y01704,17,Prior Record,1,0.77,5,78.7,High,CBT,0,0
+Y01705,17,First-Time,0,0.827,9,30.5,Low,Vocational,0,0
+Y01706,17,First-Time,0,0.878,4,62.4,Moderate,CBT,0,0
+Y01707,17,First-Time,0,0.508,6,43.7,Moderate,Vocational,0,0
+Y01708,14,First-Time,0,0.935,5,50.6,Moderate,CBT,0,0
+Y01709,14,First-Time,0,0.698,9,23.2,Low,Tough Love,0,0
+Y01710,14,First-Time,0,0.976,9,10.3,Low,Standard Supervision,0,0
+Y01711,15,Prior Record,1,0.63,5,67.6,High,Vocational,0,0
+Y01712,17,Prior Record,1,0.56,8,76.1,High,Vocational,0,1
+Y01713,16,Prior Record,1,0.692,9,60.7,Moderate,Tough Love,1,1
+Y01714,16,First-Time,0,0.794,6,53.6,Moderate,Tough Love,0,0
+Y01715,17,Prior Record,1,0.648,5,77.2,High,Tough Love,0,0
+Y01716,16,First-Time,0,0.942,7,32.5,Low,Standard Supervision,0,0
+Y01717,14,First-Time,0,0.551,4,54.3,Moderate,CBT,0,0
+Y01718,15,First-Time,0,0.452,6,47.6,Moderate,Tough Love,0,0
+Y01719,15,First-Time,0,0.62,10,22.8,Low,Vocational,0,0
+Y01720,13,First-Time,0,0.848,5,55.3,Moderate,Tough Love,0,0
+Y01721,16,Prior Record,1,0.397,7,61.7,Moderate,Tough Love,0,0
+Y01722,16,Prior Record,1,0.729,6,62.4,Moderate,CBT,1,1
+Y01723,16,Prior Record,1,0.516,5,84.5,High,Standard Supervision,0,0
+Y01724,15,First-Time,0,0.467,6,73.9,High,CBT,0,0
+Y01725,16,Prior Record,1,0.874,9,33.5,Low,Vocational,0,0
+Y01726,17,Prior Record,1,0.726,6,77.4,High,Vocational,0,1
+Y01727,15,First-Time,0,0.745,7,42.7,Moderate,Standard Supervision,0,0
+Y01728,15,Prior Record,1,0.651,8,61.0,Moderate,Vocational,0,0
+Y01729,13,First-Time,0,0.225,5,81.2,High,Standard Supervision,0,1
+Y01730,16,First-Time,0,0.323,4,65.6,High,CBT,0,0
+Y01731,17,First-Time,0,0.854,10,10.9,Low,CBT,0,0
+Y01732,16,First-Time,0,0.91,6,60.8,Moderate,Vocational,0,0
+Y01733,17,First-Time,0,0.937,8,43.3,Moderate,Standard Supervision,0,0
+Y01734,17,First-Time,0,0.791,4,73.6,High,Vocational,0,0
+Y01735,16,First-Time,0,0.719,7,56.8,Moderate,Tough Love,1,1
+Y01736,15,Prior Record,1,0.69,3,76.4,High,Vocational,0,0
+Y01737,13,First-Time,0,0.433,6,49.1,Moderate,Tough Love,1,1
+Y01738,13,First-Time,0,0.736,5,52.3,Moderate,Standard Supervision,0,0
+Y01739,14,First-Time,0,0.949,4,83.9,High,Standard Supervision,0,0
+Y01740,15,Prior Record,1,0.647,5,81.3,High,Standard Supervision,0,0
+Y01741,16,Prior Record,1,0.607,1,97.3,High,Tough Love,0,0
+Y01742,15,Prior Record,1,0.657,3,92.8,High,Standard Supervision,0,1
+Y01743,13,First-Time,0,0.982,8,25.9,Low,Tough Love,0,0
+Y01744,14,First-Time,0,0.609,7,45.4,Moderate,CBT,0,0
+Y01745,17,Prior Record,1,0.596,3,85.0,High,Tough Love,1,1
+Y01746,17,First-Time,0,0.778,7,10.6,Low,CBT,0,0
+Y01747,14,Prior Record,1,0.776,3,94.6,High,Tough Love,1,1
+Y01748,17,Prior Record,1,0.508,7,70.4,High,Vocational,0,0
+Y01749,16,First-Time,0,0.658,6,26.2,Low,Vocational,0,0
+Y01750,17,Prior Record,1,0.676,5,86.5,High,Tough Love,0,0
+Y01751,17,Prior Record,1,0.828,5,82.4,High,CBT,0,0
+Y01752,16,First-Time,0,0.961,10,18.8,Low,Vocational,0,0
+Y01753,14,First-Time,0,0.859,4,74.1,High,Tough Love,0,0
+Y01754,16,First-Time,0,0.464,6,48.0,Moderate,Vocational,0,0
+Y01755,14,Prior Record,1,0.449,7,69.6,High,Standard Supervision,0,1
+Y01756,14,First-Time,0,0.873,4,54.1,Moderate,Standard Supervision,0,0
+Y01757,16,First-Time,0,0.938,3,74.4,High,Standard Supervision,1,1
+Y01758,15,Prior Record,1,0.584,4,70.5,High,Vocational,1,1
+Y01759,15,First-Time,0,0.668,8,36.4,Low,Standard Supervision,1,1
+Y01760,14,First-Time,0,0.893,5,62.8,Moderate,Tough Love,0,0
+Y01761,15,Prior Record,1,0.35,5,94.2,High,Tough Love,0,1
+Y01762,13,First-Time,0,0.204,8,67.2,High,Standard Supervision,1,1
+Y01763,16,First-Time,0,0.455,4,86.2,High,Tough Love,1,1
+Y01764,15,First-Time,0,0.576,6,19.8,Low,Standard Supervision,1,1
+Y01765,17,First-Time,0,0.596,3,90.3,High,CBT,0,0
+Y01766,15,First-Time,0,0.456,7,58.3,Moderate,Standard Supervision,0,0
+Y01767,15,Prior Record,1,0.681,6,88.5,High,Tough Love,1,1
+Y01768,13,Prior Record,1,0.615,7,57.8,Moderate,Tough Love,1,1
+Y01769,13,First-Time,0,0.723,4,40.2,Moderate,Standard Supervision,0,0
+Y01770,14,Prior Record,1,0.491,5,95.4,High,CBT,1,1
+Y01771,14,Prior Record,1,0.585,3,87.3,High,CBT,0,0
+Y01772,14,Prior Record,1,0.325,5,89.2,High,Vocational,0,1
+Y01773,14,Prior Record,1,0.661,8,71.0,High,Standard Supervision,0,0
+Y01774,16,Prior Record,1,0.687,5,88.5,High,Tough Love,0,0
+Y01775,13,Prior Record,1,0.716,2,96.1,High,Tough Love,1,1
+Y01776,14,First-Time,0,0.669,5,63.3,Moderate,CBT,0,1
+Y01777,13,First-Time,0,0.907,3,50.1,Moderate,Tough Love,1,1
+Y01778,14,First-Time,0,0.833,3,77.0,High,Tough Love,0,0
+Y01779,16,First-Time,0,0.853,7,44.4,Moderate,Vocational,0,0
+Y01780,13,Prior Record,1,0.653,2,83.3,High,Tough Love,0,0
+Y01781,14,First-Time,0,0.653,7,64.4,Moderate,CBT,0,0
+Y01782,13,First-Time,0,0.877,6,13.6,Low,CBT,0,0
+Y01783,17,First-Time,0,0.578,5,77.1,High,CBT,0,0
+Y01784,16,First-Time,0,0.625,6,44.3,Moderate,Vocational,0,0
+Y01785,14,Prior Record,1,0.248,3,97.3,High,Standard Supervision,1,1
+Y01786,13,Prior Record,1,0.645,7,78.0,High,Standard Supervision,1,1
+Y01787,13,First-Time,0,0.871,5,49.7,Moderate,CBT,0,0
+Y01788,15,First-Time,0,0.869,5,57.0,Moderate,CBT,0,0
+Y01789,16,First-Time,0,0.484,5,67.5,High,CBT,0,0
+Y01790,15,First-Time,0,0.794,7,47.3,Moderate,Standard Supervision,1,1
+Y01791,17,Prior Record,1,0.803,6,90.9,High,Tough Love,1,1
+Y01792,14,Prior Record,1,0.648,1,90.5,High,Vocational,0,0
+Y01793,14,First-Time,0,0.737,7,8.8,Low,CBT,0,0
+Y01794,15,First-Time,0,0.867,3,61.5,Moderate,Tough Love,1,1
+Y01795,14,Prior Record,1,0.578,5,81.8,High,Tough Love,0,0
+Y01796,17,Prior Record,1,0.407,5,87.1,High,Standard Supervision,1,1
+Y01797,13,First-Time,0,0.881,5,36.2,Low,CBT,0,0
+Y01798,15,First-Time,0,0.859,7,46.4,Moderate,CBT,1,1
+Y01799,15,First-Time,0,0.834,7,19.1,Low,CBT,0,0
+Y01800,13,Prior Record,1,0.483,4,93.1,High,Tough Love,1,1
+Y01801,15,First-Time,0,0.831,4,69.4,High,Standard Supervision,0,0
+Y01802,15,First-Time,0,0.782,6,50.6,Moderate,CBT,1,1
+Y01803,14,Prior Record,1,0.706,2,94.7,High,CBT,1,1
+Y01804,13,Prior Record,1,0.492,4,94.7,High,Vocational,1,1
+Y01805,13,First-Time,0,0.703,9,26.4,Low,Standard Supervision,0,0
+Y01806,13,First-Time,0,0.756,3,67.5,High,Tough Love,0,0
+Y01807,15,First-Time,0,0.924,5,54.8,Moderate,Vocational,0,0
+Y01808,13,Prior Record,1,0.828,4,88.1,High,Standard Supervision,0,0
+Y01809,17,First-Time,0,0.674,10,30.7,Low,Vocational,0,0
+Y01810,14,Prior Record,1,0.845,4,64.1,Moderate,Standard Supervision,0,0
+Y01811,16,Prior Record,1,0.35,4,92.3,High,Vocational,0,0
+Y01812,16,First-Time,0,0.253,4,72.2,High,Vocational,0,0
+Y01813,15,Prior Record,1,0.547,5,90.0,High,Standard Supervision,0,0
+Y01814,17,First-Time,0,0.857,7,44.3,Moderate,CBT,0,0
+Y01815,13,First-Time,0,0.73,4,61.6,Moderate,Standard Supervision,0,0
+Y01816,14,Prior Record,1,0.783,7,56.1,Moderate,Vocational,0,0
+Y01817,14,First-Time,0,0.352,7,66.9,High,Vocational,0,0
+Y01818,13,First-Time,0,0.745,8,29.5,Low,Standard Supervision,0,0
+Y01819,14,First-Time,0,0.577,5,81.0,High,Standard Supervision,0,0
+Y01820,14,First-Time,0,0.861,6,67.7,High,Tough Love,0,0
+Y01821,16,First-Time,0,0.71,6,64.1,Moderate,Standard Supervision,1,1
+Y01822,14,Prior Record,1,0.693,8,65.8,High,CBT,0,0
+Y01823,17,Prior Record,1,0.704,5,93.3,High,Vocational,0,1
+Y01824,16,Prior Record,1,0.558,5,87.8,High,Standard Supervision,1,1
+Y01825,17,Prior Record,1,0.415,4,89.9,High,Tough Love,0,1
+Y01826,13,First-Time,0,0.654,5,50.9,Moderate,Standard Supervision,1,1
+Y01827,17,Prior Record,1,0.346,6,81.5,High,Tough Love,0,0
+Y01828,16,First-Time,0,0.948,8,23.2,Low,CBT,0,0
+Y01829,17,First-Time,0,0.732,5,63.7,Moderate,Standard Supervision,0,0
+Y01830,14,Prior Record,1,0.432,5,77.5,High,CBT,0,0
+Y01831,17,First-Time,0,0.393,6,58.5,Moderate,Tough Love,0,0
+Y01832,15,First-Time,0,0.816,7,38.8,Low,CBT,0,0
+Y01833,13,First-Time,0,0.647,3,82.4,High,Standard Supervision,0,0
+Y01834,15,First-Time,0,0.864,4,58.8,Moderate,Tough Love,0,0
+Y01835,13,First-Time,0,0.562,3,81.3,High,Standard Supervision,0,0
+Y01836,17,First-Time,0,0.642,6,34.8,Low,Standard Supervision,0,0
+Y01837,14,Prior Record,1,0.605,3,86.9,High,Standard Supervision,0,1
+Y01838,14,First-Time,0,0.765,5,54.6,Moderate,Tough Love,0,0
+Y01839,15,First-Time,0,0.869,4,66.1,High,Standard Supervision,1,1
+Y01840,15,First-Time,0,0.891,5,52.7,Moderate,Standard Supervision,1,1
+Y01841,13,Prior Record,1,0.779,3,82.9,High,Tough Love,0,1
+Y01842,17,First-Time,0,0.867,8,23.6,Low,Vocational,0,0
+Y01843,17,First-Time,0,0.799,7,58.9,Moderate,CBT,0,0
+Y01844,16,First-Time,0,0.877,6,49.3,Moderate,Vocational,0,0
+Y01845,16,Prior Record,1,0.516,5,86.1,High,CBT,1,1
+Y01846,15,Prior Record,1,0.842,1,88.6,High,Vocational,0,0
+Y01847,15,Prior Record,1,0.589,4,84.5,High,CBT,0,0
+Y01848,15,Prior Record,1,0.797,4,84.7,High,Vocational,0,0
+Y01849,13,First-Time,0,0.626,6,57.8,Moderate,Tough Love,0,1
+Y01850,13,First-Time,0,0.801,7,44.7,Moderate,CBT,0,0
+Y01851,14,First-Time,0,0.901,7,37.3,Low,Standard Supervision,0,0
+Y01852,15,First-Time,0,0.707,9,21.6,Low,CBT,0,0
+Y01853,13,First-Time,0,0.555,5,58.2,Moderate,Tough Love,0,0
+Y01854,13,First-Time,0,0.31,5,91.4,High,Tough Love,0,0
+Y01855,17,First-Time,0,0.5,8,34.7,Low,Vocational,0,0
+Y01856,14,Prior Record,1,0.678,6,61.5,Moderate,Tough Love,0,1
+Y01857,15,First-Time,0,0.938,6,18.8,Low,Vocational,0,0
+Y01858,15,Prior Record,1,0.429,9,61.8,Moderate,Tough Love,0,0
+Y01859,16,Prior Record,1,0.347,6,92.2,High,Vocational,1,1
+Y01860,16,First-Time,0,0.697,6,41.6,Moderate,Standard Supervision,0,1
+Y01861,14,First-Time,0,0.583,5,81.3,High,Vocational,0,0
+Y01862,17,Prior Record,1,0.372,8,76.0,High,CBT,0,0
+Y01863,14,Prior Record,1,0.445,6,91.5,High,Standard Supervision,0,0
+Y01864,17,First-Time,0,0.912,6,29.4,Low,CBT,0,0
+Y01865,15,First-Time,0,0.503,7,40.1,Moderate,CBT,0,0
+Y01866,13,Prior Record,1,0.823,7,65.9,High,Vocational,0,0
+Y01867,16,Prior Record,1,0.541,6,85.9,High,CBT,0,0
+Y01868,13,First-Time,0,0.784,8,27.4,Low,Standard Supervision,0,0
+Y01869,16,First-Time,0,0.543,7,53.5,Moderate,Tough Love,0,0
+Y01870,13,Prior Record,1,0.721,6,81.9,High,Vocational,0,0
+Y01871,14,First-Time,0,0.539,5,45.5,Moderate,Standard Supervision,0,0
+Y01872,16,Prior Record,1,0.682,9,49.5,Moderate,CBT,0,0
+Y01873,17,First-Time,0,0.794,4,55.0,Moderate,Standard Supervision,0,0
+Y01874,15,First-Time,0,0.904,7,26.1,Low,Tough Love,0,0
+Y01875,13,First-Time,0,0.509,3,84.2,High,Standard Supervision,0,0
+Y01876,14,First-Time,0,0.521,6,51.4,Moderate,Tough Love,0,0
+Y01877,17,Prior Record,1,0.659,4,68.6,High,CBT,0,0
+Y01878,16,First-Time,0,0.924,6,35.6,Low,Vocational,0,0
+Y01879,13,Prior Record,1,0.304,6,79.5,High,Standard Supervision,0,1
+Y01880,14,First-Time,0,0.819,4,68.1,High,CBT,0,0
+Y01881,14,Prior Record,1,0.582,5,90.6,High,CBT,0,0
+Y01882,13,Prior Record,1,0.623,8,34.3,Low,CBT,0,0
+Y01883,17,Prior Record,1,0.464,3,90.5,High,Tough Love,0,1
+Y01884,16,First-Time,0,0.837,4,65.4,High,Vocational,0,0
+Y01885,13,Prior Record,1,0.539,7,58.1,Moderate,Standard Supervision,0,1
+Y01886,16,First-Time,0,0.542,6,68.7,High,Vocational,0,1
+Y01887,15,Prior Record,1,0.393,6,92.0,High,Standard Supervision,0,0
+Y01888,13,First-Time,0,0.806,8,26.7,Low,Tough Love,1,1
+Y01889,15,First-Time,0,0.691,4,56.3,Moderate,CBT,0,0
+Y01890,13,First-Time,0,0.365,5,41.0,Moderate,Standard Supervision,0,0
+Y01891,14,Prior Record,1,0.347,4,95.7,High,CBT,0,0
+Y01892,17,Prior Record,1,0.423,5,96.5,High,Standard Supervision,1,1
+Y01893,16,First-Time,0,0.704,9,50.5,Moderate,Tough Love,0,1
+Y01894,13,Prior Record,1,0.644,2,93.0,High,CBT,1,1
+Y01895,17,Prior Record,1,0.824,3,79.4,High,Standard Supervision,1,1
+Y01896,15,First-Time,0,0.932,3,74.8,High,Tough Love,1,1
+Y01897,17,First-Time,0,0.648,9,26.5,Low,Standard Supervision,0,0
+Y01898,16,Prior Record,1,0.522,4,92.7,High,Standard Supervision,0,1
+Y01899,14,Prior Record,1,0.728,5,84.2,High,Tough Love,0,1
+Y01900,15,First-Time,0,0.858,3,68.8,High,Standard Supervision,1,1
+Y01901,15,Prior Record,1,0.765,5,88.5,High,Tough Love,0,0
+Y01902,16,First-Time,0,0.926,8,37.5,Low,Vocational,0,0
+Y01903,14,Prior Record,1,0.548,6,76.7,High,CBT,0,0
+Y01904,14,Prior Record,1,0.54,5,78.9,High,CBT,0,1
+Y01905,14,Prior Record,1,0.824,2,70.1,High,CBT,1,1
+Y01906,14,First-Time,0,0.616,5,57.7,Moderate,CBT,0,0
+Y01907,13,First-Time,0,0.708,6,33.8,Low,CBT,1,1
+Y01908,13,First-Time,0,0.928,4,62.1,Moderate,Tough Love,0,0
+Y01909,17,First-Time,0,0.706,7,36.3,Low,Vocational,1,1
+Y01910,13,Prior Record,1,0.581,7,72.2,High,Tough Love,0,0
+Y01911,17,First-Time,0,0.675,5,70.8,High,Standard Supervision,0,0
+Y01912,13,First-Time,0,0.775,7,43.5,Moderate,Tough Love,0,1
+Y01913,16,First-Time,0,0.757,6,45.4,Moderate,Standard Supervision,0,1
+Y01914,14,First-Time,0,0.504,8,66.9,High,Tough Love,0,0
+Y01915,15,First-Time,0,0.751,10,25.7,Low,CBT,0,0
+Y01916,14,Prior Record,1,0.641,3,89.3,High,Standard Supervision,0,1
+Y01917,15,Prior Record,1,0.5,7,73.7,High,CBT,0,0
+Y01918,15,First-Time,0,0.878,9,28.2,Low,Tough Love,0,0
+Y01919,15,Prior Record,1,0.867,3,88.5,High,Tough Love,0,1
+Y01920,14,Prior Record,1,0.629,4,79.7,High,Tough Love,1,1
+Y01921,15,First-Time,0,0.905,5,61.7,Moderate,CBT,0,0
+Y01922,17,Prior Record,1,0.519,5,93.5,High,Vocational,0,0
+Y01923,15,First-Time,0,0.92,5,65.0,Moderate,Standard Supervision,0,0
+Y01924,14,First-Time,0,0.81,6,67.0,High,Vocational,0,0
+Y01925,13,First-Time,0,0.824,8,57.3,Moderate,Standard Supervision,0,0
+Y01926,14,First-Time,0,0.663,2,92.5,High,Tough Love,0,0
+Y01927,13,Prior Record,1,0.549,3,94.0,High,Tough Love,0,1
+Y01928,13,Prior Record,1,0.317,7,81.6,High,CBT,0,0
+Y01929,17,Prior Record,1,0.576,6,58.7,Moderate,Vocational,0,0
+Y01930,13,Prior Record,1,0.597,3,92.2,High,CBT,0,0
+Y01931,15,Prior Record,1,0.61,6,84.4,High,Standard Supervision,0,0
+Y01932,17,Prior Record,1,0.649,8,65.2,High,CBT,1,1
+Y01933,17,First-Time,0,0.734,6,23.1,Low,CBT,0,0
+Y01934,13,First-Time,0,0.776,4,59.3,Moderate,Standard Supervision,0,0
+Y01935,13,Prior Record,1,0.434,7,85.4,High,Tough Love,1,1
+Y01936,14,First-Time,0,0.456,9,23.5,Low,Vocational,0,0
+Y01937,15,First-Time,0,0.657,4,70.8,High,CBT,0,0
+Y01938,17,First-Time,0,0.517,6,65.1,High,Tough Love,0,0
+Y01939,14,Prior Record,1,0.624,7,84.2,High,Tough Love,0,0
+Y01940,13,First-Time,0,0.9,6,65.2,High,Standard Supervision,0,0
+Y01941,14,First-Time,0,0.78,3,66.0,High,CBT,1,1
+Y01942,17,First-Time,0,0.786,7,39.9,Low,Tough Love,0,0
+Y01943,13,First-Time,0,0.77,4,66.6,High,Standard Supervision,0,0
+Y01944,14,Prior Record,1,0.608,3,94.4,High,CBT,1,1
+Y01945,13,First-Time,0,0.907,3,72.3,High,Tough Love,0,0
+Y01946,13,Prior Record,1,0.826,8,75.1,High,Tough Love,1,1
+Y01947,17,Prior Record,1,0.491,4,71.5,High,Tough Love,0,0
+Y01948,13,First-Time,0,0.847,7,40.3,Moderate,Tough Love,0,1
+Y01949,14,Prior Record,1,0.538,6,86.0,High,Standard Supervision,1,1
+Y01950,17,Prior Record,1,0.663,6,75.6,High,Vocational,0,0
+Y01951,16,Prior Record,1,0.43,6,59.4,Moderate,Tough Love,0,0
+Y01952,13,First-Time,0,0.309,7,59.8,Moderate,Standard Supervision,0,0
+Y01953,15,First-Time,0,0.855,6,32.4,Low,Standard Supervision,0,0
+Y01954,17,Prior Record,1,0.533,4,96.2,High,CBT,0,0
+Y01955,15,Prior Record,1,0.578,4,91.4,High,Tough Love,1,1
+Y01956,15,Prior Record,1,0.321,5,86.2,High,Tough Love,1,1
+Y01957,15,Prior Record,1,0.832,5,51.3,Moderate,Tough Love,1,1
+Y01958,16,First-Time,0,0.815,7,44.4,Moderate,CBT,0,0
+Y01959,13,Prior Record,1,0.787,7,74.9,High,Vocational,1,1
+Y01960,17,First-Time,0,0.664,7,39.9,Low,Standard Supervision,0,0
+Y01961,17,Prior Record,1,0.47,4,93.8,High,Tough Love,1,1
+Y01962,13,First-Time,0,0.444,2,84.6,High,Vocational,0,0
+Y01963,17,First-Time,0,0.891,4,72.3,High,Vocational,0,0
+Y01964,17,Prior Record,1,0.463,3,96.5,High,CBT,1,1
+Y01965,16,Prior Record,1,0.556,4,76.9,High,Standard Supervision,0,0
+Y01966,14,Prior Record,1,0.577,6,64.8,Moderate,Standard Supervision,0,1
+Y01967,15,First-Time,0,0.669,6,78.3,High,Tough Love,0,1
+Y01968,17,First-Time,0,0.623,10,33.5,Low,Standard Supervision,0,0
+Y01969,13,Prior Record,1,0.557,6,67.4,High,Tough Love,1,1
+Y01970,17,First-Time,0,0.875,10,6.3,Low,CBT,0,0
+Y01971,17,First-Time,0,0.823,7,38.4,Low,Vocational,0,0
+Y01972,16,Prior Record,1,0.692,7,54.5,Moderate,CBT,0,0
+Y01973,14,First-Time,0,0.183,5,76.7,High,Standard Supervision,0,0
+Y01974,15,Prior Record,1,0.68,3,90.6,High,Vocational,0,0
+Y01975,13,First-Time,0,0.372,5,72.2,High,CBT,0,0
+Y01976,17,Prior Record,1,0.342,5,95.0,High,Vocational,0,1
+Y01977,14,Prior Record,1,0.527,4,96.6,High,Tough Love,0,0
+Y01978,13,Prior Record,1,0.613,3,89.4,High,CBT,0,0
+Y01979,16,Prior Record,1,0.734,6,61.1,Moderate,Vocational,0,1
+Y01980,16,First-Time,0,0.766,4,69.0,High,Vocational,1,1
+Y01981,16,Prior Record,1,0.525,2,98.1,High,Standard Supervision,1,1
+Y01982,13,Prior Record,1,0.764,3,86.8,High,CBT,0,0
+Y01983,16,Prior Record,1,0.646,5,89.7,High,Standard Supervision,0,1
+Y01984,16,Prior Record,1,0.564,3,88.3,High,Standard Supervision,1,1
+Y01985,16,Prior Record,1,0.496,5,87.8,High,Standard Supervision,0,0
+Y01986,17,Prior Record,1,0.829,6,56.1,Moderate,Vocational,0,1
+Y01987,14,Prior Record,1,0.295,6,88.3,High,Standard Supervision,0,0
+Y01988,14,First-Time,0,0.929,5,45.6,Moderate,Tough Love,0,0
+Y01989,17,First-Time,0,0.662,3,81.6,High,Tough Love,0,0
+Y01990,15,Prior Record,1,0.576,4,96.1,High,Standard Supervision,0,1
+Y01991,15,First-Time,0,0.666,7,37.4,Low,Vocational,0,0
+Y01992,14,Prior Record,1,0.592,7,46.6,Moderate,Standard Supervision,0,0
+Y01993,16,Prior Record,1,0.467,6,82.4,High,Standard Supervision,0,0
+Y01994,16,First-Time,0,0.75,8,35.0,Low,Tough Love,0,0
+Y01995,13,Prior Record,1,0.593,9,61.9,Moderate,CBT,0,0
+Y01996,15,Prior Record,1,0.693,4,86.1,High,Standard Supervision,0,1
+Y01997,17,Prior Record,1,0.465,8,86.6,High,Tough Love,0,1
+Y01998,14,First-Time,0,0.86,5,52.8,Moderate,Tough Love,0,1
+Y01999,14,Prior Record,1,0.707,7,68.4,High,Vocational,0,0
+Y02000,17,First-Time,0,0.719,7,29.9,Low,Vocational,0,0
+Y02001,13,Prior Record,1,0.523,1,90.5,High,Tough Love,1,1
+Y02002,14,First-Time,0,0.798,4,66.8,High,Tough Love,0,0
+Y02003,15,Prior Record,1,0.66,3,92.2,High,Vocational,1,1
+Y02004,16,Prior Record,1,0.555,2,90.5,High,Tough Love,0,0
+Y02005,13,Prior Record,1,0.179,7,86.6,High,Vocational,1,1
+Y02006,15,First-Time,0,0.688,10,18.8,Low,Standard Supervision,0,0
+Y02007,13,Prior Record,1,0.52,5,82.3,High,Standard Supervision,1,1
+Y02008,16,Prior Record,1,0.676,7,60.4,Moderate,CBT,0,0
+Y02009,16,First-Time,0,0.89,9,23.4,Low,Standard Supervision,1,1
+Y02010,15,Prior Record,1,0.793,6,70.7,High,Standard Supervision,1,1
+Y02011,14,Prior Record,1,0.321,5,87.6,High,Vocational,1,1
+Y02012,13,Prior Record,1,0.561,5,78.8,High,Tough Love,0,1
+Y02013,17,Prior Record,1,0.442,6,83.7,High,Standard Supervision,0,0
+Y02014,16,Prior Record,1,0.626,7,82.5,High,CBT,0,0
+Y02015,14,Prior Record,1,0.817,6,74.8,High,Tough Love,0,1
+Y02016,15,Prior Record,1,0.771,6,71.4,High,CBT,0,1
+Y02017,16,First-Time,0,0.281,6,73.6,High,Tough Love,0,1
+Y02018,16,First-Time,0,0.906,3,81.1,High,Vocational,0,0
+Y02019,15,Prior Record,1,0.505,7,82.3,High,Vocational,1,1
+Y02020,14,First-Time,0,0.819,3,72.5,High,Standard Supervision,0,0
+Y02021,16,Prior Record,1,0.68,6,83.5,High,CBT,0,0
+Y02022,16,First-Time,0,0.562,8,37.3,Low,Vocational,0,0
+Y02023,15,First-Time,0,0.891,4,60.5,Moderate,Standard Supervision,0,0
+Y02024,13,First-Time,0,0.828,5,45.0,Moderate,Standard Supervision,0,0
+Y02025,15,First-Time,0,0.736,10,8.3,Low,CBT,0,0
+Y02026,16,First-Time,0,0.706,6,54.8,Moderate,Vocational,0,0
+Y02027,17,First-Time,0,0.605,4,75.0,High,Vocational,0,0
+Y02028,15,Prior Record,1,0.683,7,67.1,High,Vocational,0,0
+Y02029,14,First-Time,0,0.451,4,86.1,High,Tough Love,0,0
+Y02030,15,First-Time,0,0.682,2,73.2,High,Standard Supervision,0,0
+Y02031,13,First-Time,0,0.744,7,18.2,Low,Tough Love,0,0
+Y02032,13,First-Time,0,0.768,4,53.6,Moderate,Tough Love,0,0
+Y02033,16,First-Time,0,0.793,7,18.8,Low,CBT,0,0
+Y02034,17,Prior Record,1,0.484,4,92.7,High,Vocational,0,0
+Y02035,17,Prior Record,1,0.632,7,63.1,Moderate,CBT,0,0
+Y02036,15,First-Time,0,0.747,6,62.2,Moderate,Tough Love,0,1
+Y02037,13,Prior Record,1,0.481,1,98.1,High,CBT,0,0
+Y02038,17,First-Time,0,0.366,7,44.1,Moderate,CBT,0,0
+Y02039,15,First-Time,0,0.717,5,45.8,Moderate,Tough Love,0,0
+Y02040,14,Prior Record,1,0.242,8,85.0,High,Vocational,1,1
+Y02041,17,First-Time,0,0.807,7,50.6,Moderate,Standard Supervision,0,0
+Y02042,16,Prior Record,1,0.407,7,55.7,Moderate,Vocational,0,0
+Y02043,16,First-Time,0,0.786,5,58.6,Moderate,Tough Love,1,1
+Y02044,14,First-Time,0,0.783,4,31.3,Low,CBT,0,0
+Y02045,17,First-Time,0,0.911,6,32.0,Low,Vocational,0,0
+Y02046,15,First-Time,0,0.807,5,68.8,High,Vocational,0,0
+Y02047,15,Prior Record,1,0.533,8,93.3,High,Vocational,0,0
+Y02048,16,First-Time,0,0.574,6,52.7,Moderate,Tough Love,0,0
+Y02049,16,Prior Record,1,0.611,3,84.3,High,Vocational,1,1
+Y02050,13,Prior Record,1,0.828,4,79.2,High,Vocational,1,1
+Y02051,14,Prior Record,1,0.777,7,67.6,High,Tough Love,0,0
+Y02052,14,First-Time,0,0.972,6,28.0,Low,Standard Supervision,0,0
+Y02053,17,First-Time,0,0.776,6,33.0,Low,Standard Supervision,0,0
+Y02054,16,First-Time,0,0.55,8,34.2,Low,Tough Love,0,0
+Y02055,14,Prior Record,1,0.56,3,94.1,High,Tough Love,0,0
+Y02056,16,First-Time,0,0.83,2,73.8,High,CBT,0,0
+Y02057,16,Prior Record,1,0.703,3,84.7,High,Standard Supervision,0,0
+Y02058,14,Prior Record,1,0.393,6,80.4,High,Standard Supervision,0,0
+Y02059,15,First-Time,0,0.902,6,34.3,Low,Standard Supervision,0,0
+Y02060,17,Prior Record,1,0.498,2,91.7,High,Vocational,0,0
+Y02061,15,First-Time,0,0.731,8,23.4,Low,CBT,0,0
+Y02062,13,Prior Record,1,0.739,6,81.9,High,Standard Supervision,1,1
+Y02063,16,First-Time,0,0.767,7,34.9,Low,Vocational,0,0
+Y02064,15,Prior Record,1,0.605,6,58.4,Moderate,Tough Love,0,1
+Y02065,15,Prior Record,1,0.388,3,97.0,High,Tough Love,0,0
+Y02066,16,Prior Record,1,0.738,6,79.8,High,Tough Love,0,0
+Y02067,17,First-Time,0,0.687,8,18.2,Low,CBT,0,0
+Y02068,14,Prior Record,1,0.565,7,71.1,High,Vocational,0,1
+Y02069,15,First-Time,0,0.714,7,29.9,Low,CBT,0,0
+Y02070,13,Prior Record,1,0.477,6,88.6,High,Standard Supervision,0,0
+Y02071,16,First-Time,0,0.724,3,68.5,High,Tough Love,0,0
+Y02072,15,First-Time,0,0.925,6,37.9,Low,Vocational,0,0
+Y02073,14,First-Time,0,0.784,4,60.3,Moderate,Vocational,0,0
+Y02074,16,First-Time,0,0.742,9,11.7,Low,Standard Supervision,0,0
+Y02075,15,First-Time,0,0.804,8,48.4,Moderate,Standard Supervision,0,0
+Y02076,15,Prior Record,1,0.614,3,94.4,High,Tough Love,0,0
+Y02077,15,First-Time,0,0.935,6,28.5,Low,Standard Supervision,0,0
+Y02078,14,Prior Record,1,0.703,6,78.7,High,Standard Supervision,0,0
+Y02079,13,First-Time,0,0.34,8,64.7,Moderate,Vocational,1,1
+Y02080,17,Prior Record,1,0.841,2,91.3,High,Tough Love,0,0
+Y02081,13,Prior Record,1,0.64,1,98.2,High,Standard Supervision,1,1
+Y02082,14,First-Time,0,0.474,6,90.1,High,Standard Supervision,0,0
+Y02083,16,Prior Record,1,0.13,1,98.2,High,Tough Love,0,0
+Y02084,13,Prior Record,1,0.338,6,82.8,High,Tough Love,0,0
+Y02085,16,Prior Record,1,0.657,6,66.6,High,Vocational,0,0
+Y02086,16,First-Time,0,0.567,8,14.6,Low,Vocational,0,0
+Y02087,16,First-Time,0,0.964,5,63.9,Moderate,CBT,0,0
+Y02088,14,Prior Record,1,0.748,6,70.9,High,Vocational,0,0
+Y02089,13,First-Time,0,0.779,7,50.4,Moderate,CBT,0,0
+Y02090,17,Prior Record,1,0.594,3,95.7,High,Tough Love,0,1
+Y02091,14,First-Time,0,0.409,8,31.7,Low,Vocational,0,0
+Y02092,17,Prior Record,1,0.642,6,68.1,High,CBT,0,0
+Y02093,13,First-Time,0,0.785,5,77.3,High,Standard Supervision,1,1
+Y02094,13,First-Time,0,0.736,6,47.1,Moderate,Tough Love,0,0
+Y02095,16,Prior Record,1,0.755,5,74.0,High,Standard Supervision,0,0
+Y02096,17,Prior Record,1,0.444,7,67.6,High,Vocational,0,0
+Y02097,17,Prior Record,1,0.363,4,92.3,High,Vocational,0,1
+Y02098,16,Prior Record,1,0.192,6,95.8,High,Standard Supervision,0,1
+Y02099,14,First-Time,0,0.814,5,63.0,Moderate,Vocational,0,0
+Y02100,17,First-Time,0,0.715,4,68.5,High,Vocational,0,0
+Y02101,16,First-Time,0,0.913,6,62.9,Moderate,Tough Love,0,0
+Y02102,13,First-Time,0,0.902,4,75.6,High,Standard Supervision,1,1
+Y02103,13,First-Time,0,0.754,8,35.3,Low,Standard Supervision,0,0
+Y02104,17,Prior Record,1,0.719,6,94.4,High,Standard Supervision,1,1
+Y02105,14,First-Time,0,0.612,4,67.4,High,CBT,0,1
+Y02106,16,First-Time,0,0.833,6,59.7,Moderate,Vocational,0,0
+Y02107,13,First-Time,0,0.408,4,74.0,High,CBT,0,0
+Y02108,14,First-Time,0,0.956,3,74.6,High,Standard Supervision,0,0
+Y02109,14,First-Time,0,0.976,5,41.3,Moderate,Tough Love,0,0
+Y02110,14,Prior Record,1,0.657,5,87.1,High,Standard Supervision,0,0
+Y02111,16,First-Time,0,0.776,7,71.7,High,CBT,0,0
+Y02112,17,Prior Record,1,0.454,5,93.2,High,Tough Love,0,1
+Y02113,17,Prior Record,1,0.672,7,76.7,High,Vocational,0,1
+Y02114,16,Prior Record,1,0.684,3,86.0,High,CBT,0,0
+Y02115,14,Prior Record,1,0.568,4,90.7,High,Tough Love,0,1
+Y02116,17,First-Time,0,0.869,9,12.0,Low,Vocational,0,0
+Y02117,15,First-Time,0,0.955,2,80.6,High,Standard Supervision,1,1
+Y02118,15,First-Time,0,0.653,5,72.3,High,Standard Supervision,0,0
+Y02119,16,Prior Record,1,0.612,3,91.0,High,Tough Love,1,1
+Y02120,16,Prior Record,1,0.819,5,91.0,High,CBT,0,0
+Y02121,17,First-Time,0,0.39,5,86.8,High,Tough Love,0,0
+Y02122,15,First-Time,0,0.853,7,36.2,Low,Standard Supervision,0,0
+Y02123,16,Prior Record,1,0.735,6,81.3,High,Standard Supervision,0,0
+Y02124,16,Prior Record,1,0.703,3,86.9,High,Tough Love,0,1
+Y02125,14,Prior Record,1,0.648,4,86.3,High,Tough Love,1,1
+Y02126,14,Prior Record,1,0.677,5,72.1,High,Standard Supervision,0,1
+Y02127,16,Prior Record,1,0.464,7,73.8,High,Standard Supervision,0,0
+Y02128,13,Prior Record,1,0.656,10,45.6,Moderate,Vocational,1,1
+Y02129,14,First-Time,0,0.834,7,16.6,Low,CBT,0,0
+Y02130,16,First-Time,0,0.711,4,73.6,High,CBT,0,0
+Y02131,17,Prior Record,1,0.607,5,91.3,High,CBT,0,1
+Y02132,15,Prior Record,1,0.714,6,76.2,High,Tough Love,0,0
+Y02133,14,First-Time,0,0.971,5,14.1,Low,Standard Supervision,1,1
+Y02134,15,Prior Record,1,0.82,6,69.2,High,CBT,0,1
+Y02135,16,First-Time,0,0.961,1,59.7,Moderate,CBT,0,0
+Y02136,15,Prior Record,1,0.542,6,76.0,High,Standard Supervision,0,0
+Y02137,13,First-Time,0,0.755,5,75.2,High,CBT,0,0
+Y02138,15,Prior Record,1,0.36,5,68.3,High,CBT,0,0
+Y02139,15,First-Time,0,0.65,9,19.2,Low,Vocational,0,0
+Y02140,16,First-Time,0,0.793,3,79.6,High,CBT,0,0
+Y02141,17,First-Time,0,0.836,7,26.1,Low,Standard Supervision,0,0
+Y02142,17,Prior Record,1,0.497,7,68.8,High,Tough Love,0,1
+Y02143,16,First-Time,0,0.63,6,79.6,High,Vocational,1,1
+Y02144,14,First-Time,0,0.785,3,75.1,High,CBT,0,0
+Y02145,15,Prior Record,1,0.557,8,79.4,High,Standard Supervision,0,0
+Y02146,13,First-Time,0,0.605,6,61.9,Moderate,Vocational,0,1
+Y02147,17,First-Time,0,0.836,5,54.4,Moderate,Vocational,0,0
+Y02148,17,First-Time,0,0.762,5,72.8,High,Vocational,1,1
+Y02149,17,Prior Record,1,0.624,4,96.1,High,Tough Love,1,1
+Y02150,14,First-Time,0,0.86,4,34.7,Low,Standard Supervision,0,0
+Y02151,14,First-Time,0,0.593,6,54.8,Moderate,Tough Love,0,0
+Y02152,17,First-Time,0,0.688,5,58.6,Moderate,CBT,0,0
+Y02153,15,First-Time,0,0.694,7,35.5,Low,Standard Supervision,0,0
+Y02154,16,First-Time,0,0.915,7,45.2,Moderate,Vocational,0,0
+Y02155,15,First-Time,0,0.588,9,33.8,Low,Standard Supervision,0,0
+Y02156,15,First-Time,0,0.856,6,69.9,High,CBT,0,0
+Y02157,16,First-Time,0,0.677,4,80.3,High,Standard Supervision,0,0
+Y02158,17,Prior Record,1,0.821,2,96.0,High,Tough Love,0,1
+Y02159,14,First-Time,0,0.559,10,13.7,Low,Vocational,0,0
+Y02160,17,First-Time,0,0.753,7,28.1,Low,Vocational,0,0
+Y02161,14,Prior Record,1,0.456,4,87.6,High,CBT,0,0
+Y02162,15,Prior Record,1,0.801,9,67.8,High,CBT,1,1
+Y02163,17,Prior Record,1,0.291,8,67.6,High,Tough Love,0,1
+Y02164,17,First-Time,0,0.935,3,50.4,Moderate,Vocational,0,0
+Y02165,17,First-Time,0,0.724,4,49.5,Moderate,Vocational,0,0
+Y02166,14,First-Time,0,0.787,6,81.4,High,Standard Supervision,1,1
+Y02167,17,First-Time,0,0.682,4,65.7,High,CBT,0,0
+Y02168,17,First-Time,0,0.367,6,72.8,High,CBT,0,0
+Y02169,17,Prior Record,1,0.578,7,60.1,Moderate,Vocational,0,0
+Y02170,13,First-Time,0,0.774,3,81.4,High,Tough Love,0,0
+Y02171,16,Prior Record,1,0.275,6,72.8,High,Tough Love,1,1
+Y02172,17,First-Time,0,0.842,8,17.2,Low,CBT,0,0
+Y02173,16,First-Time,0,0.933,7,22.2,Low,CBT,0,0
+Y02174,14,Prior Record,1,0.788,5,81.8,High,Tough Love,0,1
+Y02175,16,Prior Record,1,0.328,4,89.7,High,CBT,0,0
+Y02176,13,First-Time,0,0.64,8,58.3,Moderate,CBT,0,0
+Y02177,15,Prior Record,1,0.663,3,93.2,High,Tough Love,0,1
+Y02178,16,First-Time,0,0.783,6,35.9,Low,Standard Supervision,0,0
+Y02179,15,First-Time,0,0.756,6,61.9,Moderate,CBT,0,0
+Y02180,16,Prior Record,1,0.299,7,80.5,High,CBT,0,0
+Y02181,14,First-Time,0,0.64,5,52.9,Moderate,CBT,0,0
+Y02182,16,First-Time,0,0.556,5,76.4,High,CBT,0,0
+Y02183,16,First-Time,0,0.241,4,53.7,Moderate,Standard Supervision,0,0
+Y02184,16,First-Time,0,0.886,7,43.0,Moderate,Standard Supervision,0,0
+Y02185,14,First-Time,0,0.636,5,51.3,Moderate,Tough Love,0,0
+Y02186,14,First-Time,0,0.948,4,44.4,Moderate,Tough Love,0,0
+Y02187,14,Prior Record,1,0.787,4,94.8,High,Tough Love,1,1
+Y02188,15,Prior Record,1,0.54,6,76.9,High,Tough Love,1,1
+Y02189,15,First-Time,0,0.827,4,73.5,High,Standard Supervision,1,1
+Y02190,14,First-Time,0,0.706,4,70.2,High,Standard Supervision,1,1
+Y02191,15,Prior Record,1,0.406,7,84.1,High,Vocational,0,0
+Y02192,14,First-Time,0,0.808,6,41.0,Moderate,CBT,0,0
+Y02193,14,First-Time,0,0.702,8,29.2,Low,Vocational,0,0
+Y02194,16,Prior Record,1,0.662,4,94.7,High,CBT,0,0
+Y02195,17,First-Time,0,0.571,6,69.3,High,Tough Love,0,0
+Y02196,14,First-Time,0,0.359,6,59.5,Moderate,CBT,0,0
+Y02197,17,First-Time,0,0.791,9,13.5,Low,Vocational,0,0
+Y02198,15,First-Time,0,0.777,9,17.4,Low,Vocational,0,0
+Y02199,13,First-Time,0,0.72,8,46.2,Moderate,CBT,0,0
+Y02200,14,Prior Record,1,0.767,4,92.2,High,Tough Love,1,1
+Y02201,13,First-Time,0,0.834,4,68.2,High,Tough Love,0,0
+Y02202,13,Prior Record,1,0.309,7,66.0,High,Tough Love,1,1
+Y02203,14,Prior Record,1,0.508,8,79.2,High,Tough Love,0,0
+Y02204,15,First-Time,0,0.533,8,60.3,Moderate,CBT,0,0
+Y02205,16,First-Time,0,0.417,6,66.1,High,CBT,0,0
+Y02206,13,First-Time,0,0.593,7,74.1,High,Tough Love,1,1
+Y02207,17,Prior Record,1,0.706,7,51.1,Moderate,Vocational,0,0
+Y02208,14,First-Time,0,0.428,6,72.2,High,Vocational,0,0
+Y02209,13,Prior Record,1,0.851,6,57.1,Moderate,CBT,1,1
+Y02210,16,Prior Record,1,0.433,5,93.8,High,CBT,0,0
+Y02211,16,Prior Record,1,0.611,4,92.0,High,Vocational,0,0
+Y02212,16,Prior Record,1,0.416,4,97.2,High,Tough Love,1,1
+Y02213,13,Prior Record,1,0.696,4,90.1,High,CBT,0,0
+Y02214,13,Prior Record,1,0.526,2,93.7,High,CBT,0,0
+Y02215,14,Prior Record,1,0.463,5,84.9,High,Standard Supervision,1,1
+Y02216,15,Prior Record,1,0.487,5,86.1,High,Vocational,1,1
+Y02217,17,Prior Record,1,0.499,7,72.0,High,CBT,0,0
+Y02218,14,Prior Record,1,0.593,8,82.1,High,Tough Love,1,1
+Y02219,13,First-Time,0,0.907,9,33.2,Low,Standard Supervision,1,1
+Y02220,17,Prior Record,1,0.602,8,44.9,Moderate,CBT,0,0
+Y02221,13,First-Time,0,0.79,4,63.3,Moderate,Standard Supervision,1,1
+Y02222,13,Prior Record,1,0.757,2,92.6,High,Standard Supervision,1,1
+Y02223,15,First-Time,0,0.875,8,18.0,Low,Vocational,0,0
+Y02224,15,Prior Record,1,0.505,8,76.0,High,Tough Love,1,1
+Y02225,16,Prior Record,1,0.569,8,83.7,High,Tough Love,1,1
+Y02226,17,Prior Record,1,0.419,6,90.9,High,Tough Love,0,0
+Y02227,17,First-Time,0,0.91,2,85.7,High,Standard Supervision,1,1
+Y02228,14,Prior Record,1,0.306,6,82.6,High,Tough Love,1,1
+Y02229,17,Prior Record,1,0.823,6,72.6,High,Vocational,0,0
+Y02230,16,Prior Record,1,0.566,8,57.7,Moderate,Vocational,0,0
+Y02231,13,Prior Record,1,0.795,8,61.1,Moderate,Vocational,0,0
+Y02232,17,Prior Record,1,0.607,7,77.4,High,CBT,0,0
+Y02233,13,Prior Record,1,0.528,4,94.4,High,CBT,0,0
+Y02234,15,First-Time,0,0.773,4,79.3,High,Standard Supervision,0,0
+Y02235,16,Prior Record,1,0.712,6,83.1,High,CBT,0,0
+Y02236,14,First-Time,0,0.602,4,59.4,Moderate,CBT,0,0
+Y02237,14,Prior Record,1,0.825,8,36.3,Low,Tough Love,0,0
+Y02238,15,Prior Record,1,0.727,2,94.6,High,Standard Supervision,0,1
+Y02239,17,First-Time,0,0.915,7,53.0,Moderate,Vocational,0,0
+Y02240,14,First-Time,0,0.902,7,31.7,Low,CBT,0,0
+Y02241,16,First-Time,0,0.924,6,20.4,Low,Standard Supervision,0,0
+Y02242,15,Prior Record,1,0.495,3,98.0,High,CBT,0,0
+Y02243,13,First-Time,0,0.439,2,90.2,High,CBT,1,1
+Y02244,16,First-Time,0,0.884,5,52.1,Moderate,Vocational,0,0
+Y02245,17,Prior Record,1,0.49,4,83.5,High,CBT,0,0
+Y02246,15,First-Time,0,0.494,8,43.1,Moderate,Standard Supervision,0,0
+Y02247,13,Prior Record,1,0.609,4,92.4,High,CBT,0,1
+Y02248,13,First-Time,0,0.636,7,52.0,Moderate,Tough Love,0,0
+Y02249,15,First-Time,0,0.602,3,69.8,High,Tough Love,0,0
+Y02250,15,First-Time,0,0.522,7,49.3,Moderate,Standard Supervision,0,0
+Y02251,15,First-Time,0,0.778,2,70.6,High,Vocational,0,0
+Y02252,14,First-Time,0,0.974,10,27.9,Low,Tough Love,1,1
+Y02253,15,Prior Record,1,0.734,5,88.3,High,Standard Supervision,0,0
+Y02254,14,First-Time,0,0.807,1,77.2,High,Standard Supervision,1,1
+Y02255,16,First-Time,0,0.679,5,42.3,Moderate,Standard Supervision,0,0
+Y02256,16,First-Time,0,0.821,4,65.1,High,Standard Supervision,0,0
+Y02257,16,First-Time,0,0.276,5,71.1,High,Tough Love,0,0
+Y02258,13,Prior Record,1,0.428,4,90.0,High,Tough Love,0,0
+Y02259,17,First-Time,0,0.85,5,34.7,Low,Vocational,0,0
+Y02260,13,Prior Record,1,0.782,4,75.6,High,CBT,0,0
+Y02261,17,First-Time,0,0.733,4,67.5,High,Tough Love,1,1
+Y02262,13,First-Time,0,0.553,8,36.2,Low,Standard Supervision,1,1
+Y02263,15,First-Time,0,0.708,8,68.6,High,Standard Supervision,0,0
+Y02264,13,First-Time,0,0.454,5,76.8,High,Standard Supervision,0,0
+Y02265,13,Prior Record,1,0.831,5,64.5,Moderate,Tough Love,1,1
+Y02266,16,First-Time,0,0.667,4,46.1,Moderate,Vocational,0,0
+Y02267,16,First-Time,0,0.649,6,58.5,Moderate,Vocational,0,0
+Y02268,13,Prior Record,1,0.697,6,72.5,High,Tough Love,1,1
+Y02269,17,Prior Record,1,0.581,5,93.0,High,Standard Supervision,1,1
+Y02270,14,Prior Record,1,0.396,6,87.8,High,CBT,1,1
+Y02271,14,Prior Record,1,0.711,6,49.7,Moderate,Tough Love,1,1
+Y02272,14,Prior Record,1,0.548,3,87.5,High,Tough Love,0,0
+Y02273,15,Prior Record,1,0.795,8,47.6,Moderate,CBT,1,1
+Y02274,13,Prior Record,1,0.593,5,88.4,High,Standard Supervision,0,1
+Y02275,15,First-Time,0,0.824,9,12.7,Low,Tough Love,0,0
+Y02276,14,Prior Record,1,0.552,6,83.0,High,CBT,0,0
+Y02277,13,First-Time,0,0.67,10,10.5,Low,Standard Supervision,0,0
+Y02278,14,Prior Record,1,0.709,8,61.9,Moderate,Standard Supervision,1,1
+Y02279,16,Prior Record,1,0.587,6,83.9,High,Standard Supervision,0,1
+Y02280,16,First-Time,0,0.875,5,70.6,High,Vocational,1,1
+Y02281,14,Prior Record,1,0.534,4,91.5,High,Tough Love,0,1
+Y02282,14,Prior Record,1,0.605,6,71.1,High,Standard Supervision,0,1
+Y02283,16,First-Time,0,0.705,6,70.8,High,Standard Supervision,0,1
+Y02284,16,First-Time,0,0.736,5,54.2,Moderate,Vocational,0,0
+Y02285,17,Prior Record,1,0.685,7,79.3,High,Vocational,0,0
+Y02286,17,Prior Record,1,0.727,5,75.6,High,CBT,0,0
+Y02287,17,First-Time,0,0.578,8,40.1,Moderate,CBT,0,0
+Y02288,17,First-Time,0,0.486,4,65.7,High,Tough Love,0,0
+Y02289,15,Prior Record,1,0.724,7,73.0,High,Tough Love,1,1
+Y02290,14,First-Time,0,0.543,7,61.0,Moderate,CBT,1,1
+Y02291,14,First-Time,0,0.861,8,21.1,Low,Vocational,0,0
+Y02292,14,First-Time,0,0.604,8,30.2,Low,Tough Love,0,0
+Y02293,16,First-Time,0,0.785,6,51.1,Moderate,Standard Supervision,0,0
+Y02294,16,Prior Record,1,0.621,5,77.1,High,Tough Love,0,0
+Y02295,17,Prior Record,1,0.839,9,26.1,Low,Vocational,0,1
+Y02296,13,Prior Record,1,0.661,5,86.3,High,Vocational,1,1
+Y02297,15,Prior Record,1,0.458,7,78.1,High,Vocational,0,1
+Y02298,14,First-Time,0,0.924,5,45.6,Moderate,Standard Supervision,1,1
+Y02299,17,First-Time,0,0.805,2,81.8,High,Tough Love,0,0
+Y02300,14,First-Time,0,0.849,4,69.0,High,Tough Love,1,1
+Y02301,13,First-Time,0,0.774,7,35.5,Low,Standard Supervision,1,1
+Y02302,15,First-Time,0,0.901,7,19.4,Low,CBT,1,1
+Y02303,17,First-Time,0,0.793,7,28.5,Low,Tough Love,0,0
+Y02304,17,First-Time,0,0.602,8,46.2,Moderate,Tough Love,0,0
+Y02305,13,First-Time,0,0.93,7,32.5,Low,CBT,0,0
+Y02306,14,Prior Record,1,0.727,4,82.0,High,Standard Supervision,1,1
+Y02307,13,Prior Record,1,0.669,6,68.8,High,CBT,0,0
+Y02308,14,Prior Record,1,0.508,6,87.6,High,Standard Supervision,1,1
+Y02309,15,Prior Record,1,0.414,4,91.2,High,Tough Love,0,0
+Y02310,14,Prior Record,1,0.539,6,87.8,High,Tough Love,0,0
+Y02311,13,First-Time,0,0.583,6,68.2,High,Tough Love,0,0
+Y02312,15,Prior Record,1,0.627,4,86.5,High,Standard Supervision,0,0
+Y02313,13,First-Time,0,0.776,6,60.3,Moderate,Tough Love,0,0
+Y02314,14,First-Time,0,0.919,9,19.7,Low,Tough Love,0,0
+Y02315,13,First-Time,0,0.886,9,22.1,Low,CBT,0,0
+Y02316,13,First-Time,0,0.658,6,22.6,Low,Tough Love,0,0
+Y02317,15,First-Time,0,0.463,6,47.3,Moderate,CBT,0,0
+Y02318,17,Prior Record,1,0.736,2,87.9,High,CBT,0,1
+Y02319,16,Prior Record,1,0.567,9,55.6,Moderate,Standard Supervision,1,1
+Y02320,13,Prior Record,1,0.195,7,87.3,High,Standard Supervision,0,0
+Y02321,13,Prior Record,1,0.549,7,77.6,High,Standard Supervision,0,1
+Y02322,14,First-Time,0,0.963,1,80.1,High,Tough Love,0,0
+Y02323,16,First-Time,0,0.681,6,40.8,Moderate,CBT,0,0
+Y02324,16,Prior Record,1,0.697,5,87.8,High,Standard Supervision,1,1
+Y02325,17,First-Time,0,0.261,7,83.4,High,Standard Supervision,1,1
+Y02326,14,First-Time,0,0.691,5,53.9,Moderate,Vocational,0,0
+Y02327,13,First-Time,0,0.354,6,57.3,Moderate,Tough Love,1,1
+Y02328,13,Prior Record,1,0.685,6,69.4,High,CBT,0,0
+Y02329,13,Prior Record,1,0.82,4,84.7,High,Tough Love,0,1
+Y02330,13,First-Time,0,0.861,5,42.9,Moderate,Tough Love,0,0
+Y02331,17,Prior Record,1,0.555,6,61.1,Moderate,Vocational,0,0
+Y02332,14,First-Time,0,0.482,9,18.4,Low,Vocational,0,0
+Y02333,17,First-Time,0,0.46,8,59.7,Moderate,Vocational,1,1
+Y02334,15,First-Time,0,0.806,8,46.4,Moderate,Tough Love,0,0
+Y02335,15,First-Time,0,0.903,6,63.5,Moderate,CBT,0,0
+Y02336,15,Prior Record,1,0.762,8,62.5,Moderate,Tough Love,0,0
+Y02337,17,First-Time,0,0.486,3,70.8,High,Vocational,0,0
+Y02338,13,Prior Record,1,0.794,9,42.5,Moderate,Standard Supervision,1,1
+Y02339,13,First-Time,0,0.691,10,9.3,Low,Vocational,0,0
+Y02340,15,Prior Record,1,0.569,6,63.3,Moderate,Tough Love,1,1
+Y02341,14,Prior Record,1,0.6,7,76.9,High,Tough Love,0,0
+Y02342,15,Prior Record,1,0.574,5,89.3,High,Tough Love,0,0
+Y02343,16,Prior Record,1,0.467,5,96.0,High,Tough Love,0,0
+Y02344,15,Prior Record,1,0.514,4,90.2,High,Vocational,0,0
+Y02345,14,First-Time,0,0.879,6,23.6,Low,Tough Love,0,0
+Y02346,14,Prior Record,1,0.49,6,82.4,High,Standard Supervision,1,1
+Y02347,16,Prior Record,1,0.675,6,74.6,High,Standard Supervision,0,0
+Y02348,14,First-Time,0,0.822,10,12.6,Low,CBT,0,0
+Y02349,15,First-Time,0,0.947,6,42.9,Moderate,Vocational,0,0
+Y02350,15,First-Time,0,0.704,3,57.8,Moderate,Vocational,0,0
+Y02351,16,First-Time,0,0.424,9,39.7,Low,Vocational,0,0
+Y02352,16,First-Time,0,0.359,4,85.5,High,Standard Supervision,0,0
+Y02353,15,First-Time,0,0.873,5,70.2,High,Tough Love,0,1
+Y02354,14,Prior Record,1,0.672,6,80.9,High,Vocational,0,0
+Y02355,14,First-Time,0,0.628,7,60.4,Moderate,Tough Love,0,0
+Y02356,15,Prior Record,1,0.418,2,94.8,High,CBT,1,1
+Y02357,14,First-Time,0,0.893,5,44.5,Moderate,Vocational,0,0
+Y02358,16,Prior Record,1,0.48,2,97.9,High,Tough Love,0,1
+Y02359,14,First-Time,0,0.778,7,20.9,Low,CBT,0,0
+Y02360,16,First-Time,0,0.616,8,31.6,Low,Standard Supervision,0,0
+Y02361,16,First-Time,0,0.868,4,73.9,High,Standard Supervision,0,0
+Y02362,17,Prior Record,1,0.809,7,62.4,Moderate,Standard Supervision,1,1
+Y02363,13,First-Time,0,0.863,8,23.2,Low,CBT,0,0
+Y02364,16,Prior Record,1,0.425,4,90.8,High,Vocational,0,0
+Y02365,13,First-Time,0,0.7,2,81.3,High,Vocational,0,0
+Y02366,14,Prior Record,1,0.623,3,95.5,High,Tough Love,1,1
+Y02367,13,First-Time,0,0.717,5,70.5,High,Standard Supervision,0,0
+Y02368,13,Prior Record,1,0.644,8,65.0,Moderate,Standard Supervision,0,1
+Y02369,13,First-Time,0,0.806,6,60.9,Moderate,Tough Love,0,0
+Y02370,13,First-Time,0,0.541,4,77.3,High,Tough Love,0,1
+Y02371,17,First-Time,0,0.594,6,67.4,High,Vocational,0,0
+Y02372,13,First-Time,0,0.675,3,61.9,Moderate,Tough Love,0,0
+Y02373,14,First-Time,0,0.641,7,69.2,High,Tough Love,0,1
+Y02374,16,Prior Record,1,0.487,3,94.3,High,Tough Love,0,1
+Y02375,17,First-Time,0,0.834,4,22.9,Low,Vocational,0,0
+Y02376,17,First-Time,0,0.437,7,76.3,High,CBT,0,0
+Y02377,13,Prior Record,1,0.812,9,48.2,Moderate,Standard Supervision,1,1
+Y02378,17,First-Time,0,0.454,10,24.2,Low,Vocational,0,0
+Y02379,16,First-Time,0,0.774,4,54.7,Moderate,CBT,0,0
+Y02380,13,Prior Record,1,0.682,4,90.0,High,Standard Supervision,0,1
+Y02381,15,Prior Record,1,0.774,6,62.7,Moderate,Standard Supervision,0,0
+Y02382,17,Prior Record,1,0.655,8,56.0,Moderate,Tough Love,0,0
+Y02383,14,First-Time,0,0.782,2,71.2,High,Standard Supervision,0,0
+Y02384,13,Prior Record,1,0.518,5,85.0,High,Tough Love,0,0
+Y02385,17,First-Time,0,0.586,5,56.7,Moderate,Tough Love,0,0
+Y02386,17,Prior Record,1,0.678,1,97.1,High,Tough Love,1,1
+Y02387,17,Prior Record,1,0.797,3,90.2,High,Standard Supervision,0,0
+Y02388,17,Prior Record,1,0.794,4,87.5,High,Tough Love,0,0
+Y02389,17,First-Time,0,0.707,6,58.7,Moderate,Vocational,0,0
+Y02390,15,First-Time,0,0.92,8,23.2,Low,Standard Supervision,0,1
+Y02391,13,Prior Record,1,0.737,6,62.6,Moderate,Vocational,0,1
+Y02392,16,First-Time,0,0.64,8,62.3,Moderate,Standard Supervision,0,1
+Y02393,14,First-Time,0,0.828,6,57.4,Moderate,Vocational,0,0
+Y02394,15,Prior Record,1,0.309,4,97.5,High,Tough Love,1,1
+Y02395,16,Prior Record,1,0.831,5,87.1,High,Vocational,0,0
+Y02396,17,First-Time,0,0.968,7,23.8,Low,Tough Love,0,1
+Y02397,14,First-Time,0,0.95,8,6.9,Low,CBT,0,0
+Y02398,14,First-Time,0,0.789,6,28.6,Low,Tough Love,0,0
+Y02399,16,First-Time,0,0.487,4,81.9,High,Tough Love,0,0
+Y02400,13,First-Time,0,0.538,7,47.8,Moderate,Standard Supervision,0,0
+Y02401,15,Prior Record,1,0.626,6,74.9,High,Tough Love,0,0
+Y02402,16,Prior Record,1,0.674,8,28.0,Low,Tough Love,0,0
+Y02403,15,First-Time,0,0.647,5,61.0,Moderate,CBT,0,0
+Y02404,14,First-Time,0,0.693,5,42.9,Moderate,Vocational,0,0
+Y02405,17,Prior Record,1,0.508,7,69.0,High,CBT,0,0
+Y02406,14,Prior Record,1,0.607,4,93.1,High,Standard Supervision,1,1
+Y02407,16,Prior Record,1,0.669,4,79.3,High,CBT,1,1
+Y02408,15,First-Time,0,0.54,9,21.6,Low,CBT,0,0
+Y02409,13,Prior Record,1,0.682,2,94.0,High,Standard Supervision,1,1
+Y02410,15,First-Time,0,0.91,10,21.5,Low,Standard Supervision,0,0
+Y02411,13,First-Time,0,0.866,5,44.5,Moderate,Tough Love,0,0
+Y02412,17,Prior Record,1,0.603,7,87.3,High,Vocational,0,0
+Y02413,16,First-Time,0,0.857,6,25.3,Low,Vocational,0,0
+Y02414,14,First-Time,0,0.836,7,18.3,Low,Standard Supervision,0,0
+Y02415,15,First-Time,0,0.723,5,35.0,Low,Standard Supervision,0,0
+Y02416,16,First-Time,0,0.693,8,15.7,Low,Vocational,0,0
+Y02417,14,First-Time,0,0.863,5,55.6,Moderate,CBT,0,0
+Y02418,14,Prior Record,1,0.742,4,77.4,High,CBT,0,0
+Y02419,15,First-Time,0,0.379,10,16.7,Low,Tough Love,0,0
+Y02420,14,First-Time,0,0.811,6,50.2,Moderate,CBT,0,0
+Y02421,16,Prior Record,1,0.748,4,90.9,High,Vocational,0,0
+Y02422,13,First-Time,0,0.857,3,79.7,High,Vocational,0,0
+Y02423,17,Prior Record,1,0.723,9,65.2,High,Standard Supervision,1,1
+Y02424,14,First-Time,0,0.412,5,59.3,Moderate,Vocational,0,0
+Y02425,15,Prior Record,1,0.334,9,74.0,High,CBT,0,0
+Y02426,13,First-Time,0,0.316,7,67.2,High,Standard Supervision,0,0
+Y02427,14,Prior Record,1,0.37,5,87.3,High,CBT,0,0
+Y02428,16,First-Time,0,0.95,6,40.1,Moderate,CBT,0,0
+Y02429,14,Prior Record,1,0.718,10,27.2,Low,CBT,0,0
+Y02430,13,First-Time,0,0.856,2,67.1,High,Tough Love,1,1
+Y02431,15,Prior Record,1,0.663,6,81.7,High,Tough Love,0,0
+Y02432,13,First-Time,0,0.689,5,78.2,High,CBT,0,0
+Y02433,14,First-Time,0,0.774,6,63.2,Moderate,Tough Love,0,0
+Y02434,15,First-Time,0,0.845,6,52.7,Moderate,Vocational,0,0
+Y02435,15,First-Time,0,0.487,5,69.5,High,Standard Supervision,1,1
+Y02436,16,First-Time,0,0.625,6,52.6,Moderate,Standard Supervision,0,0
+Y02437,16,Prior Record,1,0.485,5,75.3,High,CBT,0,0
+Y02438,17,First-Time,0,0.774,3,59.9,Moderate,Standard Supervision,0,0
+Y02439,13,First-Time,0,0.715,7,29.7,Low,CBT,0,0
+Y02440,14,First-Time,0,0.222,7,72.1,High,CBT,0,0
+Y02441,13,First-Time,0,0.724,5,70.5,High,Tough Love,0,0
+Y02442,13,First-Time,0,0.771,10,25.0,Low,CBT,0,0
+Y02443,14,Prior Record,1,0.637,8,79.2,High,Standard Supervision,0,1
+Y02444,15,First-Time,0,0.539,8,41.7,Moderate,Tough Love,0,0
+Y02445,17,Prior Record,1,0.654,7,58.7,Moderate,Vocational,0,1
+Y02446,16,First-Time,0,0.643,6,52.1,Moderate,Standard Supervision,0,0
+Y02447,16,First-Time,0,0.558,8,29.9,Low,Standard Supervision,0,0
+Y02448,16,Prior Record,1,0.782,8,67.5,High,Vocational,0,0
+Y02449,13,First-Time,0,0.52,8,36.5,Low,CBT,0,0
+Y02450,17,First-Time,0,0.615,5,61.3,Moderate,Vocational,0,0
+Y02451,17,Prior Record,1,0.582,5,90.1,High,Tough Love,0,1
+Y02452,13,Prior Record,1,0.666,6,69.5,High,Vocational,1,1
+Y02453,15,Prior Record,1,0.811,7,77.0,High,Tough Love,1,1
+Y02454,17,First-Time,0,0.638,6,33.5,Low,Vocational,0,0
+Y02455,15,Prior Record,1,0.614,4,90.5,High,Tough Love,0,1
+Y02456,17,Prior Record,1,0.626,8,64.4,Moderate,Standard Supervision,1,1
+Y02457,17,Prior Record,1,0.417,3,96.5,High,Vocational,0,0
+Y02458,15,First-Time,0,0.874,4,38.4,Low,CBT,0,0
+Y02459,13,First-Time,0,0.724,3,52.1,Moderate,CBT,0,0
+Y02460,14,First-Time,0,0.823,4,71.2,High,CBT,0,0
+Y02461,14,First-Time,0,0.429,8,40.3,Moderate,Vocational,1,1
+Y02462,15,Prior Record,1,0.508,8,69.6,High,CBT,0,0
+Y02463,15,First-Time,0,0.956,6,28.7,Low,CBT,0,0
+Y02464,15,First-Time,0,0.935,7,43.2,Moderate,CBT,0,0
+Y02465,13,First-Time,0,0.662,6,56.4,Moderate,Tough Love,0,0
+Y02466,14,First-Time,0,0.443,4,79.5,High,CBT,0,0
+Y02467,16,First-Time,0,0.835,10,8.5,Low,Vocational,0,0
+Y02468,13,First-Time,0,0.494,9,41.6,Moderate,CBT,0,0
+Y02469,14,First-Time,0,0.627,7,31.0,Low,CBT,0,0
+Y02470,17,Prior Record,1,0.744,3,85.4,High,Tough Love,0,0
+Y02471,13,First-Time,0,0.921,6,22.1,Low,Tough Love,1,1
+Y02472,15,First-Time,0,0.737,5,54.5,Moderate,Vocational,0,1
+Y02473,14,First-Time,0,0.901,6,55.9,Moderate,Tough Love,1,1
+Y02474,13,First-Time,0,0.903,7,35.0,Low,CBT,0,0
+Y02475,15,First-Time,0,0.478,5,62.9,Moderate,Tough Love,0,0
+Y02476,15,First-Time,0,0.975,3,63.8,Moderate,Tough Love,0,0
+Y02477,13,First-Time,0,0.479,10,29.0,Low,Vocational,0,0
+Y02478,13,First-Time,0,0.9,6,41.1,Moderate,Tough Love,0,0
+Y02479,13,Prior Record,1,0.353,6,88.1,High,Tough Love,1,1
+Y02480,16,First-Time,0,0.502,5,53.0,Moderate,Vocational,0,0
+Y02481,17,First-Time,0,0.852,3,69.2,High,Vocational,0,0
+Y02482,13,Prior Record,1,0.762,5,59.2,Moderate,CBT,0,0
+Y02483,14,First-Time,0,0.828,5,60.8,Moderate,Vocational,0,0
+Y02484,14,First-Time,0,0.711,7,26.2,Low,CBT,0,0
+Y02485,14,First-Time,0,0.493,8,60.4,Moderate,Vocational,0,0
+Y02486,14,First-Time,0,0.885,8,7.3,Low,CBT,0,0
+Y02487,13,First-Time,0,0.553,8,64.5,Moderate,CBT,0,0
+Y02488,15,Prior Record,1,0.686,9,30.9,Low,Standard Supervision,0,0
+Y02489,14,Prior Record,1,0.684,6,62.5,Moderate,Standard Supervision,0,0
+Y02490,14,Prior Record,1,0.576,7,78.2,High,Vocational,0,1
+Y02491,14,First-Time,0,0.926,7,39.4,Low,CBT,1,1
+Y02492,17,First-Time,0,0.893,2,69.9,High,Standard Supervision,0,0
+Y02493,16,First-Time,0,0.907,6,53.1,Moderate,CBT,0,0
+Y02494,15,First-Time,0,0.93,4,44.1,Moderate,CBT,0,0
+Y02495,14,First-Time,0,0.979,6,31.0,Low,Standard Supervision,0,0
+Y02496,17,First-Time,0,0.56,4,69.0,High,CBT,0,0
+Y02497,17,First-Time,0,0.849,7,27.5,Low,Vocational,1,1
+Y02498,13,First-Time,0,0.812,8,11.1,Low,Vocational,0,0
+Y02499,17,First-Time,0,0.903,8,24.6,Low,Tough Love,0,0
+Y02500,16,Prior Record,1,0.602,8,65.2,High,Standard Supervision,1,1
+Y02501,13,First-Time,0,0.671,3,85.3,High,CBT,0,0
+Y02502,16,Prior Record,1,0.495,3,86.9,High,Standard Supervision,0,0
+Y02503,13,First-Time,0,0.548,10,18.6,Low,CBT,0,0
+Y02504,13,First-Time,0,0.58,8,56.5,Moderate,Standard Supervision,0,0
+Y02505,13,First-Time,0,0.834,6,47.7,Moderate,Standard Supervision,0,0
+Y02506,15,First-Time,0,0.796,6,53.4,Moderate,Vocational,1,1
+Y02507,16,First-Time,0,0.616,6,60.8,Moderate,CBT,1,1
+Y02508,15,First-Time,0,0.779,2,82.0,High,Vocational,0,0
+Y02509,13,Prior Record,1,0.544,4,96.5,High,Tough Love,0,0
+Y02510,13,First-Time,0,0.94,6,39.5,Low,Tough Love,0,0
+Y02511,17,First-Time,0,0.647,5,46.2,Moderate,CBT,0,0
+Y02512,17,Prior Record,1,0.25,4,96.0,High,CBT,0,0
+Y02513,16,First-Time,0,0.821,10,12.1,Low,CBT,0,0
+Y02514,13,Prior Record,1,0.269,5,91.3,High,Standard Supervision,0,1
+Y02515,17,First-Time,0,0.6,7,51.8,Moderate,Standard Supervision,0,0
+Y02516,16,First-Time,0,0.657,6,40.0,Low,CBT,0,0
+Y02517,15,First-Time,0,0.487,7,44.3,Moderate,Standard Supervision,0,0
+Y02518,13,First-Time,0,0.706,5,65.1,High,Standard Supervision,0,0
+Y02519,17,Prior Record,1,0.515,8,63.2,Moderate,Vocational,0,0
+Y02520,15,First-Time,0,0.525,7,64.2,Moderate,Tough Love,0,1
+Y02521,13,First-Time,0,0.823,3,55.3,Moderate,Standard Supervision,0,0
+Y02522,14,First-Time,0,0.542,6,43.1,Moderate,CBT,1,1
+Y02523,15,Prior Record,1,0.528,5,95.4,High,Tough Love,1,1
+Y02524,13,Prior Record,1,0.19,5,83.9,High,CBT,0,0
+Y02525,14,Prior Record,1,0.167,6,90.5,High,Tough Love,1,1
+Y02526,15,Prior Record,1,0.764,6,89.9,High,Standard Supervision,1,1
+Y02527,17,Prior Record,1,0.735,6,75.3,High,Tough Love,1,1
+Y02528,13,First-Time,0,0.814,7,55.7,Moderate,Standard Supervision,0,0
+Y02529,15,Prior Record,1,0.384,5,92.9,High,CBT,0,0
+Y02530,17,First-Time,0,0.666,2,81.2,High,Tough Love,0,0
+Y02531,17,First-Time,0,0.609,8,35.5,Low,Vocational,0,0
+Y02532,17,Prior Record,1,0.497,6,58.3,Moderate,CBT,0,0
+Y02533,13,First-Time,0,0.565,4,68.5,High,Tough Love,0,0
+Y02534,17,First-Time,0,0.925,7,34.0,Low,Tough Love,0,0
+Y02535,17,First-Time,0,0.85,7,37.5,Low,Vocational,0,0
+Y02536,14,First-Time,0,0.712,8,68.0,High,Standard Supervision,1,1
+Y02537,15,Prior Record,1,0.545,6,84.3,High,CBT,0,0
+Y02538,15,First-Time,0,0.804,7,45.5,Moderate,Tough Love,0,0
+Y02539,15,Prior Record,1,0.309,7,91.1,High,Standard Supervision,1,1
+Y02540,14,First-Time,0,0.732,5,64.8,Moderate,CBT,1,1
+Y02541,17,Prior Record,1,0.807,6,71.8,High,Standard Supervision,0,0
+Y02542,17,First-Time,0,0.633,5,60.7,Moderate,Standard Supervision,0,1
+Y02543,14,Prior Record,1,0.297,7,80.9,High,Vocational,0,1
+Y02544,17,First-Time,0,0.622,3,81.4,High,Vocational,0,0
+Y02545,14,First-Time,0,0.786,8,27.4,Low,Standard Supervision,0,0
+Y02546,16,First-Time,0,0.657,6,61.3,Moderate,Standard Supervision,0,0
+Y02547,15,First-Time,0,0.834,8,17.2,Low,Standard Supervision,0,0
+Y02548,15,First-Time,0,0.43,4,79.1,High,Standard Supervision,0,0
+Y02549,13,Prior Record,1,0.595,5,93.7,High,Standard Supervision,0,1
+Y02550,16,Prior Record,1,0.685,5,80.9,High,Tough Love,1,1
+Y02551,14,Prior Record,1,0.46,6,94.2,High,Standard Supervision,0,0
+Y02552,14,First-Time,0,0.765,4,66.1,High,CBT,0,0
+Y02553,13,First-Time,0,0.803,7,35.7,Low,CBT,0,0
+Y02554,17,Prior Record,1,0.391,2,96.4,High,Tough Love,0,1
+Y02555,13,Prior Record,1,0.652,4,85.9,High,Tough Love,0,1
+Y02556,16,First-Time,0,0.764,3,43.4,Moderate,Tough Love,0,0
+Y02557,17,Prior Record,1,0.54,7,84.5,High,CBT,1,1
+Y02558,13,First-Time,0,0.97,7,60.5,Moderate,Standard Supervision,0,0
+Y02559,15,Prior Record,1,0.596,6,84.5,High,Standard Supervision,1,1
+Y02560,15,Prior Record,1,0.555,8,75.3,High,Standard Supervision,1,1
+Y02561,14,Prior Record,1,0.489,5,86.6,High,Tough Love,0,0
+Y02562,16,First-Time,0,0.512,7,67.3,High,Vocational,0,0
+Y02563,15,Prior Record,1,0.703,5,82.1,High,Tough Love,0,0
+Y02564,15,First-Time,0,0.864,6,45.8,Moderate,Tough Love,0,0
+Y02565,15,Prior Record,1,0.558,8,46.1,Moderate,Tough Love,0,1
+Y02566,17,First-Time,0,0.496,10,21.3,Low,CBT,0,0
+Y02567,16,Prior Record,1,0.739,4,88.5,High,Tough Love,0,0
+Y02568,14,Prior Record,1,0.572,7,83.9,High,CBT,0,0
+Y02569,17,First-Time,0,0.88,7,46.3,Moderate,Standard Supervision,0,0
+Y02570,17,First-Time,0,0.967,7,13.8,Low,Vocational,0,0
+Y02571,17,Prior Record,1,0.762,6,54.7,Moderate,Tough Love,0,0
+Y02572,16,First-Time,0,0.759,5,64.2,Moderate,Tough Love,0,1
+Y02573,14,First-Time,0,0.793,1,75.3,High,CBT,0,0
+Y02574,16,First-Time,0,0.857,9,30.4,Low,Vocational,0,0
+Y02575,14,First-Time,0,0.923,5,25.5,Low,CBT,0,0
+Y02576,14,Prior Record,1,0.503,5,86.8,High,Tough Love,1,1
+Y02577,15,Prior Record,1,0.664,5,83.2,High,CBT,0,0
+Y02578,17,First-Time,0,0.51,4,79.7,High,CBT,0,0
+Y02579,15,First-Time,0,0.793,6,30.9,Low,CBT,0,0
+Y02580,14,First-Time,0,0.961,6,15.4,Low,Vocational,1,1
+Y02581,15,First-Time,0,0.983,5,47.2,Moderate,Tough Love,1,1
+Y02582,14,Prior Record,1,0.542,5,89.9,High,CBT,1,1
+Y02583,16,First-Time,0,0.812,6,59.4,Moderate,Standard Supervision,0,0
+Y02584,14,First-Time,0,0.656,8,30.4,Low,Standard Supervision,1,1
+Y02585,15,Prior Record,1,0.414,3,96.4,High,Tough Love,1,1
+Y02586,14,First-Time,0,0.668,4,74.2,High,Vocational,0,0
+Y02587,14,Prior Record,1,0.57,7,87.0,High,Vocational,1,1
+Y02588,17,First-Time,0,0.509,5,66.8,High,Standard Supervision,0,0
+Y02589,14,First-Time,0,0.74,4,39.7,Low,Standard Supervision,0,0
+Y02590,13,First-Time,0,0.877,5,48.9,Moderate,Tough Love,0,0
+Y02591,14,Prior Record,1,0.583,5,86.3,High,Vocational,0,1
+Y02592,15,Prior Record,1,0.317,5,93.3,High,CBT,0,0
+Y02593,13,First-Time,0,0.74,6,26.9,Low,Standard Supervision,0,0
+Y02594,14,First-Time,0,0.843,4,55.6,Moderate,Standard Supervision,1,1
+Y02595,13,First-Time,0,0.609,8,50.1,Moderate,Standard Supervision,0,0
+Y02596,15,Prior Record,1,0.578,8,66.4,High,Standard Supervision,0,0
+Y02597,16,Prior Record,1,0.705,1,94.0,High,Tough Love,0,0
+Y02598,17,Prior Record,1,0.378,2,98.8,High,CBT,1,1
+Y02599,14,Prior Record,1,0.286,7,73.8,High,CBT,0,0
+Y02600,17,First-Time,0,0.784,9,38.3,Low,Vocational,0,0
+Y02601,14,Prior Record,1,0.542,1,98.0,High,CBT,1,1
+Y02602,16,Prior Record,1,0.749,7,64.9,Moderate,Vocational,0,0
+Y02603,15,First-Time,0,0.785,9,22.4,Low,Vocational,0,0
+Y02604,16,Prior Record,1,0.642,3,91.3,High,CBT,0,0
+Y02605,16,First-Time,0,0.513,9,36.2,Low,Vocational,0,0
+Y02606,15,Prior Record,1,0.362,5,86.6,High,CBT,0,1
+Y02607,14,Prior Record,1,0.761,6,69.4,High,Standard Supervision,0,1
+Y02608,15,Prior Record,1,0.775,4,82.3,High,Standard Supervision,1,1
+Y02609,17,First-Time,0,0.878,8,22.3,Low,Vocational,0,0
+Y02610,17,First-Time,0,0.885,8,22.1,Low,CBT,0,0
+Y02611,17,Prior Record,1,0.754,9,21.4,Low,Vocational,0,0
+Y02612,13,Prior Record,1,0.516,8,71.6,High,Standard Supervision,0,0
+Y02613,15,First-Time,0,0.869,6,34.2,Low,Vocational,1,1
+Y02614,13,Prior Record,1,0.592,10,24.9,Low,Standard Supervision,0,0
+Y02615,16,First-Time,0,0.707,9,21.9,Low,Standard Supervision,0,0
+Y02616,17,Prior Record,1,0.489,6,80.1,High,Vocational,0,1
+Y02617,13,Prior Record,1,0.649,3,95.8,High,Standard Supervision,0,0
+Y02618,16,First-Time,0,0.819,3,62.0,Moderate,CBT,0,0
+Y02619,17,First-Time,0,0.87,3,75.2,High,Vocational,0,0
+Y02620,17,Prior Record,1,0.682,3,95.8,High,Tough Love,0,0
+Y02621,14,Prior Record,1,0.742,8,51.0,Moderate,Vocational,0,0
+Y02622,13,Prior Record,1,0.681,6,77.0,High,Standard Supervision,0,0
+Y02623,17,First-Time,0,0.965,5,70.2,High,Standard Supervision,1,1
+Y02624,17,Prior Record,1,0.707,5,84.2,High,Vocational,0,0
+Y02625,15,First-Time,0,0.917,5,53.5,Moderate,Standard Supervision,0,0
+Y02626,17,First-Time,0,0.506,8,36.4,Low,CBT,0,0
+Y02627,13,First-Time,0,0.468,4,82.9,High,CBT,0,0
+Y02628,16,Prior Record,1,0.791,6,73.0,High,CBT,0,0
+Y02629,13,Prior Record,1,0.795,6,47.8,Moderate,CBT,0,0
+Y02630,17,Prior Record,1,0.493,4,89.1,High,Standard Supervision,0,0
+Y02631,16,Prior Record,1,0.706,8,44.5,Moderate,CBT,1,1
+Y02632,17,First-Time,0,0.323,5,76.3,High,CBT,0,0
+Y02633,15,First-Time,0,0.491,4,63.8,Moderate,Standard Supervision,0,1
+Y02634,13,First-Time,0,0.529,8,48.2,Moderate,Tough Love,0,0
+Y02635,13,First-Time,0,0.781,6,46.6,Moderate,Standard Supervision,0,0
+Y02636,14,First-Time,0,0.846,7,19.9,Low,Standard Supervision,0,0
+Y02637,16,Prior Record,1,0.555,3,90.4,High,Tough Love,0,0
+Y02638,13,Prior Record,1,0.795,7,73.8,High,CBT,0,0
+Y02639,17,Prior Record,1,0.604,10,66.4,High,Standard Supervision,0,1
+Y02640,14,First-Time,0,0.729,3,61.1,Moderate,Tough Love,0,0
+Y02641,15,First-Time,0,0.883,7,20.2,Low,Vocational,0,0
+Y02642,14,First-Time,0,0.691,4,86.9,High,Tough Love,0,0
+Y02643,15,First-Time,0,0.864,10,15.0,Low,Vocational,0,0
+Y02644,15,First-Time,0,0.726,8,33.3,Low,Vocational,1,1
+Y02645,13,First-Time,0,0.446,7,42.9,Moderate,Standard Supervision,0,0
+Y02646,15,First-Time,0,0.823,4,64.2,Moderate,CBT,0,0
+Y02647,16,Prior Record,1,0.369,3,98.1,High,Standard Supervision,1,1
+Y02648,17,First-Time,0,0.884,7,36.2,Low,Vocational,0,0
+Y02649,14,First-Time,0,0.866,3,79.5,High,Tough Love,0,0
+Y02650,17,First-Time,0,0.609,3,77.7,High,Standard Supervision,0,0
+Y02651,17,First-Time,0,0.913,6,26.1,Low,Vocational,0,0
+Y02652,17,First-Time,0,0.512,6,49.2,Moderate,Vocational,0,0
+Y02653,14,First-Time,0,0.514,7,34.4,Low,Standard Supervision,1,1
+Y02654,17,Prior Record,1,0.572,4,90.8,High,Tough Love,0,1
+Y02655,15,First-Time,0,0.471,8,62.0,Moderate,Vocational,0,0
+Y02656,13,Prior Record,1,0.316,3,95.8,High,CBT,1,1
+Y02657,14,First-Time,0,0.75,7,34.7,Low,CBT,0,0
+Y02658,16,First-Time,0,0.76,6,35.6,Low,Standard Supervision,0,0
+Y02659,13,First-Time,0,0.879,7,37.9,Low,Standard Supervision,0,0
+Y02660,15,First-Time,0,0.858,8,14.7,Low,Vocational,0,0
+Y02661,16,First-Time,0,0.861,5,34.2,Low,Tough Love,0,0
+Y02662,13,Prior Record,1,0.763,4,91.0,High,Tough Love,1,1
+Y02663,15,First-Time,0,0.573,3,75.7,High,Tough Love,0,0
+Y02664,14,Prior Record,1,0.674,1,94.4,High,Tough Love,1,1
+Y02665,15,First-Time,0,0.848,6,40.2,Moderate,Standard Supervision,0,0
+Y02666,14,First-Time,0,0.655,6,62.8,Moderate,Tough Love,0,0
+Y02667,17,First-Time,0,0.778,4,65.6,High,Vocational,0,0
+Y02668,13,First-Time,0,0.555,4,63.3,Moderate,CBT,0,0
+Y02669,17,First-Time,0,0.85,9,14.5,Low,CBT,0,0
+Y02670,16,Prior Record,1,0.834,7,61.4,Moderate,Vocational,0,0
+Y02671,17,Prior Record,1,0.594,3,93.4,High,Tough Love,0,0
+Y02672,17,Prior Record,1,0.771,4,85.0,High,Tough Love,1,1
+Y02673,13,First-Time,0,0.494,7,49.7,Moderate,CBT,0,0
+Y02674,17,Prior Record,1,0.608,4,89.2,High,Tough Love,1,1
+Y02675,15,Prior Record,1,0.384,4,92.5,High,Vocational,0,0
+Y02676,17,Prior Record,1,0.51,5,81.2,High,Tough Love,1,1
+Y02677,17,Prior Record,1,0.676,7,82.7,High,Vocational,0,0
+Y02678,15,Prior Record,1,0.557,8,62.2,Moderate,Tough Love,1,1
+Y02679,14,Prior Record,1,0.534,4,91.0,High,Tough Love,0,0
+Y02680,13,Prior Record,1,0.869,6,40.7,Moderate,CBT,0,0
+Y02681,13,First-Time,0,0.661,6,48.7,Moderate,Tough Love,0,0
+Y02682,14,Prior Record,1,0.588,3,86.0,High,Tough Love,0,0
+Y02683,17,First-Time,0,0.622,5,48.0,Moderate,CBT,0,0
+Y02684,15,Prior Record,1,0.643,3,97.9,High,Standard Supervision,0,0
+Y02685,15,Prior Record,1,0.559,8,71.8,High,Vocational,0,0
+Y02686,14,First-Time,0,0.62,9,46.2,Moderate,Standard Supervision,0,0
+Y02687,15,First-Time,0,0.841,5,64.1,Moderate,Standard Supervision,0,0
+Y02688,16,First-Time,0,0.858,5,65.1,High,Vocational,0,0
+Y02689,17,First-Time,0,0.613,8,34.4,Low,Standard Supervision,0,0
+Y02690,16,First-Time,0,0.657,8,58.6,Moderate,CBT,0,0
+Y02691,16,Prior Record,1,0.484,3,96.0,High,Tough Love,0,0
+Y02692,17,Prior Record,1,0.478,5,88.3,High,Standard Supervision,1,1
+Y02693,15,Prior Record,1,0.762,5,83.0,High,Vocational,0,1
+Y02694,17,First-Time,0,0.511,4,73.0,High,Standard Supervision,0,0
+Y02695,14,First-Time,0,0.41,7,56.5,Moderate,Tough Love,0,0
+Y02696,13,First-Time,0,0.868,5,49.7,Moderate,CBT,0,0
+Y02697,15,Prior Record,1,0.149,4,96.2,High,Tough Love,0,0
+Y02698,13,First-Time,0,0.676,6,74.9,High,Tough Love,1,1
+Y02699,13,First-Time,0,0.945,3,45.9,Moderate,Tough Love,1,1
+Y02700,17,First-Time,0,0.704,2,88.9,High,Vocational,1,1
+Y02701,16,Prior Record,1,0.529,7,72.5,High,Vocational,0,0
+Y02702,14,First-Time,0,0.896,5,67.3,High,Standard Supervision,0,0
+Y02703,17,Prior Record,1,0.214,9,71.5,High,Vocational,0,0
+Y02704,13,Prior Record,1,0.454,9,70.9,High,CBT,1,1
+Y02705,14,Prior Record,1,0.651,4,87.0,High,Vocational,1,1
+Y02706,16,First-Time,0,0.797,10,6.7,Low,Standard Supervision,0,0
+Y02707,14,First-Time,0,0.586,8,63.9,Moderate,CBT,1,1
+Y02708,16,First-Time,0,0.799,5,39.8,Low,CBT,0,0
+Y02709,17,First-Time,0,0.959,1,78.3,High,Vocational,0,0
+Y02710,13,Prior Record,1,0.565,7,62.0,Moderate,Vocational,0,0
+Y02711,13,First-Time,0,0.943,6,21.6,Low,CBT,0,0
+Y02712,17,First-Time,0,0.853,7,31.4,Low,Vocational,0,0
+Y02713,15,First-Time,0,0.628,6,44.7,Moderate,CBT,0,0
+Y02714,15,Prior Record,1,0.77,3,80.4,High,Tough Love,0,0
+Y02715,15,First-Time,0,0.744,5,56.0,Moderate,Tough Love,0,0
+Y02716,15,Prior Record,1,0.508,7,58.6,Moderate,CBT,0,0
+Y02717,16,First-Time,0,0.732,5,58.9,Moderate,CBT,0,0
+Y02718,15,Prior Record,1,0.335,4,92.8,High,Tough Love,0,0
+Y02719,13,Prior Record,1,0.403,2,84.6,High,Tough Love,1,1
+Y02720,16,First-Time,0,0.319,6,61.0,Moderate,Standard Supervision,1,1
+Y02721,16,First-Time,0,0.707,4,72.4,High,CBT,0,0
+Y02722,13,First-Time,0,0.727,8,19.9,Low,Standard Supervision,1,1
+Y02723,14,First-Time,0,0.497,5,74.3,High,Tough Love,1,1
+Y02724,16,First-Time,0,0.559,5,70.9,High,Standard Supervision,1,1
+Y02725,16,Prior Record,1,0.684,10,31.4,Low,Vocational,0,0
+Y02726,13,Prior Record,1,0.837,5,78.1,High,Tough Love,1,1
+Y02727,13,First-Time,0,0.645,5,72.2,High,Tough Love,0,0
+Y02728,15,Prior Record,1,0.748,6,64.1,Moderate,Tough Love,1,1
+Y02729,15,First-Time,0,0.511,2,84.0,High,Vocational,0,0
+Y02730,17,Prior Record,1,0.52,8,82.5,High,Vocational,0,0
+Y02731,15,First-Time,0,0.923,8,16.0,Low,Vocational,0,0
+Y02732,17,Prior Record,1,0.639,6,83.2,High,Tough Love,0,1
+Y02733,14,Prior Record,1,0.436,1,94.4,High,Vocational,0,1
+Y02734,15,First-Time,0,0.399,5,70.2,High,Standard Supervision,0,0
+Y02735,13,First-Time,0,0.517,3,84.3,High,Tough Love,0,0
+Y02736,15,First-Time,0,0.169,8,25.4,Low,Standard Supervision,0,0
+Y02737,13,Prior Record,1,0.625,7,66.3,High,Tough Love,0,0
+Y02738,15,First-Time,0,0.555,7,54.9,Moderate,CBT,0,0
+Y02739,14,Prior Record,1,0.704,3,91.5,High,Vocational,0,0
+Y02740,13,Prior Record,1,0.864,8,46.5,Moderate,Tough Love,1,1
+Y02741,13,Prior Record,1,0.703,5,70.7,High,Vocational,0,0
+Y02742,15,First-Time,0,0.771,10,23.8,Low,CBT,0,0
+Y02743,17,First-Time,0,0.834,7,30.8,Low,CBT,0,0
+Y02744,13,Prior Record,1,0.732,6,81.2,High,CBT,0,1
+Y02745,15,First-Time,0,0.864,5,56.2,Moderate,Standard Supervision,0,0
+Y02746,14,Prior Record,1,0.61,8,60.1,Moderate,Vocational,0,0
+Y02747,17,First-Time,0,0.54,7,64.9,Moderate,Vocational,0,0
+Y02748,15,First-Time,0,0.753,9,18.1,Low,Standard Supervision,0,0
+Y02749,17,Prior Record,1,0.614,6,89.0,High,Vocational,0,0
+Y02750,14,First-Time,0,0.719,6,68.0,High,Tough Love,0,0
+Y02751,13,First-Time,0,0.701,7,56.9,Moderate,Tough Love,0,1
+Y02752,15,First-Time,0,0.724,9,23.0,Low,CBT,0,0
+Y02753,16,First-Time,0,0.832,8,63.7,Moderate,Tough Love,0,1
+Y02754,17,Prior Record,1,0.786,5,81.3,High,Vocational,1,1
+Y02755,17,First-Time,0,0.904,2,75.7,High,CBT,0,0
+Y02756,17,First-Time,0,0.918,8,24.1,Low,CBT,0,0
+Y02757,16,First-Time,0,0.865,3,51.1,Moderate,Tough Love,0,0
+Y02758,14,Prior Record,1,0.546,5,93.3,High,CBT,0,1
+Y02759,15,First-Time,0,0.72,6,40.5,Moderate,Standard Supervision,0,0
+Y02760,13,Prior Record,1,0.604,2,96.6,High,Tough Love,1,1
+Y02761,15,Prior Record,1,0.79,6,84.8,High,Tough Love,0,0
+Y02762,14,First-Time,0,0.831,10,21.4,Low,Vocational,0,0
+Y02763,13,Prior Record,1,0.826,5,70.8,High,Tough Love,1,1
+Y02764,14,Prior Record,1,0.732,7,64.1,Moderate,Vocational,0,0
+Y02765,15,First-Time,0,0.87,10,3.4,Low,Standard Supervision,0,0
+Y02766,14,First-Time,0,0.35,8,48.3,Moderate,Vocational,0,0
+Y02767,17,Prior Record,1,0.793,4,90.0,High,CBT,0,0
+Y02768,15,Prior Record,1,0.639,6,76.5,High,Standard Supervision,1,1
+Y02769,17,Prior Record,1,0.773,6,66.8,High,Tough Love,1,1
+Y02770,16,Prior Record,1,0.465,8,68.8,High,Standard Supervision,1,1
+Y02771,13,First-Time,0,0.397,8,65.4,High,Standard Supervision,0,0
+Y02772,14,Prior Record,1,0.579,1,95.9,High,CBT,0,0
+Y02773,16,Prior Record,1,0.472,3,97.9,High,Tough Love,0,0
+Y02774,15,First-Time,0,0.867,6,33.7,Low,Tough Love,0,0
+Y02775,14,First-Time,0,0.728,4,68.5,High,Standard Supervision,0,0
+Y02776,15,First-Time,0,0.657,1,82.9,High,CBT,0,0
+Y02777,17,Prior Record,1,0.345,4,97.9,High,Tough Love,1,1
+Y02778,14,First-Time,0,0.768,6,49.3,Moderate,Vocational,0,0
+Y02779,13,Prior Record,1,0.491,4,97.3,High,CBT,0,0
+Y02780,14,First-Time,0,0.71,4,60.5,Moderate,CBT,0,0
+Y02781,17,First-Time,0,0.671,6,72.6,High,Vocational,0,0
+Y02782,16,Prior Record,1,0.398,6,86.7,High,Standard Supervision,0,0
+Y02783,17,First-Time,0,0.776,5,66.8,High,Vocational,0,0
+Y02784,17,Prior Record,1,0.841,8,37.4,Low,CBT,0,0
+Y02785,13,First-Time,0,0.882,6,46.1,Moderate,Tough Love,0,0
+Y02786,14,Prior Record,1,0.841,3,79.0,High,Tough Love,0,1
+Y02787,13,First-Time,0,0.885,4,61.9,Moderate,Vocational,1,1
+Y02788,13,Prior Record,1,0.837,5,59.0,Moderate,Tough Love,1,1
+Y02789,17,Prior Record,1,0.516,7,76.2,High,Standard Supervision,1,1
+Y02790,17,First-Time,0,0.722,4,78.8,High,CBT,0,0
+Y02791,13,First-Time,0,0.839,7,42.6,Moderate,CBT,0,0
+Y02792,16,First-Time,0,0.746,6,30.3,Low,Vocational,0,0
+Y02793,15,Prior Record,1,0.7,9,27.1,Low,Vocational,0,0
+Y02794,13,Prior Record,1,0.668,6,82.7,High,CBT,0,0
+Y02795,17,First-Time,0,0.718,5,78.0,High,Tough Love,0,0
+Y02796,17,First-Time,0,0.604,7,32.4,Low,CBT,0,0
+Y02797,15,Prior Record,1,0.642,7,90.2,High,Standard Supervision,1,1
+Y02798,16,First-Time,0,0.822,5,52.6,Moderate,CBT,0,0
+Y02799,14,Prior Record,1,0.774,3,71.6,High,Tough Love,0,1
+Y02800,16,First-Time,0,0.753,7,19.9,Low,Vocational,0,0
+Y02801,15,Prior Record,1,0.673,5,88.8,High,Vocational,0,0
+Y02802,17,Prior Record,1,0.775,2,92.6,High,Tough Love,0,0
+Y02803,13,First-Time,0,0.352,7,77.5,High,Standard Supervision,0,0
+Y02804,13,First-Time,0,0.899,5,31.7,Low,Standard Supervision,0,0
+Y02805,17,First-Time,0,0.88,3,68.2,High,Standard Supervision,0,0
+Y02806,14,Prior Record,1,0.466,4,91.5,High,Standard Supervision,1,1
+Y02807,14,First-Time,0,0.771,9,21.8,Low,CBT,0,0
+Y02808,16,Prior Record,1,0.63,8,60.1,Moderate,CBT,0,0
+Y02809,13,Prior Record,1,0.805,7,60.4,Moderate,Tough Love,0,1
+Y02810,15,First-Time,0,0.898,7,34.5,Low,Vocational,1,1
+Y02811,14,Prior Record,1,0.691,6,80.2,High,Tough Love,0,1
+Y02812,13,First-Time,0,0.603,6,58.6,Moderate,Standard Supervision,0,1
+Y02813,17,Prior Record,1,0.698,3,95.2,High,Vocational,0,0
+Y02814,13,First-Time,0,0.49,4,59.8,Moderate,Standard Supervision,0,0
+Y02815,13,Prior Record,1,0.722,4,68.3,High,Standard Supervision,0,0
+Y02816,16,Prior Record,1,0.511,8,81.6,High,Vocational,0,0
+Y02817,17,Prior Record,1,0.63,7,60.4,Moderate,Vocational,0,0
+Y02818,13,Prior Record,1,0.613,3,90.0,High,Tough Love,0,0
+Y02819,16,First-Time,0,0.894,6,32.0,Low,Vocational,0,0
+Y02820,15,Prior Record,1,0.434,4,88.6,High,Standard Supervision,0,0
+Y02821,17,Prior Record,1,0.503,5,74.4,High,Tough Love,0,0
+Y02822,13,Prior Record,1,0.627,4,84.6,High,Standard Supervision,0,0
+Y02823,17,First-Time,0,0.967,9,23.3,Low,Tough Love,0,0
+Y02824,16,First-Time,0,0.76,6,47.0,Moderate,Vocational,0,0
+Y02825,17,Prior Record,1,0.671,6,82.7,High,Standard Supervision,1,1
+Y02826,14,First-Time,0,0.752,6,40.1,Moderate,CBT,0,0
+Y02827,17,Prior Record,1,0.688,3,94.4,High,CBT,0,1
+Y02828,16,Prior Record,1,0.439,5,85.4,High,Tough Love,0,1
+Y02829,13,Prior Record,1,0.267,7,61.1,Moderate,Standard Supervision,0,0
+Y02830,17,First-Time,0,0.617,9,33.3,Low,Vocational,0,0
+Y02831,16,Prior Record,1,0.577,3,95.1,High,CBT,0,0
+Y02832,14,First-Time,0,0.732,3,65.7,High,Tough Love,1,1
+Y02833,15,First-Time,0,0.589,6,72.0,High,CBT,0,0
+Y02834,14,Prior Record,1,0.695,7,58.7,Moderate,Vocational,0,0
+Y02835,15,First-Time,0,0.854,7,43.6,Moderate,Vocational,1,1
+Y02836,17,First-Time,0,0.758,7,64.1,Moderate,CBT,1,1
+Y02837,17,First-Time,0,0.577,3,78.9,High,Standard Supervision,0,0
+Y02838,14,First-Time,0,0.806,5,50.0,Moderate,CBT,0,0
+Y02839,17,Prior Record,1,0.824,1,93.3,High,Vocational,0,0
+Y02840,15,First-Time,0,0.761,6,70.1,High,Tough Love,0,0
+Y02841,16,First-Time,0,0.674,2,84.5,High,CBT,0,0
+Y02842,16,Prior Record,1,0.818,8,82.5,High,Tough Love,0,1
+Y02843,15,First-Time,0,0.933,9,20.6,Low,Tough Love,0,0
+Y02844,15,Prior Record,1,0.523,5,81.9,High,Tough Love,0,1
+Y02845,15,Prior Record,1,0.673,2,90.9,High,Standard Supervision,0,1
+Y02846,17,Prior Record,1,0.33,6,87.8,High,Standard Supervision,0,0
+Y02847,14,Prior Record,1,0.796,9,22.0,Low,Tough Love,0,0
+Y02848,14,First-Time,0,0.895,7,26.4,Low,Vocational,0,0
+Y02849,14,Prior Record,1,0.574,8,61.8,Moderate,Vocational,0,0
+Y02850,13,First-Time,0,0.875,5,53.6,Moderate,Tough Love,0,0
+Y02851,14,First-Time,0,0.855,4,82.6,High,Standard Supervision,0,0
+Y02852,13,Prior Record,1,0.77,5,80.9,High,Tough Love,1,1
+Y02853,13,First-Time,0,0.857,2,48.3,Moderate,Vocational,0,0
+Y02854,16,Prior Record,1,0.308,10,50.9,Moderate,Tough Love,0,1
+Y02855,13,Prior Record,1,0.759,5,83.0,High,Tough Love,0,0
+Y02856,15,Prior Record,1,0.614,7,74.6,High,Vocational,0,0
+Y02857,16,First-Time,0,0.667,5,80.1,High,Standard Supervision,1,1
+Y02858,16,First-Time,0,0.591,3,86.3,High,Tough Love,0,0
+Y02859,15,Prior Record,1,0.783,8,70.9,High,Tough Love,0,1
+Y02860,13,First-Time,0,0.781,4,60.1,Moderate,CBT,0,0
+Y02861,17,First-Time,0,0.916,7,46.9,Moderate,Tough Love,0,0
+Y02862,17,Prior Record,1,0.388,6,78.3,High,CBT,0,0
+Y02863,16,Prior Record,1,0.313,5,94.8,High,CBT,1,1
+Y02864,13,Prior Record,1,0.638,4,86.5,High,Tough Love,1,1
+Y02865,13,First-Time,0,0.71,6,29.1,Low,CBT,0,0
+Y02866,14,First-Time,0,0.933,4,64.3,Moderate,Tough Love,0,0
+Y02867,13,Prior Record,1,0.672,7,85.1,High,Tough Love,0,0
+Y02868,17,First-Time,0,0.635,7,38.6,Low,Vocational,0,0
+Y02869,14,First-Time,0,0.817,6,66.9,High,CBT,1,1
+Y02870,14,First-Time,0,0.812,5,29.6,Low,Vocational,0,0
+Y02871,17,First-Time,0,0.529,10,14.5,Low,Vocational,0,0
+Y02872,17,First-Time,0,0.784,3,68.9,High,Vocational,0,0
+Y02873,14,First-Time,0,0.425,3,79.8,High,Vocational,0,0
+Y02874,14,Prior Record,1,0.769,5,73.3,High,Standard Supervision,1,1
+Y02875,15,First-Time,0,0.668,5,62.1,Moderate,Standard Supervision,0,0
+Y02876,16,Prior Record,1,0.533,7,70.4,High,Vocational,0,0
+Y02877,17,First-Time,0,0.625,7,39.8,Low,Vocational,0,0
+Y02878,17,Prior Record,1,0.588,5,87.4,High,Vocational,0,0
+Y02879,17,First-Time,0,0.742,7,30.3,Low,Standard Supervision,0,0
+Y02880,13,First-Time,0,0.693,7,40.1,Moderate,CBT,0,0
+Y02881,14,First-Time,0,0.908,10,9.9,Low,Vocational,0,0
+Y02882,15,First-Time,0,0.19,7,48.7,Moderate,Standard Supervision,0,0
+Y02883,13,First-Time,0,0.717,5,68.5,High,CBT,1,1
+Y02884,14,Prior Record,1,0.833,6,87.6,High,Tough Love,1,1
+Y02885,13,Prior Record,1,0.4,1,98.5,High,CBT,0,0
+Y02886,17,First-Time,0,0.813,6,49.3,Moderate,Vocational,1,1
+Y02887,13,First-Time,0,0.853,8,19.9,Low,Tough Love,1,1
+Y02888,13,Prior Record,1,0.118,6,89.9,High,Standard Supervision,0,0
+Y02889,13,Prior Record,1,0.666,6,87.0,High,Standard Supervision,0,0
+Y02890,13,First-Time,0,0.588,7,18.3,Low,Standard Supervision,0,0
+Y02891,15,Prior Record,1,0.673,7,66.5,High,Vocational,1,1
+Y02892,14,First-Time,0,0.9,9,26.7,Low,Tough Love,0,0
+Y02893,17,Prior Record,1,0.746,6,60.5,Moderate,Vocational,0,0
+Y02894,14,First-Time,0,0.567,5,70.5,High,Tough Love,0,1
+Y02895,15,First-Time,0,0.808,1,85.3,High,Tough Love,0,1
+Y02896,16,First-Time,0,0.65,8,18.7,Low,CBT,0,0
+Y02897,16,Prior Record,1,0.605,6,80.9,High,CBT,0,0
+Y02898,16,First-Time,0,0.936,6,30.1,Low,Vocational,0,0
+Y02899,14,Prior Record,1,0.839,4,86.7,High,Tough Love,1,1
+Y02900,15,Prior Record,1,0.751,7,75.9,High,Vocational,1,1
+Y02901,17,Prior Record,1,0.532,5,89.3,High,Vocational,0,0
+Y02902,17,First-Time,0,0.776,6,47.3,Moderate,CBT,0,0
+Y02903,16,First-Time,0,0.788,6,49.9,Moderate,CBT,0,0
+Y02904,16,First-Time,0,0.63,7,28.6,Low,Vocational,0,1
+Y02905,17,Prior Record,1,0.678,3,90.7,High,Tough Love,1,1
+Y02906,16,Prior Record,1,0.751,6,65.0,Moderate,Tough Love,0,0
+Y02907,17,First-Time,0,0.809,5,67.9,High,CBT,0,0
+Y02908,13,Prior Record,1,0.742,4,90.3,High,Tough Love,1,1
+Y02909,14,First-Time,0,0.446,8,55.4,Moderate,CBT,1,1
+Y02910,13,First-Time,0,0.603,4,87.2,High,CBT,0,0
+Y02911,13,First-Time,0,0.745,8,27.1,Low,Vocational,0,1
+Y02912,15,Prior Record,1,0.738,5,75.9,High,Tough Love,0,0
+Y02913,14,First-Time,0,0.826,3,64.3,Moderate,Tough Love,0,0
+Y02914,15,First-Time,0,0.767,9,10.5,Low,Standard Supervision,0,0
+Y02915,15,Prior Record,1,0.786,6,52.8,Moderate,CBT,1,1
+Y02916,16,First-Time,0,0.52,7,59.5,Moderate,Vocational,0,0
+Y02917,17,First-Time,0,0.737,8,16.6,Low,Vocational,0,0
+Y02918,17,First-Time,0,0.831,9,12.4,Low,Vocational,0,0
+Y02919,14,First-Time,0,0.653,6,50.8,Moderate,Standard Supervision,0,0
+Y02920,14,First-Time,0,0.764,7,32.6,Low,CBT,0,0
+Y02921,16,First-Time,0,0.901,7,44.5,Moderate,Standard Supervision,0,0
+Y02922,13,Prior Record,1,0.438,5,89.2,High,CBT,0,1
+Y02923,15,First-Time,0,0.693,3,64.2,Moderate,Vocational,0,0
+Y02924,15,Prior Record,1,0.148,6,94.7,High,Standard Supervision,1,1
+Y02925,13,First-Time,0,0.649,9,37.5,Low,Vocational,0,0
+Y02926,16,First-Time,0,0.384,7,36.3,Low,Vocational,0,0
+Y02927,14,First-Time,0,0.547,4,76.1,High,CBT,1,1
+Y02928,13,First-Time,0,0.653,8,26.2,Low,CBT,0,0
+Y02929,16,First-Time,0,0.835,5,41.0,Moderate,Tough Love,0,0
+Y02930,13,First-Time,0,0.347,2,96.2,High,Vocational,1,1
+Y02931,16,Prior Record,1,0.152,7,88.3,High,Tough Love,0,1
+Y02932,13,Prior Record,1,0.825,3,86.6,High,CBT,0,0
+Y02933,15,First-Time,0,0.903,10,14.8,Low,CBT,0,0
+Y02934,17,Prior Record,1,0.38,7,88.2,High,Tough Love,0,0
+Y02935,14,Prior Record,1,0.596,5,79.2,High,Standard Supervision,1,1
+Y02936,16,Prior Record,1,0.853,6,64.0,Moderate,CBT,1,1
+Y02937,16,First-Time,0,0.647,10,28.9,Low,Tough Love,0,0
+Y02938,17,First-Time,0,0.469,8,24.1,Low,CBT,0,0
+Y02939,13,First-Time,0,0.814,6,59.1,Moderate,Standard Supervision,0,0
+Y02940,16,First-Time,0,0.367,10,15.5,Low,Tough Love,0,0
+Y02941,17,First-Time,0,0.752,6,43.7,Moderate,Standard Supervision,0,0
+Y02942,16,Prior Record,1,0.795,6,51.3,Moderate,Vocational,0,1
+Y02943,13,Prior Record,1,0.596,3,86.1,High,Tough Love,0,0
+Y02944,17,First-Time,0,0.709,3,85.9,High,Tough Love,0,0
+Y02945,13,First-Time,0,0.855,5,66.1,High,CBT,0,0
+Y02946,15,First-Time,0,0.58,6,71.7,High,Standard Supervision,0,0
+Y02947,15,First-Time,0,0.941,7,15.4,Low,Vocational,0,0
+Y02948,15,Prior Record,1,0.527,2,91.0,High,Tough Love,0,1
+Y02949,15,First-Time,0,0.67,7,47.8,Moderate,Standard Supervision,0,0
+Y02950,13,Prior Record,1,0.462,4,94.3,High,CBT,0,0
+Y02951,15,Prior Record,1,0.519,6,74.7,High,Vocational,0,0
+Y02952,17,Prior Record,1,0.487,7,71.7,High,Standard Supervision,0,1
+Y02953,15,Prior Record,1,0.33,4,87.7,High,Tough Love,0,1
+Y02954,14,First-Time,0,0.924,4,77.7,High,Tough Love,1,1
+Y02955,17,First-Time,0,0.9,9,15.0,Low,CBT,0,0
+Y02956,13,First-Time,0,0.842,8,27.6,Low,Tough Love,0,0
+Y02957,15,Prior Record,1,0.666,6,78.9,High,Tough Love,1,1
+Y02958,15,First-Time,0,0.904,9,31.1,Low,Vocational,0,0
+Y02959,15,Prior Record,1,0.444,5,81.6,High,Tough Love,1,1
+Y02960,17,First-Time,0,0.791,5,70.4,High,CBT,0,0
+Y02961,15,First-Time,0,0.503,4,58.1,Moderate,Tough Love,0,0
+Y02962,17,First-Time,0,0.876,6,58.6,Moderate,Standard Supervision,0,0
+Y02963,13,Prior Record,1,0.502,7,55.4,Moderate,CBT,0,0
+Y02964,16,First-Time,0,0.782,9,21.8,Low,Vocational,0,0
+Y02965,15,First-Time,0,0.847,6,66.4,High,Standard Supervision,0,0
+Y02966,14,First-Time,0,0.796,8,38.4,Low,Vocational,0,0
+Y02967,14,Prior Record,1,0.122,5,95.1,High,Vocational,1,1
+Y02968,16,Prior Record,1,0.319,4,88.4,High,Vocational,1,1
+Y02969,16,First-Time,0,0.941,3,53.2,Moderate,Vocational,0,0
+Y02970,16,Prior Record,1,0.657,4,94.2,High,Standard Supervision,1,1
+Y02971,13,First-Time,0,0.488,3,85.3,High,Standard Supervision,0,1
+Y02972,15,Prior Record,1,0.691,9,66.9,High,Standard Supervision,0,0
+Y02973,17,First-Time,0,0.619,7,46.4,Moderate,Tough Love,0,0
+Y02974,13,First-Time,0,0.47,6,57.2,Moderate,Tough Love,0,0
+Y02975,15,Prior Record,1,0.583,9,69.9,High,Vocational,0,0
+Y02976,15,First-Time,0,0.91,3,68.7,High,Vocational,0,0
+Y02977,17,First-Time,0,0.55,6,54.9,Moderate,Vocational,0,0
+Y02978,14,Prior Record,1,0.735,9,31.7,Low,Standard Supervision,0,0
+Y02979,15,Prior Record,1,0.768,5,87.9,High,Standard Supervision,1,1
+Y02980,16,First-Time,0,0.546,10,30.4,Low,Vocational,0,0
+Y02981,13,Prior Record,1,0.553,7,68.6,High,Standard Supervision,0,1
+Y02982,17,Prior Record,1,0.524,8,82.6,High,Tough Love,0,0
+Y02983,17,First-Time,0,0.809,9,24.6,Low,CBT,0,0
+Y02984,16,Prior Record,1,0.674,5,85.3,High,Vocational,0,0
+Y02985,16,First-Time,0,0.403,5,81.4,High,CBT,0,0
+Y02986,16,Prior Record,1,0.711,5,87.3,High,Tough Love,0,1
+Y02987,16,First-Time,0,0.528,4,77.2,High,Tough Love,0,0
+Y02988,17,First-Time,0,0.42,6,61.0,Moderate,CBT,0,0
+Y02989,15,First-Time,0,0.662,6,78.0,High,Standard Supervision,0,0
+Y02990,15,First-Time,0,0.735,9,17.4,Low,Vocational,0,0
+Y02991,16,Prior Record,1,0.749,6,82.5,High,Standard Supervision,0,0
+Y02992,13,Prior Record,1,0.53,10,52.2,Moderate,Standard Supervision,0,0
+Y02993,17,First-Time,0,0.752,2,82.8,High,Vocational,0,0
+Y02994,16,First-Time,0,0.85,4,75.8,High,Standard Supervision,0,0
+Y02995,16,First-Time,0,0.574,5,60.3,Moderate,Standard Supervision,1,1
+Y02996,14,First-Time,0,0.674,9,34.6,Low,CBT,0,0
+Y02997,14,First-Time,0,0.429,6,66.8,High,CBT,0,0
+Y02998,15,Prior Record,1,0.548,2,92.5,High,Tough Love,0,0
+Y02999,16,Prior Record,1,0.82,5,88.7,High,CBT,0,0
